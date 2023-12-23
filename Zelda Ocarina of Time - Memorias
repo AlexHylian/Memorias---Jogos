@@ -1,46 +1,46 @@
-# 0x11a5d4	- Link Age
+# 0x11a5d4 - Link Age
 00 = Adult
 01 = Child
-# 0x11a5f0	- Death Count 16 bits
-# 0x11a5fc	- Max Hearts Containers 16 bits
-# 0x11a600	- Current Magic
-# 0x11a602	- Player Health 16 bits
-# 0x11a606	- Rupees 16 bits
-# 0x11a609	- Spin attack Flag
-# 0x11a642  - Equipements
-# 0x11a643	- Equipements
-# 0x11a644	- Bow = Get 03
-# 0x11a645	- Bomb Bag = Get 02
-# 0x11a648	- Ocarinas
+# 0x11a5f0 - Death Count 16 bits
+# 0x11a5fc - Max Hearts Containers 16 bits
+# 0x11a600 - Current Magic
+# 0x11a602 - Player Health 16 bits
+# 0x11a606 - Rupees 16 bits
+# 0x11a609 - Spin attack Flag
+# 0x11a642 - Equipements
+# 0x11a643 - Equipements
+# 0x11a644 - Bow = Get 03
+# 0x11a645 - Bomb Bag = Get 02
+# 0x11a648 - Ocarinas
 07 = Fairy
 08 = Ocarina of Time
-# 0x11a649	- Fairy Slingshot = Get 06
-# 0x11a64a	- Din's Fire
-# 0x11a64e	- Hookshot Type
+# 0x11a649 - Fairy Slingshot = Get 06
+# 0x11a64a - Din's Fire
+# 0x11a64e - Hookshot Type
 Hookshot = Get 0a
 Longshot = Get 0b
-# 0x11a650	- Hammer = Get 11
-#0x11a651	- Magic Beans = Get 10
-#0x11a652	- Lens of Truth = Get 0f
-#0x11a653	- Boomerang = Get 0e
-# 0x11a654	- Bottle
-# 0x11a655	- Bottle
-# 0x11a657	- Light Arrow = Get 12
-# 0x11a659	- Adult Quest
+# 0x11a650 - Hammer = Get 11
+# 0x11a651 - Magic Beans = Get 10
+# 0x11a652 - Lens of Truth = Get 0f
+# 0x11a653 - Boomerang = Get 0e
+# 0x11a654 - Bottle
+# 0x11a655 - Bottle
+# 0x11a657 - Light Arrow = Get 12
+# 0x11a659 - Adult Quest
 2f = Cojiro
-# 0x11a65d	- Ammount of Bombs
-# 0x11a65e	- Ammount of Deku Nuts
-# 0x11a65f	- Ammount of Deku Stick
-# 0x11a661	- Ammount of Slingshots
-# 0x11a66e	- Item Flag
+# 0x11a65d - Ammount of Bombs
+# 0x11a65e - Ammount of Deku Nuts
+# 0x11a65f - Ammount of Deku Stick
+# 0x11a661 - Ammount of Slingshots
+# 0x11a66e - Item Flag
 Bit6 = Mirror Shield
-# 0x11a66f	- Item Flag
+# 0x11a66f - Item Flag
 Bit5 = Iron Boots
 Bit6 = Hover Boots
-# 0x11a670	- Event Flag
+# 0x11a670 - Event Flag
 Bit6 = Goron's Bracelet
 Bit7 = Silver Gauntlets
-# 0x11a674	- Medallions and Songs
+# 0x11a674 - Medallions and Songs
 Bit0 = Forest Medallion
 Bit1 = Fire Medallion
 Bit2 = Water Medallion
@@ -49,8 +49,8 @@ Bit4 = Shadow Medallion
 Bit5 = Light Medallion
 Bit6 = Minuet of Forest
 Bit7 = Bolero of Fire
-# 0x11a675	- Song Flag
-# 0x11a676	- Item Flag
+# 0x11a675 - Song Flag
+# 0x11a676 - Item Flag
 Bit0=Song of Time
 Bit1=Song of Storms
 Bit2=Kokiri's Emerald
@@ -58,152 +58,152 @@ Bit3=Goron's Ruby
 Bit4=Zora's Sapphire
 Bit6=Gerudo Membership Card
 Bit7=Gold Skulltula Token Display
-# 0x11a678	- Dungeon Itens - Forest Temple
+# 0x11a678 - Dungeon Itens - Forest Temple
 Bit0 = Dungeon Boss Key
 Bit1 = Dungeon Compass
 Bit2 = Dungeon Map
-# 0x11a679	- Dungeon Itens - Jabu Jabu Belly
+# 0x11a679 - Dungeon Itens - Jabu Jabu Belly
 Bit1 = Dungeon Compass
 Bit2 = Dungeon Map
-# 0x11a67a	- Dungeon Itens - Dodongo Cavern
+# 0x11a67a - Dungeon Itens - Dodongo Cavern
 Bit1 = Dungeon Compass
 Bit2 = Dungeon Map
-# 0x11a67b	- Dungeon Itens - Deku Tree
+# 0x11a67b - Dungeon Itens - Deku Tree
 Bit1 = Dungeon Compass
 Bit2 = Dungeon Map
-# 0x11a67c	- Dungeon Itens - Shadow Temple
+# 0x11a67c - Dungeon Itens - Shadow Temple
 Bit0 = Dungeon Boss Key
 Bit1 = Dungeon Compass
 Bit2 = Dungeon Map
-# 0x11a67d	- Dungeon Itens - Spirit Temple
+# 0x11a67d - Dungeon Itens - Spirit Temple
 Bit0 = Dungeon Boss Key
 Bit1 = Dungeon Compass
 Bit2 = Dungeon Map
-# 0x11a67e  - Dungeon Itens - Water Temple
+# 0x11a67e - Dungeon Itens - Water Temple
 Bit0 = Dungeon Boss Key
 Bit1 = Dungeon Compass
 Bit2 = Dungeon Map
-# 0x11a67f  - Dungeon Itens - Fire Temple
+# 0x11a67f - Dungeon Itens - Fire Temple
 Bit0 = Dungeon Boss Key
 Bit1 = Dungeon Compass
 Bit2 = Dungeon Map
-# 0x11a681  - Dungeon Itens - Ganon's Tower
+# 0x11a681 - Dungeon Itens - Ganon's Tower
 Bit0 = Boss Key
 # 0x11a682  - Dungeon Itens - ??
 Bit1 = Dungeon Compass
 Bit2 = Dungeon Map
-# 0x11a683  - Dungeon Itens - Bottom of the Well
+# 0x11a683 - Dungeon Itens - Bottom of the Well
 Bit1 = Dungeon Compass
 Bit2 = Dungeon Map
-# 0x11a68c	- Small Keys - Forest Temple
-# 0x11a690	- Small Keys - Shadow Temple
-# 0x11a691	- Small Keys - Spirit Temple
-# 0x11a692	- Small Keys - Water Temple
-# 0x11a693	- Small Keys - Fire Temple
-# 0x11a697	- Small Keys - Botton of the Well
-# 0x11a69b	- Gerudo Fortress Keys
-# 0x11a6a2	- Skulltula Display
-# 0x11b46c	- Skulltulas Tokens
+# 0x11a68c - Small Keys - Forest Temple
+# 0x11a690 - Small Keys - Shadow Temple
+# 0x11a691 - Small Keys - Spirit Temple
+# 0x11a692 - Small Keys - Water Temple
+# 0x11a693 - Small Keys - Fire Temple
+# 0x11a697 - Small Keys - Botton of the Well
+# 0x11a69b - Gerudo Fortress Keys
+# 0x11a6a2 - Skulltula Display
+# 0x11b46c - Skulltulas Tokens
 Bit0 = Deku Tree
 Bit1 = Deku Tree
 Bit2 = Deku Tree
 Bit3 = Deku Tree
-# 0x11b46d	- Skulltulas Tokens
+# 0x11b46d - Skulltulas Tokens
 Bit0 = Dodongo Cavern
 Bit1 = Dodongo Cavern
 Bit2 = Dodongo Cavern
 Bit3 = Dodongo Cavern
 Bit4 = Dodongo Cavern
-# 0x11b46e	- Skulltulas Tokens
+# 0x11b46e - Skulltulas Tokens
 Bit0 = Jabu Jabu Belly
 Bit1 = Jabu Jabu Belly
 Bit2 = Jabu Jabu Belly
 Bit3 = Jabu Jabu Belly
-# 0x11b46f	- Skulltulas Tokens
+# 0x11b46f - Skulltulas Tokens
 Bit0 = Forest Temple
 Bit1 = Forest Temple
 Bit2 = Forest Temple
 Bit3 = Forest Temple
 Bit4 = Forest Temple
-# 0x11b470	- Skulltulas Tokens
+# 0x11b470 - Skulltulas Tokens
 Bit0 = Fire Temple
 Bit1 = Fire Temple
 Bit2 = Fire Temple
 Bit3 = Fire Temple
 Bit4 = Fire Temple
-# 0x11b471	- Skulltulas Tokens
+# 0x11b471 - Skulltulas Tokens
 Bit0 = Water Temple
 Bit1 = Water Temple
 Bit2 = Water Temple
 Bit3 = Water Temple
 Bit4 = Water Temple
-# 0x11b472	- Skulltulas Tokens
+# 0x11b472 - Skulltulas Tokens
 Bit0 = Spirit Temple
 Bit1 = Spirit Temple
 Bit3 = Spirit Temple
 Bit2 = Spirit Temple
 Bit4 = Spirit Temple
-# 0x11b473	- Skulltulas Tokens
+# 0x11b473 - Skulltulas Tokens
 Bit0 = Shadow Temple
 Bit1 = Shadow Temple
 Bit2 = Shadow Temple
 Bit3 = Shadow Temple
 Bit4 = Shadow Temple
-# 0x11b474	- Skulltula Tokens
+# 0x11b474 - Skulltula Tokens
 Bit0 = Botton of the Well
 Bit1 = Botton of the Well
 Bit2 = Botton of the Well
-# 0x11b475	- Skulltulas Tokens
+# 0x11b475 - Skulltulas Tokens
 Bit0 = Ice Cavern
 Bit1 = Ice Cavern
 Bit2 = Ice Cavern
-# 0x11b4aa	- Event Flag
+# 0x11b4aa - Event Flag
 Bit5 = Finished Dodongo's Cavern
-# 0x11b4ac	- Event Flag
+# 0x11b4ac - Event Flag
 Bit5 = Jabu Jabu Belly first animation
-# 0x11b4ae	- Event Flag
+# 0x11b4ae - Event Flag
 Bit5 = Ganondorf after master sword
-# 0x11b4af	- Event Flag
+# 0x11b4af - Event Flag
 Bit0 = Reached in Fire temple, first time
-# 0x11b4b8	- Event Flag
+# 0x11b4b8 - Event Flag
 Bit0 = Dodongo's Cavern first animation
-# 0x11b4b9	- Event Flag
+# 0x11b4b9 - Event Flag
 Bit3 = Forest Barrier
 Bit4 = Water Barrier
 Bit5 = Shadow Barrier
 Bit6 = Fire Barrier
 Bit7 = Light Barrier
-# 0x11b4bb	- Event Flag
+# 0x11b4bb - Event Flag
 Bit5 = Desert Barrier
-# 0x11b4be	- Event Flag
+# 0x11b4be - Event Flag
 Bit3 = 2nd Part of Ganon's Castle first animation
 Bit5 = Deku Tree First Animation
-# 0x11b4e9	- Event Flag
+# 0x11b4e9 - Event Flag
 Bit2 = Darunia - Fire Temple
-# 0x11b4f2	- Event Flag
+# 0x11b4f2 - Event Flag
 Bit1 = Meet with Ruto in Jabu Jabu Belly
 Bit2 = Meet with Ruto in Jabu Jabu Belly
 Bit3 = Meet with Ruto in Jabu Jabu Belly
 Bit5 = Ruto find the Zora Sapphire
 Bit6 = Octopus Appear
 Bit7 = Ruto find the Zora Sapphire
-# 0x11b4fe	- Event Flag
+# 0x11b4fe - Event Flag
 Bit3 = Forest Temple first animation
 Bit4 = Fire Temple first animation
 Bit5 = Water Temple first time
 Bit6 = Spirit Temple first time
 Bit7 = Shadow Temple first time
-# 0x11b4ff	- Event Flag
+# 0x11b4ff - Event Flag
 Bit1 = Ice Cavern first animation
 Bit3 = Gerudo Training Ground first animation
 Bit5 = Ganon's Castle
-# 0x11b500	- Event Flag
+# 0x11b500 - Event Flag
 Bit0 = Started the Game
-# 0x11b92c	- Game Mode
+# 0x11b92c - Game Mode
 00 = Boot / Gameplay
 01 = Title Screen
 02 = File Select Screen
-# 0x124e54	- Music ID
+# 0x124e54 - Music ID
 18 = Dodongo's Cavern / Gerudo Training Grounds
 1b = Boss Battle
 1c = Deku tree
@@ -224,8 +224,8 @@ Bit0 = Started the Game
 63 = Ganon's Castle
 64 = Ganondorf Medley
 65 = Ganon Theme
-# 0x124e56	- Music ID Backup
-# 0x1c8546	- Map ID
+# 0x124e56 - Music ID Backup
+# 0x1c8546 - Map ID
 0=in the Deku Tree
 1=in Dodongo Cavern
 2=in Jabu-Jabu's Belly
@@ -328,13 +328,13 @@ Bit0 = Started the Game
 0x63=at Lon Lon Ranch
 0x64=in Ganon's Castle
 0x65=in the Jungle Gym
-# 0x1c8a00	- Enemy Pointer 32 bits
+# 0x1c8a00 - Enemy Pointer 32 bits
 +02 = Enemy ID
 +AC = Enemy HP
 Enemy ID Hex
 C6 = Big Octopus
 
-# 0x1ca1c8	- Room Events
+# 0x1ca1c8 - Room Events
 ---------- Deku Tree ----------
 Bit0 = Web Spider
 Bit2 = Switch
@@ -392,7 +392,7 @@ Bit7 = Unlocked Door (key door)
 ---------- Ganon's Tower ----------
 Bit6 = Ice Wall
 
-# 0x1ca1c9	- Room Events
+# 0x1ca1c9 - Room Events
 ---------- Deku Tree ----------
 Bit1 = Web Spider
 Bit2 = Navi Dialogue - Doors
@@ -444,7 +444,7 @@ Bit7 = Switch
 Bit2 = Web Spider - Desert Trial
 Bit3 = Iron Door - Desert Trial
 
-# 0x1ca1ca	- Room Events
+# 0x1ca1ca - Room Events
 ---------- Deku Tree ----------
 Bit4 = Platform Down
 ---------- Bottom of the Well ----------
@@ -499,7 +499,7 @@ Bit3 = Switch - Desert Trial
 ---------- Ganon's Tower II Part ----------
 Bit4 = Boss Door Unlocked
 
-# 0x1ca1cb	- Room Events
+# 0x1ca1cb - Room Events
 ---------- Bottom of the Well ----------
 Bit3 = Door Unlocked - Key Door
 Bit4 = Door Unlocked - Key Door
@@ -557,7 +557,7 @@ Bit4 = Switch
 Bit5 = Unlocked Door (key door)
 Bit6 = Unlocked Door (key door)
 
-# 0x1ca1cc	- Room Events
+# 0x1ca1cc - Room Events
 ---------- Deku Tree ----------
 Bit3 = Stairs Dowm
 ---------- Dodongo's Cavern ----------
@@ -579,11 +579,11 @@ Bit0 = Sun Puzzle
 ---------- Ganon's Tower ----------
 Bit7 = Ice Wall
 
-# 0x1ca1cd	- Room Events
+# 0x1ca1cd - Room Events
 ---------- Forest Temple ----------
 Bit3 = Switch
 
-# 0x1ca1ce	- Room Events - Flags = Activated / Desactivated
+# 0x1ca1ce - Room Events - Flags = Activated / Desactivated
 ---------- Water Temple ----------
 Bit1 = Colored Switch
 ---------- Spirit Temple ----------
@@ -593,7 +593,7 @@ Bit4 = Sun Puzzle
 Bit5 = Iron Door
 Bit6 = Sun Puzzle
 
-# 0x1ca1cf	- Room Events - Flags = Activated / Desactivated
+# 0x1ca1cf - Room Events - Flags = Activated / Desactivated
 ---------- Deku Tree ----------
 Bit4 = Torch Puzzle
 Bit5 = Switch
@@ -619,7 +619,7 @@ Bit0 = Ship
 ---------- Spirit Temple ----------
 Bit1 = Switch
 
-# 0x1ca1d8	- Room Events
+# 0x1ca1d8 - Room Events
 ---------- Deku Tree ----------
 Bit1 = Chest - Fairy Slingshot
 Bit2 = Chest - Dungeon Compass
@@ -702,7 +702,7 @@ Bit5 = Chest - Gold Glauntets
 Bit6 = Chest - Recovery Heart
 Bit7 = Chest - Ice Trap
 
-# 0x1ca1d9	- Room Events
+# 0x1ca1d9 - Room Events
 ---------- Bottom of the Well ----------
 Bit0 = Chest - Small Key
 Bit1 = Chest - Recovery Heart
@@ -760,7 +760,7 @@ Bit7 = Chest - Ice Trap
 ---------- Ganon's Tower II Part ----------
 Bit3 = Chest - Boss Key
 
-# 0x1ca1da	- Room Events
+# 0x1ca1da - Room Events
 ---------- Bottom of the Well ----------
 Bit0 = Chest - Blue Rupee (Randomizer Chest)
 ---------- Shadow Temple ----------
@@ -784,7 +784,7 @@ Bit0 = Chest - Small Key
 Bit1 = Chest - Small Key
 Bit2 = Chest - Bombchus - Desert Trial
 
-0x1ca1dc	- Room Events
+0x1ca1dc - Room Events
 ---------- Deku Tree ----------
 Bit1 = Scrub Puzzle
 ---------- Jabu Jabu Belly ----------
@@ -803,13 +803,13 @@ Bit1 = Iron Door
 Bit1 = Iron Door
 Bit3 = Chest Appear
 
-# 0x1ca1dd	- Room Events - Flags = Activated / Desactivated
+# 0x1ca1dd - Room Events - Flags = Activated / Desactivated
 ---------- Water Temple ----------
 Bit5 = Iron Door unlocked (Dark Link Room)
 ---------- Shadow Temple ----------
 Bit5 = Iron Door unlocked
 
-# 0x1ca1e4	- Room Events
+# 0x1ca1e4 - Room Events
 ---------- Bottom of the Well ----------
 Bit1 = Small Key
 ---------- Ice Cavern ----------
@@ -819,7 +819,7 @@ Bit1 = Small Key
 ---------- Gerudo Training Grounds ----------
 Bit1 = Small Key
 
-# 0x1ca1e7	- Room Events
+# 0x1ca1e7 - Room Events
 ---------- Bottom of the Well ----------
 Bit7 = Recovery Heart
 ---------- Dodongo's Cavern ----------
@@ -839,7 +839,7 @@ Bit7 = Heart Container
 ---------- Twinrova Lair ----------
 Bit7 = Heart Container
 
-# 0x1ca1e8	- Room Events
+# 0x1ca1e8 - Room Events
 ---------- Bottom of the Well ----------
 Bit0 = Recovery Heart
 Bit7 = Pot
@@ -852,7 +852,7 @@ Bit7 = Pot
 ---------- Shadow Temple ----------
 Bit7 = Pot
 
-# 0x1ca1e9	- Room Events
+# 0x1ca1e9 - Room Events
 ---------- Dodongo's Cavern ----------
 Bit0 = Pot
 Bit1 = Pot
@@ -868,7 +868,7 @@ Bit7 = Recovery Heart
 ---------- Shadow Temple ----------
 Bit4 = Pot
 
-# 0x1ca1ea	- Room Events
+# 0x1ca1ea - Room Events
 ---------- Dodongo's Cavern ----------
 Bit0 = Recovery Heart
 Bit2 = Pot
@@ -882,17 +882,17 @@ Bit7 = Recovery Heart
 Bit0 = Pot
 Bit1 = Pot
 
-# 0x1e22bc	- Enemy HP - Octopus
-# 0x1e279c	- Enemy HP - Octopus - Save 2
-# 0x1e71fc	- Phanton Ganon HP
-# 0x1e840c	- Enemy HP - Ghoma
-# 0x1ea2ec	- Volvagia HP
-# 0x1ecb76	- King Dodongo HP
-# 0x1ee9ec	- Bongo Bongo HP
-# 0x1f253c	- Morpha HP
-# 0x1f9520	- Barinade Animations 32 bits - Check in 8 bits for separated values
+# 0x1e22bc - Enemy HP - Octopus
+# 0x1e279c - Enemy HP - Octopus - Save 2
+# 0x1e71fc - Phanton Ganon HP
+# 0x1e840c - Enemy HP - Ghoma
+# 0x1ea2ec - Volvagia HP
+# 0x1ecb76 - King Dodongo HP
+# 0x1ee9ec - Bongo Bongo HP
+# 0x1f253c - Morpha HP
+# 0x1f9520 - Barinade Animations 32 bits - Check in 8 bits for separated values
 There is no Health for this boss, everything is defined by the state of animation, because the state has "phases" that indicate in which state the boss presents, each state is changed as soon as he is buried, the memory "0x1f9590" shows the total damage remaining for him to bury himself
-# 0x1f9521	- Barinade Animations - Hex 1
+# 0x1f9521 - Barinade Animations - Hex 1
 08 = Starting Arena
 09 = Starting Arena
 0a = Starting Fight
@@ -901,10 +901,10 @@ There is no Health for this boss, everything is defined by the state of animatio
 0d = Fight
 0f = Killed
 18 = Finished all animations
-# 0x1f9590	- Barinade State for hits 32 bits - Save 1
-# 0x1f9724	- Barinade "cry" time 32 bits
-# 0x1f9758	- Barinade Frames Moves 32 bits
-# 0x1f975c	- Barinade Frames Moves 32 bits - 2
-# 0x1f9a4c	- Twinrova HP
-# 0x1fa2dc	- Ganon HP
-# 0x20b5cc	- Ganondorf HP
+# 0x1f9590 - Barinade State for hits 32 bits - Save 1
+# 0x1f9724 - Barinade "cry" time 32 bits
+# 0x1f9758 - Barinade Frames Moves 32 bits
+# 0x1f975c - Barinade Frames Moves 32 bits - 2
+# 0x1f9a4c - Twinrova HP
+# 0x1fa2dc - Ganon HP
+# 0x20b5cc - Ganondorf HP
