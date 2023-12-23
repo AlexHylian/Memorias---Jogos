@@ -1,0 +1,655 @@
+# Resident-Evil-3---Dreamcast
+Memorias da versão do Dreamcast - Resident Evil 3
+
+# 0x66e744 - Nemesis Event
+00 = No Event
+01 = Event
+
+# 0x6aab34	- Enemy Pointer 32 bits - Mais perto da região do bloco de entidades
++04 = Enemy Animations 32 Bits
++34 = Enemy Coord Y 32 Bits
++3C = Enemy Coord X 32 Bits
++4A = Enemy ID
++6C = Enemy Rotate Frames - 32 Bits
++CC = Enemy HP 16 Bits
++CE = Enemy Total Health 16 Bits
++D3 = Enemy Health State - Does not work for all enemies
++1CC = Frames to the Next Attack
++1DD = Type of enemy attack?
+
+# 0x893af1	- D-Pad
+Bit4 = UP
+Bit5 = Right
+Bit6 = Down
+Bit7 = Left
+
+# 0x893e98 - Player State
+# 0x893e9a - Player State 3
+# 0x893ec8 - Player Coord Y 32 bits
+# 0x893ed0 - Player Coord X 32 bits
+# 0x893f00 - Player Rotate 32 bits
+# 0x893f60 - Player HP
+# 0x893fa8 - Player Pointer - Carlos Partner Only 32 bits - obs = when jill is alone the pointer will be for jill
++04 = Carlos State 32 bits
++CC = Carlos Health
+
+# 0x8991f8 - IGT 32 bits
+
+# 0x899200 - Difficulty
+00 = Hard
+01 = Easy
+
+# 0x899202 - Unlockable Content
+Bit6 = Infinite Ammo for all Weapons
+Bit7 = Infinite Assault Rifle
+
+# 0x899203 - Unlockable Content
+Bit0 = Infinite Ammo Gatling Gun
+Bit1 = Infinite Ammo Rocket Launcher
+Bit2 = This bit will on when the epilogue screen appear
+
+# 0x89920e - Epilogue Screen, Trigger after the screen
+00 = No Epilogues Yet
+01 = Jill
+02 = Chris
+03 = Barry
+04 = Leon
+05 = Claire
+06 = Sherry
+07 = Ada
+08 = Hunk
+
+# 0x899220 - Temporary Event Flag
+Water Sample A - Counter
+
+# 0x899222 - Temporary Event Flag
+Water Sample B - Counter
+
+# 0x899224 - Temporary Event Flag
+Water Sample C - Counter
+
+# 0x899246 - Secondary Background
+
+# 0x899248 - Map ID
+
+# 0x89924a - Camera ID
+
+# 0x899250 - Game Actions	
+
+# 0x899256 - Char ID
+00 = Jil
+08 = Carlos
+09 = Mikhail
+0a = Nicholai
+0b = Brad
+0c = Dario
+0f = Tofu
+
+# 0x89925a - Carlos Health Address Clone - Will activate only if he has following jill
+
+# 0x899262 - Mercenaries Clock - IGT 16 bits
+
+# 0x899264 - Temporary Event Flag
+Bit1 = Related with nemesis junping the window in rpd
+Bit4 = Related with nemesis alive in restaurant after barbecue cutscene
+
+# 0x899266 - Dodge Counter 16 bits
+
+# 0x899268 - Mercenaries Clock - Countdown 16 bits
+77 = Start
+
+# 0x89926a - Event Flag
+Bit1 = Nemesis - Forked Alley - 4th Nemesis Appear
+
+# 0x89926c - Temporary Event Flag
+Bit0 = No Idea but triggers when the black screen with carlos and jill will finish
+
+# 0x899270 - Event Flag
+Bit2 = Second Animation in CableCar Rear Carriage
+Bit1 = First Animation in CableCar Rear Carriage
+Bit2 = Dog in Forked Alley Jumps the fire barricade
+Bit4 = Brad/Zombie escape from Business Back Street Room
+Bit5 = Nemesis breaks any window - Police Station
+Bit6 = Related with Carlos in radio in STARS Office but no idea, triggers at the same time
+
+# 0x899271 - Temporary Event flag
+Bit1 = Related when you first enter the RPD station, this is probably a flag that the nemesis will push the door
+Bit3 = Zombies jumping on the window in Barricaded passage
+Bit4 = Mikahil cutscene with zombies
+Bit6 = Choose Escape from the water in the basement
+
+# 0x899272 - Event Flag
+Bit1 = Jill and Carlos in Restaurant (enter in basement)
+Bit2 = Jill and Carlos in Restaurant
+Bit3 = Jill and Carlos after Restaurant
+Bit4 = First Cutscene in the first map
+Bit5 = Cranck Done, door opened - Private Backyard
+Bit6 = Carlos Radio in STARS Office
+Bit7 = Police Station - Main Hall - Password Checked
+
+Mercenaries Event Flag
+Bit3 = UBCS Member
+Bit4 = UBCS Member
+Bit5 = Marvin
+Bit6 = Brad
+Bit7 = Promo Girl
+
+# 0x899273 - Event Flag
+Bit0 = Zombie jump off the police car in back main street
+Bit4 = Nemesis Jumps through the window - Police Station
+Bit5 = Carlos and Jill Animation alternate - Press Office
+Bit7 = Bar Jack's cutscene
+
+Mercenaries Event
+Bit0 = Dario Rescued
+
+# 0x899274 - Event Flag
+Bit0 = Switch on in Press Office Lobby
+Bit2 = Cutscene in Sales Office when nikolai kill the solider
+Bit5 = First Animation in the Train
+Bit6 = Related with Carlos and Jill after Restaurant
+Bit7 = Reached the Clock Town without choose the action or emergency Break
+
+# 0x899275 - Event Flag
+Bit0 = Cutscene Clock Tower - Nemesis appear
+Bit2 = You don't choose a action in Sub Station
+Bit3 = Youu choose a action in Sub Station (pushing the door)
+Bit4 = Youu choose a action in Sub Station (Eletricity the door)
+Bit5 = You choose a action in restaurant (nemesis encounter)
+Bit6 = Jill and Carlos in restaurant before nemesis appear
+Bit7 = Jill Choose enter in police station against nemesis
+
+# 0x899276 - Event Flag
+But0 = Buttons puzzles in gas station shop done
+Bit1 = Gas Station Shop first explosion
+Bit2 = Carlos cutscene with zombie in Gas Station Shop
+Bit3 = Carlos appear in Gas Station Shop
+Bit5 = Cutscene in train after you take the flame rounds
+Bit6 = Window Option after defeated nemesis in the train
+Bit7 = Window Option - 3rd Nemesis - Office
+
+# 0x899277 - Event Flag
+Bit0 = Carlos and Jill clock town after jumped the window
+Bit2 = Barricaded Back Passage, trap destroyed
+Bit3 = Mixed Oil Done, Train
+Bit4 = Power Cable Done, Train
+Bit5 = Fuse Done, Train
+Bit6 = Mikahil last cutscene in train after jill saved he
+Bit7 = Animation in Cable Car Front Carriage, Trigger when you receive the Side Pack
+
+# 0x899278 - Event Flag
+Bit0 = Door with cod 20 opened - Sub Station
+Bit1 = Door with cod 120 opened - Sub Station
+Bit3 = Power On - Sub Station
+Bit5 = Cutscene in Hospital, Nicholai kill the solider
+Bit7 = You choose Jump at bridge, nemesis encounter
+
+# 0x899279 - Event Flag
+Bit0 = Nemesis Break the Hydrant - 4th Nemesis
+Bit1 = You don't choose a action in garage / Jump Off
+Bit2 = Carlos cutscene in gas station after jill opened the door to help carlos
+Bit3 = Window in gas station after first explosion
+Bit4 = Wrench used in Gas Station
+Bit5 = You choose hide the chicken basement
+Bit6 = Tremors in Chapel - Clock Tower
+Bit7 = Elevator Opened - Hospital
+
+# 0x89927a - Event Flag
+Bit1 = Used the iron pipe in the graveyard cabin
+Bit2 = Jill and Nicholai at Graveyard Cabin
+Bit3 = Zombies Appear in clock town Bedrorm
+Bit5 = Dario Rosso Daughter say heeelp at the benning of the game
+Bit7 = Pool Guy Screaming
+
+# 0x89927b - Event Flag
+Bit0 = Bard Shooting in Private Backyard
+Bit5 = Carlos and Jill after defeat nemesis in clock tower
+Bit6 = Door Destroyed in Press Office Lobby
+Bit7 = Door Opened in Press Office Lobby
+
+# 0x89927c - Event Flag
+Bit2 = Nemesis Appear in Three Points Street
+Bit5 = Nemesis trying destroy the wall
+Bit6 = First cutscene after finished the hospital quest
+Bit7 = Clock Puzzle Solved
+
+# 0x89927d - Event Flag
+Bit0 = You choose the action in cog room, nemesis electrified
+Bit2 = Puzzle Done in Room 402
+Bit6 = Used the Lighter in the Graveyard Cabin
+Bit7 = Zombies breaking the window in Piano Room - Clock Tower
+
+# 0x89927e - Event Flag
+Bit0 = Alert in Secret Communications Room
+Bit1 = Crow jumping the window in Parking Area
+Bit2 = Second Monster without animation
+Bit3 = Monster Appear in Maintenance Area
+Bit4 = Battery done, Elevator done in Maintence Area
+
+# 0x89927f - Event Flag
+Bit2 = Blue Gem done
+Bit3 = Green Gem Done
+Bit4 = Zombies Cutscene in Salles Office
+Bit5 = Carlos Killing zombies at Water Filter Passage
+Bit7 = Door in Sub Station Pushed
+
+# 0x899280 - Event Flag
+Bit0 = Door Opened inThree Points Street
+Bit1 = Clock Town Event - After put Chronos Gear
+Bit2 = Final Explosion cutscene in gas station / Clock Tower Worked again
+
+# 0x899281 - Event Flag
+Bit5 = Bronze Compass done - Three Points Street
+
+# 0x899282 - Event Flag
+Bit0 = Window in City Hall Gate
+Bit1 = Zombies has finished eating the crazy guy in Warehouse
+Bit2 = Tremors in Garage
+Bit3 = Rusted Cranck Broken
+Bit4 = Brad vs Nemesis
+Bit5 = Nemesis Appear at Balcony in Clock Tower
+Bit6 = Clock Tower Worked again - Chronos Gear
+Bit7 = Related the Dance Statuet
+
+# 0x899283 - Event Flag
+Bit1 = Zombies jumping the window inThree Points Street
+Bit3 = Zombie has opened the door in Sub Station
+Bit6 = Window in Press Office Lobby
+Bit7 = Jill fire the cest on the top of Maintence Area
+
+# 0x899284 - Event Flag
+Bit1 = if you skip the Carlos Saving Jill cutscene will trigger
+Bit3 = Related the Dance Statuet
+Bit4 = Hospital Destroyed
+Bit5 = Used the Wrench
+Bit6 = Tremors in Drainage Passage
+
+# 0x899285 - Event Flag?
+Bit2 = Medium Base done - Experiment room
+Bit3 = Synthetase on - Experiment Room
+Bit4 = Witch the Electric Power Supply on - experiment room
+Bit5 = Safe Box opened - Room 402
+
+# 0x899286 - Event Flag
+Bit2 = S.T.A.R.S menber dying by the dog in parking area
+Bit3 = Carlos say : SCUM in Water Feature Area
+Bit4 = Related with Monitor in Sales Office
+Bit5 = Nemesis Blind, you choose the action
+Bit6 = Zombies after you not choose the action in Sub Station
+
+# 0x899287 - Event Flag
+Bit2 = S.T.A.R.S menber dying by the dog in parking area
+Bit3 = Carlos say : SCUM in Water Feature Area
+Bit4 = Related with Monitor in Sales Office
+Bit5 = Nemesis Blind, you choose the action
+Bit6 = Zombies after you not choose the action in Sub Station
+
+# 0x899288 - Event Flag
+Bit1 = City Hall Gate Opened
+Bit2 = You opened the door after finished the carlos playthrough
+Bit4 = Nemesis Cutscene in Park Exit Walkway
+Bit5 = Barbecue dialog in restaurant
+
+# 0x899289 - Event Flag
+Bit0 = Water Sample Puzzle done
+Bit1 = Tremors in Lonsdale Yard
+Bit2 = Switch pressed in Steam Room
+Bit7 = Zombie - Graveyard - Scene
+Bit6 = Zombie - Graveyard - Scene
+
+# 0x89928a - Event Flag?
+Bit0 = Zombie - Graveyard - Scene
+Bit5 = Mikahil second scene
+Bit7 = Nemesis Break the door when you play as jill again after carlos playthrough
+
+# 0x89928b - Event Flag
+Bit0 = Nocholai at Communications Tower
+Bit3 = Jill Animation in Graveyard with Grave Digger
+Bit4 = painting opened Clock Town Bedroom
+Bit5 = Nemesis Killing Jill in the chapel, trigger after nemesis destroy the door and disappear after the white screen before the cutscene
+Bit7 = Tremors in Lonsdale Yard
+
+# 0x89928c - Event Flag
+Bit2 = Dario Russo in Container complaining
+Bit3 = Zombie Worked Up in Room 401
+Bit5 = Carlos cutscene in gas station with a lot of zombies
+Bit7 = System Disk used inTreatment Room Entry
+
+# 0x89928d - Event Flag??
+Bit0 = after escape of basement but for some reason will count after you reach the street
+Bit1 = Tremors in Car Yard - Scene
+Bit2 = Tremors in Car Yard
+Bit3 = Facility Key Scene
+Bit4 = Put the Water Sample on the Monitor
+Bit6 = Related with Elevators
+Bit7 = zombie jumped of the car in Construction Street
+
+# 0x89928e - Event Flag
+Bit4 = Nicholai shooting in Entry Corridor
+Bit5 = Door in Entry Corridor unlocked
+
+# 0x89928f - Event Flag
+Bit2 = Tremors in Rail
+Bit3 = Nemesis hit the Door of chapel
+Bit5 = First Animation in Ranccon Hospital
+Bit6 = Monster leave the window in zigzag alley
+Bit7 = Fountain Puzzle Done
+
+# 0x899292 - Temporary Address
+Bit5,6,7 = Buttons Gas Station
+
+# 0x899293 - Temporary Address - Switchs
+Bit3 = 2 Activated
+Bit4 = 1 Activated
+Bit5 = Bottom near machine
+Bit6 = Top near machine
+
+# 0x899298 - Enemy Flag
+Bit0 = Zombie - West Stairway 2f - Police Station
+Bit1 = Zombie - West Stairway 2f - Police Station
+Bit2 = Zombie - West Stairway 2f - Police Station
+Bit3 = Zombie - West Stairway 2f - Police Station
+Bit5 = Zombie - Winding Corridor
+Bit6 = Zombie - Winding Corridor
+Bit7 = Zombie - Residential Street
+
+# 0x8992a1 - Enemy Flag - The Mercenaries
+Bit7 = Nemesis 4
+
+# 0x8992a2 - Enemy Flag - The Mercenaries
+Bit0 = Nemesis 5
+
+# 0x8992a6 - Enemy Flag - The Mercenaries
+Bit3 = Nemesis 1
+
+# 0x8992a9 - Enemy Flag
+Bit0 = Zombie - Sales Office
+Bit1 = Zombie - Sales Office
+Bit2 = Zombie - Sales Office
+Bit3 = Zombie - Sales Office
+Bit4 = Zombie - Sales Office
+Bit5 = Zombie - Sales Office
+
+# 0x8992ab - Enemy Flag - The Mercenaries
+Bit6 = Nemesis 3
+
+# 0x8992b3 - Enemy Flag - The Mercenaries
+Bit7 = Nemesis 2
+
+# 0x8992bc - Enemy Flag
+Bit4 = Nemesis - Treatment Room
+
+# 0x8992c1 - Enemy Flag
+Bit6 = Zombie - Emergency Tunnel - Dead Factory 1F
+Bit7 = Zombie - Emergency Tunnel - Dead Factory 1F
+
+# 0x8992c9 - Enemy Flag
+Bit5 = Killed Nicholai on Communications Tower
+
+# 0x8992ce - Enemy Flag
+Bit4 = Zombie - Control Room - Dead Factory 2F
+Bit5 = Zombie - Control Room - Dead Factory 2F
+Bit6 = Zombie - Control Room - Dead Factory 2F
+Bit7 = Zombie - Control Room - Dead Factory 2F
+
+# 0x8992cf - Enemy Flag
+Bit0 = Zombie - Control Room - Dead Factory 2F
+Bit1 = Zombie - Control Room - Dead Factory 2F
+
+# 0x8992db - Item Flag
+Bit0 = Magnum / G Launcher - Stars Office - Police Station
+Bit1 = Handgun Bullets - Stars Office - Police Station
+Bit2 = Lockpick - Stars Office - Police Station
+Bit3 = First Aid Spray - Stars Office - Police Station
+Bit4 = Marvin's Report - 05
+Bit5 = Backdoor key - Warehouse Office
+Bit6 = Ink Ribbon - Warehouse Office
+Bit7 = Gun Powder A - Warehouse Office
+
+# 0x8992df - Item Flag
+Bit0 = Fax from Kendo gun shop - 07
+Bit1 = Crank - Sales Office Patio
+Bit2 = Weapon in Sub Station
+Bit3 = Fuse - Sub Station
+Bit4 = Oil Additive
+Bit5 = Machine Oil in Gas Station Shop
+Bit6 = Wrench in Cable Car Front Carriage
+
+# 0x8992fd - Item Flag
+Bit1 = Vaccine Base
+
+# 0x899314 - Item Flag
+Bit4 = Dead Factory Map
+Bit6 = Clock Tower Map
+Bit7 = Hospital Map
+
+# 0x899315 - Item Flag
+Bit1 = Assault Rifle - 7th Nemesis
+Bit2 = F. Aid Box - 6th Nemesis
+
+# 0x89939f - Door Flag
+Bit0 = Stars Office door unlocked
+Bit5 = door unlocked in book shop street
+
+# 0x8993df - Door Visited Flag
+Bit0 = 401 Room
+
+# 0x899400 - Files Counter but only in order
+1e = Jill's Diary
+
+# 0x899404 - Invetory Slot 1
+0x00=None
+0x01=Knife
+0x02=Merc's Handgun
+0x03=Hand Gun
+0x04=Shotgun
+0x05=Magnum
+0x06=G. Launcher
+0x07=G. Launcher
+0x08=G. Launcher
+0x09=G. Launcher
+0x0a=Rocket Launcher
+0x0b=Gatling Gun
+0x0c=Mine Thrower
+0x0d=EAGLE 6.0
+0x0e=Assault Rifle
+0x0f=Assault Rifle
+0x10=Western Custom
+0x11=SIGPRO E
+0x12=M92F E
+0x13=Benelli M3S E
+0x14=M. Thrower E
+0x15=H. Gun Bullets
+0x17=Shotgun Shells
+0x18=Grenade Rounds
+0x1c=M.T. Rounds
+0x2f : S.T.A.R.S. Card (Jill)
+0x20=First Aid Spray
+0x21=Green Herb
+0x22=Blue Herb
+0x23=Red Herb
+0x24=G+G
+0x26=G+R
+0x27=G+G+G
+0x2a=F. Aid Box
+0x2b=Crank (Square)
+0x31=Battery
+0x33=Power Cable
+0x36=Oil Additive
+0x37=Card Case (Brad)
+0x38=S.T.A.R.S. Card (Brad)
+0x3a=Mixed Oil
+0x3c=Wrench
+0x41=Lighter Oil
+0x42=Empty Lighter
+0x43=Lighter
+0x44=Green Gem
+0x45=Blue Gem
+0x46=Amber Ball
+0x47=Obsidian Ball
+0x48=Crystal Ball
+0x4c=Gold Gear
+0x4d=Silver Gear
+0x4e=Chronos Gear
+0x4f=Bronze Book
+0x50=Bronze Compass
+0x51=Vaccine Medium
+0x52=Vaccine Base
+0x55=Vacine
+0x58=Medium Base
+0x59=EAGLE Parts A
+0x5a=EAGLE Parts B
+0x5b=M37 Parts A
+0x5c=M37 Parts B
+0x5e=Chronos Chain
+0x60=Card Key
+0x61=Gun Powder A
+0x62=Gun Powder B
+0x63=Gun Powder C
+0x64=Gun Powder AA
+0x65=Gun Powder BB
+0x69=Gun Powder AAA
+0x6c=Gun Power BBB
+0x72=Lockpick
+0x77=Clock T. Key (Bezel Key)
+0x78=Clock T. Key (Winder Key)
+0x79=Chronos Key
+0x7d=Park Key (Rear Gate Key)
+0x81=Ink Ribbon
+0x82=Reloading Tool
+
+# 0x899405 - Slot 1 %
+
+# 0x899406 - Special Flag?
+Bit0 = Normal Ammo
+Bit1,2,4 = Ammo with %
+Bit1,2,3,4 = Infinite Ammo
+NOTE: if it is a slot with only ammo, this flag will vary
+
+# 0x899408 - Inventory Slot 2
+
+# 0x899409 - Slot 2 %
+
+# 0x89940c - Inventory Slot 3
+
+# 0x89940d - Slot 3 %
+
+# 0x899410 - Slot 4
+
+# 0x899411 - Slot 4 %
+
+# 0x899414 - Slot 5
+
+# 0x899415 - Slot 5 %
+
+# 0x899418 - Slot 6
+
+# 0x899419 - Slot 6 %
+
+# 0x89941c - Slot 7
+
+# 0x89941d - Slot 7 %
+
+# 0x899420 - Slot 8
+
+# 0x899421 - Slot 8 %
+
+# 0x89952d - Equiped Item
+00 = None
+01 = Knife
+02 = Merc's Handgun
+03 = Handgun
+04 = Shotgun
+05 = Magnum
+06 = G. Launcher
+07 = G. Launcher
+08 = G. Launcher
+09 = G. Launcher
+0a = Rocket Launcher
+0b = Gatling Gun
+0c = Mini Tower
+0d = Eagle 6.0
+0e = Assault Rifle
+0f = Assault Rifle
+10 = Western Custom
+12 = M92F E
+
+# 0x899530 - Number of times used the Reloading tools to create Handgun Ammo
+
+# 0x899544 - Carlos Invetory Slot 1
+
+# 0x899545 - Carlos Invetory Slot 1 %
+
+# 0x89966d - Equiped Item Carlos
+
+# 0x899828 - Nemesis Killed Count
+
+# 0x89989d - Times used Healing Item
+
+# 0x8998a8 - Demo Play
+00 = No
+FF = Yes
+
+# 0x899900 - Jill Clothes
+00 = Jill Normal
+01 = Jill Black Jacket
+02 = Jill RE1
+03 = Jill White Clothes
+04 = Jill Police
+05 = Jill, Regina
+06 = Jill Normal but more beatiful :)
+07 = Jill Blue Clothes
+
+# 0x89a598 - Door State
+
+# 0x89b810 - Enemy Pointer 32 bits
+
+# 0x8ce074 - Last Cutscene ID
+00 = First Cutscene after you start the game
+01 = Brad vs Nemesis
+02 = Gas Station
+03 = Zombies in Sales Office
+04 = Nemesis Cable Rear Carriage
+05 = Train - Reached on Clock Tower
+06 = Nemesis Clock Tower
+07 = Hospital
+08 = Grave Digger
+09 = After Defeat Nemesis at Treatment Room
+0a = Ending - Carlos
+0b = Ending - Barry
+0c = First Cutscene - before the title screen
+
+# 0x984c20 - Rank Screen
+
+# 0x984c24 - Rank ID
+05 = A
+04 = B
+03 = C
+02 = D
+01 = E
+00 = F
+
+# 0x984c2c - Number of Saves - Rank Screen
+
+# 0x984c60 - Enemy Pointer 32 bits
+
+# 0x984c68 - Enemy Pointer 32 bits - more usable with carlos
+
+# 0x9850c4 - Enemy Pointer 32 bits
+
+# 0x988aac - Game Mode 32 bits
+0003 = Mercenaries / Title Screen 2
+0103 = Mercenaries - Starting the Game
+0105 = Mercenaries - In Game
+0203 = Load Game
+0503 = Mercenaries - Game Config
+0703 = Mercenaries - Result Screen
+0903 = Mercenaries - Exit
+050103 = New Game - Difficult Mode
+050105 = New Game
+0b0003 = Title Screen - Press Start Button
+0b0a05 = Demo Play
+
+# 0xc81cac - Dreamcast Clock Address 1 - 32 bits
+
+# 0xc81cb0 - Dreamcast Clock Address 2 - 32 bits
