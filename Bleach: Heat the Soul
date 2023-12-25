@@ -1,0 +1,399 @@
+# 0x94311c - Blockon mini game Level [Last Level ID] - VS CPU
+--- First Row ---
+08 = 1
+06 = 2
+04 = 3
+02 = 4
+00 = 5
+--- Second Row ---
+09 = 1
+07 = 2
+05 = 3
+03 = 4
+01 = 5
+Single Player
+01 = 1
+03 = 2
+05 = 3
+# 0x94adf4 - Blockon Mode Menu
+00 = Single Player
+01 = VS CPU
+02 = ?????
+03 = Text
+04 = Quit / off Mode
+# 0x94b568 - Blockon Mini Game Points 32 bits
+# 0x94cab8 - Frames in game 32 Bits
+# 0xa4e75c - Music ID?
+# 0xa4e798 - Music ID?
+# 0xa4e906 - Last Frames ID
+this memory shows the last frame of a video
+each new video go to 00 (Slow Frames)
+# 0xa4e908 - Last Glitch Screen
+This memmory shows the glitch after the video transition and go to 00 in video screen
+# 0xa4e934 - Bitflag for opening game
+00 = Boot
+01 = Opening
+FF = Finished or skiped the opening game
+# 0xa4e938 - Last Frames ID 16 Bits
+this memory shows the last frame of a video
+each new video go to 00
+# 0xa8ecd0 - BGM
+# 0xa9625c - Record Time Attack - Ichigo 32 Bits
+# 0xa9645c - Blockon Mini Game
+Bit0 = Mini Game 1 - Round 1 Clear
+Bit1 = Mini Game 1 - Round 2 Clear
+Bit2 = Mini Game 1 - Round 2 Clear - End
+Bit3 = Mini Game 2 - Round 1 Clear
+Bit4 = Mini Game 2 - Round 2 Clear
+Bit5 = Mini Game 2 - Round 3 Clear - End
+Bit6 = Mini Game 3 - Round 1 Clear
+Bit7 = Mini Game 3 - Round 2 Clear
+# 0xa9645d - Blockon Mini Game
+Bit0 = Mini Game 3 - Round 3 Clear - End
+Bit1 = Mini Game 4 - Round 1 Clear
+Bit2 = Mini Game 4 - Round 2 Clear
+Bit3 = Mini Game 4 - Round 3 Clear - End
+Bit4 = Mini Game 5 - Round 1 Clear
+Bit5 = Mini Game 5 - Round 2 Clear
+Bit6 = Mini Game 5 - Round 3 Clear - End
+Bit7 = Mini Game 6 - Round 1 Clear
+# 0xa9645e - Blockon Mini Game
+Bit0 = Mini Game 6 - Round 2 Clear
+Bit1 = Mini Game 6 - Round 3 Clear - End
+Bit2 = Mini Game 7 - Round 1 Clear
+Bit3 = Mini Game 7 - Round 2 Clear
+Bit4 = Mini Game 7 - Round 3 Clear - End
+Bit5 = Mini Game 8 - Round 1 Clear
+Bit6 = Mini Game 8 - Round 2 Clear
+Bit7 = Mini Game 8 - Round 3 Clear - End
+# 0xa9645f - Blockon Mini Game
+Bit0 = Mini Game 9 - Round 1 Clear
+Bit1 = Mini Game 9 - Round 2 Clear
+Bit2 = Mini Game 9 - Round 3 Clear - End
+Bit3 = Mini Game 10 - Round 1 Clear
+Bit4 = Mini Game 10 - Round 2 Clear
+Bit5 = Mini Game 10 - Round 3 Clear - End
+Bit6 = Mini Game 11 - Round 1 Clear
+Bit7 = Mini Game 11 - Round 2 Clear
+# 0xa96460 - Blockon Mini Game
+Bit0 = Mini Game 11 - Round 3 Clear - End
+Bit1 = Mini Game 12 - Round 1 Clear
+Bit2 = Mini Game 12 - Round 2 Clear
+Bit3 = Mini Game 12 - Round 3 Clear - End
+Bit4 = Mini Game 13 - Round 1 Clear
+Bit5 = Mini Game 13 - Round 2 Clear
+Bit6 = Mini Game 13 - Round 3 Clear - End
+Bit7 = Mini Game 14 - Round 1 Clear
+# 0xa96461 - Blockon Mini Game
+Bit0 = Mini Game 14 - Round 2 Clear
+Bit1 = Mini Game 14 - Round 3 Clear - End
+Bit2 = Mini Game 15 - Round 1 Clear
+Bit3 = Mini Game 15 - Round 2 Clear
+Bit4 = Mini Game 15 - Round 3 Clear - End
+Bit5 = Mini Game 16 - Round 1 Clear
+Bit6 = Mini Game 16 - Round 2 Clear
+Bit7 = Mini Game 16 - Round 3 Clear - End
+# 0xa96462 - Blockon Mini Game
+Bit0 = Mini Game 17 - Round 1 Clear
+Bit1 = Mini Game 17 - Round 2 Clear
+Bit2 = Mini Game 17 - Round 3 Clear - End
+Bit3 = Mini Game 18 - Round 1 Clear
+Bit4 = Mini Game 18 - Round 2 Clear
+Bit5 = Mini Game 18 - Round 3 Clear - End
+Bit6 = Mini Game 19 - Round 1 Clear
+Bit7 = Mini Game 19 - Round 2 Clear
+# 0xa96463 - Blockon Mini Game
+Bit0 = Mini Game 19 - Round 3 Clear - End
+Bit1 = Mini Game 20 - Round 1 Clear
+Bit2 = Mini Game 20 - Round 2 Clear
+Bit3 = Mini Game 20 - Round 3 Clear - End
+Bit4 = Mini Game 21 - Round 1 Clear
+Bit5 = Mini Game 21 - Round 2 Clear
+Bit6 = Mini Game 21 - Round 3 Clear - End
+# 0xa9646c - Times beated the story mode
+# 0xa96472 - Ammount of Cards
+86 = 134 cards
+# 0xa96474 - Event Flag
+Bit1 = Sound Mode Unlocked
+Bit3 = Appendix Mode Unlocked
+Bit4 = ??? Unlocked
+Bit5 = Renji Story Mode Unlocked
+# 0xa96475 - Event Flag
+Bit6 = Appendix - Blockon Mini Game Unlocked
+Bit7 = Appendix - Blockon Mini Game Multiplayer Unlocked
+# 0xa96476 - Event Flag
+Bit1 = Character Voice Unlocked
+Bit4 = System Voice Unlocked
+# 0xa96477 - Event Flag
+Bit5 = Character Voice Unlocked
+Bit6 = Character Voice Unlocked
+Bit7 = Character Voice Unlocked
+# 0xa96478 - Event Flag
+Bit0 = System Voice Unlocked
+Bit1 = System Voice Unlocked
+Bit2 = System Voice Unlocked
+Bit3 = System Voice Unlocked
+Bit4 = Sound Mode Unlocked
+Bit5 = Gallery Page Unlocked
+Bit6 = Movie Unlocked - OP
+Bit7 = Gallery Page Unlocked
+# 0xa96479 - Event Flag
+Bit0 = Character Voice Unlocked
+Bit1 = Gallery Page Unlocked
+Bit2 = System Voice Unlocked
+Bit3 = Gallery Page Unlocked
+Bit4 = System Voice Unlocked
+Bit5 = Gallery Page Unlocked
+Bit6 = Movie Radio Kon Unlocked
+Bit7 = Gallery Page Unlocked
+# 0xa9647a - Event Flag
+Bit0 = Gallery Page Unlocked
+# 0xa9647c - Total Money In Shop 32 Bits
+# 0xa96480 - Money earned in battle 32 bits
+# 0xa964a3 - Cards Flag
+Bit0 = Page 1 - Line 1 - Card 1
+Bit1 = Page 1 - Line 1 - Card 2
+Bit2 = Page 1 - Line 1 - Card 3
+Bit3 = Page 1 - Line 1 - Card 4
+Bit4 = Page 1 - Line 1 - Card 5
+Bit5 = Page 1 - Line 1 - Card 6
+Bit6 = Page 1 - Line 1 - Card 7
+Bit7 = Page 1 - Line 2 - Card 1
+# 0xa964a4 - Cards Flag
+Bit0 = Page 1 - Line 2 - Card 2
+Bit1 = Page 1 - Line 2 - Card 3
+Bit2 = Page 1 - Line 2 - Card 4
+Bit3 = Page 1 - Line 2 - Card 5
+Bit4 = Page 1 - Line 2 - Card 6
+Bit5 = Page 1 - Line 2 - Card 7
+Bit6 = Page 1 - Line 3 - Card 1
+Bit7 = Page 1 - Line 3 - Card 2
+# 0xa964a5 - Cards Flag
+Bit0 = Page 1 - Line 3 - Card 3
+Bit1 = Page 1 - Line 3 - Card 4
+Bit2 = Page 1 - Line 3 - Card 5
+Bit3 = Page 1 - Line 3 - Card 6
+Bit4 = Page 1 - Line 3 - Card 7
+Bit5 = Page 2 - Line 1 - Card 1
+Bit6 = Page 2 - Line 1 - Card 2
+Bit7 = Page 2 - Line 1 - Card 3
+# 0xa964a6 - Cards Flag
+Bit0 = Page 2 - Line 1 - Card 4
+Bit1 = Page 2 - Line 1 - Card 5
+Bit2 = Page 2 - Line 1 - Card 6
+Bit3 = Page 2 - Line 1 - Card 7
+Bit4 = Page 2 - Line 2 - Card 1
+Bit5 = Page 2 - Line 2 - Card 2
+Bit6 = Page 2 - Line 2 - Card 3
+Bit7 = Page 2 - Line 2 - Card 4
+# 0xa964a7 - Cards Flag
+Bit0 = Page 2 - Line 2 - Card 5
+Bit1 = Page 2 - Line 2 - Card 6
+Bit2 = Page 2 - Line 2 - Card 7
+Bit3 = Page 2 - Line 3 - Card 1
+Bit4 = Page 2 - Line 3 - Card 2
+Bit5 = Page 2 - Line 3 - Card 3
+Bit6 = Page 2 - Line 3 - Card 4
+Bit7 = Page 2 - Line 3 - Card 5
+# 0xa964a8 - Cards Flag
+Bit0 = Page 2 - Line 3 - Card 6
+Bit1 = Page 2 - Line 3 - Card 7
+Bit2 = Page 3 - Line 1 - Card 1
+Bit3 = Page 3 - Line 1 - Card 2
+Bit4 = Page 3 - Line 1 - Card 3
+Bit5 = Page 3 - Line 1 - Card 4
+Bit6 = Page 3 - Line 1 - Card 5
+Bit7 = Page 3 - Line 1 - Card 6
+# 0xa964a9 - Cards Flag
+Bit0 = Page 3 - Line 1 - Card 7
+Bit1 = Page 3 - Line 2 - Card 1
+Bit2 = Page 3 - Line 2 - Card 2
+Bit3 = Page 3 - Line 2 - Card 3
+Bit4 = Page 3 - Line 2 - Card 4
+Bit5 = Page 3 - Line 2 - Card 5
+Bit6 = Page 3 - Line 2 - Card 6
+Bit7 = Page 3 - Line 2 - Card 7
+# 0xa964aa - Cards Flag
+Bit0 = Page 3 - Line 3 - Card 1
+Bit1 = Page 3 - Line 3 - Card 2
+Bit2 = Page 3 - Line 3 - Card 3
+Bit3 = Page 3 - Line 3 - Card 4
+Bit4 = Page 3 - Line 3 - Card 5
+Bit5 = Page 3 - Line 3 - Card 6
+Bit6 = Page 3 - Line 3 - Card 7
+Bit7 = Page 4 - Line 1 - Card 1
+# 0xa964ab - Cards Flag
+Bit0 = Page 4 - Line 1 - Card 2
+Bit1 = Page 4 - Line 1 - Card 3
+Bit2 = Page 4 - Line 1 - Card 4
+Bit3 = Page 4 - Line 1 - Card 5
+Bit4 = Page 4 - Line 1 - Card 6
+Bit5 = Page 4 - Line 1 - Card 7
+Bit6 = Page 4 - Line 2 - Card 1
+Bit7 = Page 4 - Line 2 - Card 2
+# 0xa964ac - Cards Flag
+Bit0 = Page 4 - Line 2 - Card 3
+Bit1 = Page 4 - Line 2 - Card 4
+Bit2 = Page 4 - Line 2 - Card 5
+Bit3 = Page 4 - Line 2 - Card 6
+Bit4 = Page 4 - Line 2 - Card 7
+Bit5 = Page 4 - Line 3 - Card 1
+Bit6 = Page 4 - Line 3 - Card 2
+Bit7 = Page 4 - Line 3 - Card 3
+# 0xa964ad - Cards Flag
+Bit0 = Page 4 - Line 3 - Card 4
+Bit1 = Page 4 - Line 3 - Card 5
+Bit2 = Page 4 - Line 3 - Card 6
+Bit3 = Page 4 - Line 3 - Card 7
+Bit4 = Page 5 - Line 1 - Card 1
+Bit5 = Page 5 - Line 1 - Card 2
+Bit6 = Page 5 - Line 1 - Card 3
+Bit7 = Page 5 - Line 1 - Card 4
+# 0xa964ae - Cards Flag
+Bit0 = Page 5 - Line 1 - Card 5
+Bit1 = Page 5 - Line 1 - Card 6
+Bit2 = Page 5 - Line 1 - Card 7
+Bit3 = Page 5 - Line 2 - Card 1
+Bit4 = Page 5 - Line 2 - Card 2
+Bit5 = Page 5 - Line 2 - Card 3
+Bit6 = Page 5 - Line 2 - Card 4
+Bit7 = Page 5 - Line 2 - Card 5
+# 0xa964af - Cards Flag
+Bit0 = Page 5 - Line 2 - Card 6
+Bit1 = Page 5 - Line 2 - Card 7
+Bit2 = Page 5 - Line 3 - Card 1
+Bit3 = Page 5 - Line 3 - Card 2
+Bit4 = Page 5 - Line 3 - Card 3
+Bit5 = Page 5 - Line 3 - Card 4
+Bit6 = Page 5 - Line 3 - Card 5
+Bit7 = Page 5 - Line 3 - Card 6
+# 0xa964b0 - Cards Flag
+Bit0 = Page 5 - Line 3 - Card 7
+Bit1 = Page 6 - Line 1 - Card 1
+Bit2 = Page 6 - Line 1 - Card 2
+Bit3 = Page 6 - Line 1 - Card 3
+Bit4 = Page 6 - Line 1 - Card 4
+Bit5 = Page 6 - Line 1 - Card 5
+Bit6 = Page 6 - Line 1 - Card 6
+Bit7 = Page 6 - Line 1 - Card 7
+# 0xa964b1 - Cards Flag
+Bit0 = Page 6 - Line 2 - Card 1
+Bit1 = Page 6 - Line 2 - Card 2
+Bit2 = Page 6 - Line 2 - Card 3
+Bit3 = Page 6 - Line 2 - Card 4
+Bit4 = Page 6 - Line 2 - Card 5
+Bit5 = Page 6 - Line 2 - Card 6
+Bit6 = Page 6 - Line 2 - Card 7
+Bit7 = Page 6 - Line 3 - Card 1
+# 0xa964b2 - Cards Flag
+Bit0 = Page 6 - Line 3 - Card 2
+Bit1 = Page 6 - Line 3 - Card 3
+Bit2 = Page 6 - Line 3 - Card 4
+Bit3 = Page 6 - Line 3 - Card 5
+Bit4 = Page 6 - Line 3 - Card 6
+Bit5 = Page 6 - Line 3 - Card 7
+Bit6 = Page 7 - Line 1 - Card 1
+Bit7 = Page 7 - Line 1 - Card 2
+# 0xa964b3 - Cards Flag
+Bit0 = Page 7 - Line 1 - Card 3
+Bit1 = Page 7 - Line 1 - Card 4
+Bit2 = Page 7 - Line 1 - Card 5
+Bit3 = Page 7 - Line 1 - Card 6
+Bit4 = Page 7 - Line 1 - Card 7
+Bit5 = Page 7 - Line 2 - Card 1
+# 0xa969d2 - Character ID
+01 = Ichigo
+02 = Rukia
+03 = Orihime
+04 = Chad
+05 = Uryu
+06 = Renji
+# 0xa969f0 - P1 Pointer [24 bits] [1]
+== Offsets ==
++0xC8 = Hits [32 bits]
+# 0xa96a10 - Consecultive Wins on Screen
+# 0xa96a18 - Stages for Time Attack Mode
+# 0xa96a24 - Total Time, Mile Seconds
+# 0xa96a25 - Total Time, Seconds
+# 0xa96a26 - Total Time, minutes
+# 0xa96ea8 - P1 Pointer [24 bits] [2]
+# 0xa96ef8 - Win Count but works only in History (doesn't accumulate after leave the history mode)
+# 0xa96efa - Win Count but works only in History (doesn't accumulate after leave the history mode)
+# 0xa96efc - Scene ID
+--- Ichigo ---
+03 = 1 Scene
+04 = 2 Scene
+05 = 3 Scene
+06 = 4 Scene
+07 = 5 Scene
+08 = 6 Scene
+--- Rukia ---
+0a = 1 Scene
+0b = 2 Scene
+0c = 3 Scene
+0d = 4 Scene
+0e = 5 Scene
+0f = 6 Scene
+--- Orihime ---
+11 = 1 Scene
+12 = 2 Scene
+13 = 3 Scene
+14 = 4 Scene
+15 = 5 Scene
+--- Chad ---
+17 = 1 Scene
+18 = 2 Scene
+19 = 3 Scene
+1A = 4 Scene
+1B = 5 Scene
+--- Uryu ---
+1D = 1 Scene
+1E = 2 Scene
+1F = 3 Scene
+20 = 4 Scene
+21 = 5 Scene
+22 = 6 Scene
+--- Renji ---
+24 = 1 Scene
+25 = 2 Scene
+26 = 3 Scene
+27 = 4 Scene
+# 0xa96efe - Related with Scene ID
+# 0xaa1328 - Test for music ID
+# 0xaa134c - Game Mode
+00 = Title Screen?
+01 = VS CPU Mode
+02 = Soul VS Mode
+03 = Survival Mode
+04 = Time Attack Mode
+05 = History Mode
+07 = Appendix Mode - Cards
+08 = Appendix Mode - Blockon
+09 = Appendix Mode - Movies
+# 0xadaf9a - Movies ID
+# 0x10a40f8	- Movies ID
+00 = Opening
+0c = Radion Kon
+# 0x10b1d08	- Character Block - Hits Count = Ichigo
+# 0x10b1e68	- Character Block - Hits Count = Orihime
+# 0x10b1ee8	- Character Block - Hits Count = Chad
+# 0x10b2668	- Character Block - Hits Count = Ishida
+# 0x10b2a08	- Character Block - Hits Count = Renji
+# 0x10b2a0a - Character Block - Hits Count Specials = Renji
+# 0x10b3c68 - Character Block - Hits Count = Rukia
+# 0x10b3cb4	- Character Block - Specials? = Rukia
+# 0x10be96c	- Pointer?
+# 0x10eaabc - Diff - CPU Level - Pointer
+00 = Level 1
+01 = Level 2
+02 = Level 3
+03 = Level 4
+04 = Level 5
+# 0x10eaac0 - Damage - CPU Level - Pointer
+00 = Level 1
+01 = Level 2
+02 = Level 3
+03 = Level 4
+04 = Level 5
+# 0x10eaaec - CPU Level Pointer
+# 0x10eab4c - CPU Level Pointer
