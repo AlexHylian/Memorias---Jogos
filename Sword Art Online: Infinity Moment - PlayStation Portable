@@ -1,0 +1,3933 @@
+# 0xcb88c8 - Inputs
+Bit0 = Select
+Bit3 = Start
+Bit4 = D-U
+Bit5 = D-R
+Bit6 = D-D
+Bit7 = D-L
+# 0xcb88c9 - Inputs
+Bit0 = L1
+Bit1 = R1
+Bit4 = Triangle
+Bit5 = Ball
+Bit6 = X
+Bit7 = Square
+# 0xcbafd0 - ASCII Chat 32 bits
+# 0xcbafd4 - ASCII Chat 32 bits
+# 0xcbafd8 - ASCII Chat 32 bits
+# 0xcbafdc - ASCII Chat 32 bits
+# 0xcbc5ce - Testar State de batalha (parece bom)
+# 0xcbc7b8 - BGM Volume
+# 0xcbc7b9 - SE Volume
+# 0xcbc7ba - Voice Volume
+# 0xcbc7bb - Voice SE Volume
+# 0xcbc7bc - Movie Volume
+# 0xcbc7bd - H-Camera Control
+# 0xcbc7be - V-Camera Control
+# 0xcbc7bf - Text Speed
+# 0xcbc7c0 - Instal Data
+# 0xcbc820 - Teleports - Not sure how this works
+# 0xcbc821 - Game Progress
+# 0xcbc822 - Game State
+00 = Valley
+01 = Cavern / Labyrinth
+02 = Dungeon
+03 = City
+# 0xcbc874 - Event Flag
+Bit0 = Max sub quest - Intersect Towers - 82th floor / Forest Path - 85th Floor
+# 0xcbc877 - Event Flag
+Bit0 = Guy sub quest - Fallen Sunset Slope - 79th Floor
+# 0xcbc878 - Event Flag
+Bit0 = Carlo Sub Quest - Dry Valley
+# 0xcbc883 - Event Flag
+Bit0 = Cloud sub quest - Path Distant Wind
+# 0xcbc884 - Event Flag
+Bit0 = Mogra sub quest - Sage Proceed Vale / Green Field
+# 0xcbc889 - Event Flag
+Bit0 = Hashish sub quest - Waterfall Stream
+# 0xcbc890 - Event Flag
+Bit0 = Musashi sub quest - Path Distant Wind
+# 0xcbc891 - Event Flag
+Bit0 = Event with Ralph - Clover of Cliff
+# 0xcbc893 - Event Flag
+Bit0 = Kamui Sub Quest - Fierce Crossroad
+# 0xcbc894 - Event Flag
+Bit0 = Cordelia Sub quest - Waterfall Stream
+# 0xcbc8a5 - Enemies Count to Friend quest
+# 0xcbc8b2 - Enemies Count to Friend quest
+# 0xcbc8f1 - Event Flag?
+Bit0,1 = NPC Muscari
+# 0xcbc8f3 - Temporary Event Flag (Each bitflag is related to one girl)
+Bit6 = Event End in Asuna/Kirito House
+Bit7 = Silica in the Demon's Cave 2 Event
+# 0xcbc8f4 - Temporary Event Flag (Each bitflag is related to one girl)
+Bit0 = Lisbeth's
+Bit2 = Shinon
+Bit3 = Yui
+# 0xcbc8fc - Quest List
+Bit1 = Leafa - New Quest - After Beat Demons' Cave
+Bit2 = No Idea when it trigger
+Bit4 = Protect the Farm Crop - New Quest
+Bit5 = Protect the Farm Crop - Quest Finished
+Bit6 = The Poisonous Spider - New Quest
+Bit7 = The Poisonous Spider - Quest Finished
+# 0xcbc8fd - Quest List
+Bit0 = The Gift for the Girl - New Quest
+Bit1 = The Gift for the Girl - Quest Finished
+Bit2 = Poisonous Needles - New Quest
+Bit3 = Poisonous Needles - Quest Finished
+Bit4 = The Terrifying Slime - New Quest
+Bit5 = The Terrifying Slime - Quest Finished
+Bit6 = The Gift of the Forest - New Quest
+Bit7 = The Gift of the Forest - Quest Finished
+# 0xcbc8fe - Quest List
+Bit0 = The Sweetness Challe - New Quest
+Bit1 = The Sweetness Challe - Quest Finished
+Bit2 = The Flying Dragons - New Quest
+Bit3 = The Flying Dragons - Quest Finished
+Bit4 = Need Wood Materials - New Quest
+Bit5 = Need Wood Materials - Quest Finished
+Bit6 = Focusing on a Single Blow - New Quest
+Bit7 = Focusing on a Single Blow - Quest Finished
+# 0xcbc8ff - Quest List
+Bit0 = The Unforgivable Son - New Quest
+Bit1 = The Unforgivable Son - Quest FInished
+Bit2 = The Arrival of Chef - New Quest
+Bit3 = The Arrival of Chef - Quest FInished
+Bit4 = The Endless Crab Roe - New Quest
+Bit5 = The Endless Crab Roe - Quest Finished
+Bit6 = The Treasure Fight - New Quest
+Bit7 = The Treasure Fight - Quest Finished
+# 0xcbc900 - Quest List
+Bit0 = The Lady's Secret - New Quest
+Bit1 = The Lady's Secret - Quest FInished
+Bit2 = The Bone Collector - New Quest
+Bit3 = The Bone Collector - Quest Finished
+Bit4 = The Deadly Desert - New Quest
+Bit5 = The Deadly Desert - Quest Finished
+Bit6 = The Life Reaping Scythe - New Quest
+Bit7 = The Life Reaping Scythe - Quest Finished
+# 0xcbc901 - Quest List
+Bit0 = The Legendary Gem - New Quest
+Bit1 = The Legendary Gem - Quest Finished
+Bit2 = Goblin Collector's Cry - New Quest
+Bit3 = Goblin Collector's Cry - Quest Finished
+Bit4 = Goblin Collector's Cry II - New Quest
+Bit5 = Goblin Collector's Cry II - Quest Finished
+Bit6 = Goblin Collector's Cry III - New Quest
+Bit7 = Goblin Collector's Cry III - Quest Finished
+# 0xcbc902 - Quest List
+Bit0 = Goblin Collector's Cry IV - New Quest
+Bit1 = Goblin Collector's Cry IV - Quest Finished
+Bit2 = Return My Memory! - New Quest
+Bit3 = Return My Memory! - Quest Finished
+Bit4 = Walking Mushroom - New Quest
+Bit5 = Walking Mushroom - Quest Finished
+Bit6 = The Hot Spring Area - New Quest
+Bit7 = The Hot Spring Area - Quest Finished
+# 0xcbc903 - Quest List
+Bit0 = The Ant Extermination - New Quest
+Bit1 = The Ant Extermination - Quest Finished
+Bit2 = The Ant's Nest - New Quest
+Bit3 = The Ant's Nest - Quest Finished
+Bit4 = The Bewildering Forest - New Quest
+Bit5 = The Bewildering Fore - Quest Finished
+Bit6 = Insomnia - New Quest
+Bit7 = Insomnia - Quest Finished
+# 0xcbc904 - Quest List
+Bit0 = Drop of Flower - New Quest
+Bit1 = Drop of Flower - Quest Finished
+Bit2 = The Undead Returns - New Quest
+Bit3 = The Undead Returns - Quest Finished
+Bit4 = Collecting in the Battlefield - New Quest
+Bit5 = Collecting in the Battlefield - Quest Finished
+Bit6 = The Treasure Blade - New Quest
+Bit7 = The Treasure Blade - Quest Finished
+# 0xcbc905 - Quest List
+Bit0 = The Underground Crystal - New Quest
+Bit1 = The Underground Crystal - Quest Finished
+Bit2 = The Monster's Fangs - New Quest
+Bit3 = The Monster's Fangs - Quest Finished
+Bit4 = Walking Flower of Pollen Doom - New Quest
+Bit5 = Walking Flower of Pollen Doom - Quest Finished
+Bit6 = Little Wings - New Quest
+Bit7 = Little Wings - Quest Finished
+# 0xcbc906 - Quest List
+Bit0 = Glowing Eyes in the Darkness - New Quest
+Bit1 = Glowing Eyes in the Darkness - Quest Finished
+Bit2 = The Tower of Lizards - New Quest
+Bit3 = The Tower of Lizards - Quest Finished
+Bit4 = Spell of the Tree Man - New Quest
+Bit5 = Spell of the Tree Man - Quest Finished
+Bit6 = Project Honey - New Quest
+Bit7 = Project Honey - Quest Finished
+# 0xcbc907 - Quest List
+Bit0 = The Love Kitchen - New Quest
+Bit1 = The Love Kitchen - Quest Finished
+Bit2 = Love and Ingredients - New Quest
+Bit3 = Love and Ingredients - Quest Finished
+Bit4 = The Fur Collection - New Quest
+Bit5 = The Fur Collection - Quest Finished
+Bit6 = Make! Wing of Armour - New Quest
+Bit7 = Make! Wing of Armour - Quest Finished
+# 0xcbc908 - Quest List
+Bit0 = Guardian Dragon and the Boy - New Quest
+Bit1 = Guardian Dragon and the Boy - Quest Finished
+Bit2 = The Top Grade Meat - New Quest
+Bit3 = The Top Grade Meat - Quest Finished
+Bit4 = Defeat the Ant Army! - New Quest
+Bit5 = Defeat the Ant Army! - Quest Finished
+Bit6 = Perished Lives - New Quest
+Bit7 = Perished Lives - Quest Finished
+# 0xcbc909 - Quest List
+Bit0 = Jam SOS - New Quest
+Bit1 = Jam SOS - Quest Finished
+Bit2 = The Goblin Farm - New Quest
+Bit3 = The Goblin Farm - New Quest
+Bit4 = Horror of the Lizard - New Quest
+Bit5 = Horror of the Lizard - Quest Finished
+Bit6 = Pray to the Flower of Life - New Quest
+Bit7 = Pray to the Flower of Life - Quest Finished
+# 0xcbc90a - Quest List
+Bit0 = Remains of Demon's Dwelling - New Quest
+Bit1 = Remains of Demon's Dwelling - Quest Finished
+Bit2 = Thrill of the Giant Spider - New Quest
+Bit3 = Thrill of the Giant Spider - Quest Finished
+Bit4 = The Suspicious Client - New Quest
+Bit5 = The Suspicious Client - Quest Finished
+Bit6 = Defeat That Knight! - New Quest
+Bit7 = Defeat That Knight! - Quest Finished
+# 0xcbc90b - Quest List
+BIt0 = Saw The Dragon's Figure - New Quest
+BIt1 = Saw The Dragon's Figure - Quest Finished
+Bit2 = The Target Crystal - New Quest
+Bit3 = The Target Crystal - Quest FInished
+# 0xcbc92e - Enemy Flag
+Bit3 = Goblin Leader - Cave of Demons - 77th Floor
+Bit4 = Big Spider - Predator's Road - 76 Floor
+Bit6 = Flare Dragon - Forest Abyss - 78th Floor
+Bit7 = Zain Lizardman - Waterfall Stream - 79th Floor
+# 0xcbc92f - Enemy Flag
+Bit0 = Darkness - Road the Dead
+Bit1 = Blazer Demon - Evil Wipeout Trial
+Bit2 = Greater Bandit - Intersect Towers
+Bit3 = Fear Tree - Forest-Path Woods
+Bit4 = Ant Princess - Road of Rulers
+Bit2 = Emerald Dragon - 85th Floor - Interruption Mission
+Bit7 = Night Stalker - 87th Floor - Fortress Sleeping
+# 0xcbc930 - Enemy Flag - Related to boss info
+Bit0 = Gluttony Rafflesia - Cold Cloomy Ditch
+Bit1 = Blaze Armor - Cloud Corridor
+Bit2 = Impregnable - Plants Land 3
+Bit3 = Anemai Queen - Maze Hollow Foam
+Bit4 = Load of Wind - Wyvern Up-Floor
+Bit5 = Scarlet Beak - Penetrated Field
+Bit6 = Heavenly Sword - Aged Treasure-East
+Bit7 = Gaia Breaker - Sleeping Forest
+# 0xcbc931 - Enemy Flag
+Bit0 = Bloody Wasp - Street Wisdom
+Bit4 = Inferno Sword - Aged Treasure-West
+# 0xcbc932 - Enemy Flag
+Bit2 = Roughneck (big scorpion)
+Bit3 = Mandrake - Monster Maze 1 - 80th Floor - Interruption Mission
+Bit4 = Fart Slime - Monster Maze 2 - 80th Floor - Interruption Mission
+Bit5 = Dragon Zombie - Monster Maze 3 - 80th Floor - Interruption Mission
+Bit7 = 10 Fresh Crab - Dragon Palace 1 - 79th Floor - Interruption Mission
+# 0xcbc933 - Enemy Flag
+Bit0 = Father Crab - Dragon Palace - 2
+Bit1 = Strong Scissore - Dragon Palace - 3
+Bit2 = Group of Slime Quest - Treasure Maze - 1
+Bit3 = 2 Fat Slime - Treasure Maze - 2
+Bit4 = 2 Fat Slime - Treasure Maze - 3
+Bit6 = Unsurper of Nest Mabethck - Unearthed Grotto 1
+Bit7 = 9 Honey Mites - Dwell Devour 1
+# 0xcbc934 - Quest Event
+Bit0 = 6 Ant Commander Dwell Devour 2 - 84th Floor - Interruption Mission
+Bit1 = Queen Guard - Dwell Devour 3 - 84th Floor - Interruption Mission
+Bit2 = Emerald Dragon - 85th Floor - Interruption Mission
+Bit6 = Poison Mushroom
+# 0xcbc935 - Enemy Flag - Interruption Mission
+Bit2 = Iron Golen - Demons' Cave 3
+Bit3 = Lizard Man Monach - Cauldron of Dead
+Bit4 = 3 Funny Caps - Kingdom Bandits 1
+Bit5 = Hurry to Destination - Kingdom Bandits 2
+Bit6 = 2 Org General
+# 0xcbc936 - Enemy Flag
+Bit1 = Orc General - Solid Grotto 3 - 82th Floor - Interruption Mission
+Bit6 = 10 Ant Worker - Stronghold 1 - 87th Floor - Interruption Mission
+Bit7 = 10 Ant Worker - Stronghold 2 - 87th Floor - Interruption Mission
+# 0xcbc937 - Event Flag
+Bit0 = 10 Ant Worker - Stronghold 3 - 87th Floor - Interruption Mission
+Bit1 = Skeleton - Interruption Mission - Halls Strong - 81th Floor
+Bit2 = Elder Lizardman - Interruption Mission - Halls Strong 2 - 81th Floor
+Bit3 = 10 Phantom - Interruption Mission - Halls Strong 3 - 81th Floor
+Bit5 = 1 Black Hornet - Resulting Forest - Interruption Mission - 87th Floor
+Bit6 = 4 Blue Rogue Brothers - Flowers' Paradise - Interruption Mission - 88th Floor
+Bit7 = Tyrant - Tenants' Work 1 - 88th Floor
+# 0xcbc938 - Event Flag
+Bit0 = 3 Bioshop Lizardman - Interruption Mission - Tenants' Work 2
+Bit1 = 4 Tyrant - Interruption Mission - Tenants' Work 3
+Bit2 = 2 Green Slime - Temple Turbid - Interruption Mission
+Bit3 = 2 Deep Crimson - Temple Turbid 2 - Interruption Mission
+Bit4 = 2 Fat Slime - Temple Turbid 3 - Interruption Mission
+Bit5 = 5 Scarlet Widow - Magic Building 2 - Interruption Mission
+Bit6 = Neo Scorpion - Magic Building 3 - Interruption Mission
+BIt7 = 10 Lost Soldiers - Interruption Mission - Forgotten Tower
+# 0xcbc939 - Event Flag
+Bit0 = 5 Cursed Medic - Forgotten Tower 2 - Interruption Mission - 86th Floor
+Bit1 = 3 Rune Knight - Forgotten Tower 3 - Interruption Mission - 86th Floor
+Bit2 = Volcano Dragon - Guardian Maze 1 - Interruption Mission - 92th Floor
+Bit3 = 3 Dragons - Guardian Maze 2 - Interruption Mission - 92th Floor
+Bit4 = Trihead Dragon - Guardian Maze 3 - Interruption Mission - 92th Floor
+Bit5 = 5 Black Knight - Grotto Enlighten 1 - Interruption Mission - 91th Floor
+Bit6 = Black Paladin - Grotto Enlighten 2 - Interruption Mission - 91th Floor
+Bit7 = Gryphon - Grotto Enlighten 3 - Interruption Mission - 91th Floor
+# 0xcbc93a - Enemy Flag
+Bit0 = 5 Paladin Lizardman - Beast Master 1 - Interruption Mission - 95th Floor
+Bit1 = 3 Goblin's Gladiators - Beast Master 2 - Interruption Mission - 95th Floor
+Bit2 = Lizardman Lord and Gobling Garland - Beast Master 3 - Interruption Mission - 95th Floor
+Bit3 = 15 Servant Knight - Dark Knight 1 - Interruption Mission 94th Floor
+Bit4 = Knight of Knights - Dark Knight 2 - Interruption Mission
+Bit5 = Knight of Night - Dark Knight 3 - Interruption Mission
+Bit6 = Lord of Shadow - Death King 1 - Interruption Mission - 97th Floor
+Bit7 = 3 Greater Daemons - Death King 2 - Interruption Mission - 97th Floor
+# 0xcbc93b - Enemy Flag?
+Bit4 = Finished the Dungeon
+# 0xcbc93c - Event Flag
+Bit2 = Greg - Waterfall Stream - 79th Floor
+# 0xcbc941 - Event Flag
+Bit4 = Lizardman's Den... Cutscene in a cavern
+talvez seja chegado no local pela primeira vez
+# 0xcbc942 - Reached first time in Fool's Corridor
+# 0xcbc946 - Event Flag
+Bit4 = Find Yui before sleeping (event after Halls strong)
+Bit7 = Second event in the Inn Room after 84th Floor
+# 0xcbc947 - Event Flag
+Bit3 = Talked with everyone - third event in Agil's Shop after 84th Floor
+Bit6 = Talked to everyone about Alberich's
+Bit7 = Agil after beat Solid Grotto
+# 0xcbc948 - Event Flag
+Bit6 = Lisbeth after beat Demons' Cave
+Bit7 = Asuna and friends in the inn after 87th floor
+# 0xcbc949 - Event Flag
+Bit7 = Asuna and Friends in the Inn after 82th floor
+# 0xcbc94d - Temporary Enemy Flag
+Bit3 = Cerulion - Waterfall Canyon
+# 0xcbc94f - Event Flag
+Bit2 = Blocking Trial Cleared - 81th Floor
+Bit3 = Limited Lost Trial Cleared - 81th Floor
+Bit4 = Mimicry Trial Cleared - 81th Floor
+Bit5 = Evil Wipeout Trial Cleared - 81th Floor
+# 0xcbc951 - Event Flag
+Bit5 = Barrier cutscene in the Intersect Towers
+Bit7 = Water in Fountain Springs Cutscene
+# 0xcbc953 - Enemy Flag?
+Bit0 = Big Slime - BF Corridor
+# 0xcbc95a - Event Flag
+Bit5 = Strea Save Kirito - Trial of Ruby 5 - Cutscene 98th Floor
+Bit7 = Asuna Got an Secret Item - Cutscene in Solid Groto 2 - 82th Floor
+# 0xcbc95b - Event Flag
+Bit0 = Asuna on Lake Cutscene
+Bit1 = Asuna on His House Cutscene
+Bit2 = Asuna on 86th Floor - Cutscene with Kirito
+Bit4 = Kirito Kiss Asuna - Ending Cutscene
+Bit6 = Silica on Demon's Cave 2 Cutscene
+# 0xcbc95c - Event Flag
+Bit0 = Silica with Kirito in Agil's Shop - after 87th floor - Kiss
+Bit1 = Kirito and Silica - End
+Bit3 = Lisbeth with Kirito in a cave of 80th Floor cutscene after Solid Grotto
+Bit4 = Lisbeth witrh Kirito in a cave of 84th Floor Cutscene event
+Bit5 = Lisbeth with Kirito - Shopping Street after 86th Floor - Kiss
+Bit6 = Kirito and Lisbeth - End
+# 0xcbc95d - Event Flag
+Bit2 = Leafa and Kirito - Forest of Hyphae - Last Event - 83th Floor - Moon Necklace
+Bit3 = Leafa and Kirito in the Inn after return to the town 80th Floor (second event) - Temporary Address
+Bit3 = Kirito and Leafa - End
+Bit5 = Hey! Where Are You Looking! Event - after Halls Strong
+Bit6 = Kirito Save Shinon Quest - after beat Kingdom Bandits
+Bit7 = Kirito Save Shinon Quest - Dead Front Line 3 - 86th Floor
+# 0xcbc95e - Event Flag
+Bit0 = Kirito and Shinon - End
+Bit2 or 1?= Find Yui before sleeping (event after Halls strong) Second Event
+Bit2 = Event in the Inn Room (alone) after beat 83th floor
+Bit4 = Kirito and Yui - End
+Bit5 = Defeated Strea - Cutscene
+# 0xcbc95f - Event Flag?
+Bit2 = Finished the Opening Game
+Bit3 = Game End - Triggers after Credits
+Bit5 = Finished the Tutorial?
+Bit6 = Found the Fairy
+Bit7 = Girl Fallen (After Fairy)
+# 0xcbc960 - Event Flag
+Bit0 = Strea Appear
+# 0xcbc975 - Event Flag
+Bit4 = Asuna - After Monster Maze
+Bit5 = Yui - After Monster Maze (Event with Kirito and Asuna)
+Bit6 = Asuna on Crunch - 79th Floor
+Bit7 = Asuna with Ring quest - 79th Floor
+# 0xcbc976 - Event Flag
+Bit2 = Give Present to Asuna (Agil's Shop) after 84th Floor
+Bit3 = Asuna - Blessing Ceremony - after beat 85th floor
+# 0xcbc977 - Event Flag
+Bit3 = Silica after beaten Monster Maze
+Bit7 = Silica on 83th floor - Big Pina event duranting 87th floor
+# 0xcbc978 - Event Flag
+Bit4 = Lisbeth after Solid Grotto
+# 0xcbc979 - Event Flag
+Bit0 = Kirito at Shopping Street Alone after beat 84th Floor
+Bit1 = Lisbeth Event - 85th Floor - Hammer
+Bit7 = Leafa and Kirito in the Inn after return to the town 80th Floor
+# 0xcbc97a - Event Flag
+Bit0 = Leafa after Solid Grotto Dungeon
+Bit2 = Event with Leafa - Sun Necklace - 85th Floor
+Bit1 = Finished Event with Leafa after Solid Grotto
+# 0xcbc97b - Event Flag
+Bit0 = Shinon after beat Halls Strong
+Bit2 = Shinon after beat Stream Grotto
+Bit4 = Yui after beat Dragon Palace
+Bit5 = Yui after beat Monster Maze
+Bit6 = Yui after beat Halls Strong
+Bit7 = Yui after beat Solid Grotto
+# 0xcbc97c - Event Flag
+Bit1 = Event in the Inn Room (day time) after 84th Floor
+# 0xcbc97d - Event Flag
+Bit2 = Silica after beat demons' cave / 3 Lord of Shadow - Death King 3 - Interruption Mission - 97th Floor
+Bit3 = 3 Dullahan - Hall Paladin 2 - 96th Floor - Interruption Mission
+Bit4 = Executioner - Hall Paladin 3 - 96th Floor - Interruption Mission
+# 0xcbc97f - Event Flag - Quest State
+Bit7 = Beaten / Dying
+# 0xcbca08 - Player XP 16 bits
+# 0xcbca0e - Party Member 16 bits
+01 = Asuna
+02 = Silica
+03 = Lisbeth
+04 = Leafa
+05 = Shinon
+06 = Yui
+07 = Strea
+08 = Klein
+64 = Aaron
+68 = Kyle
+6b = Schneider
+6e = Glen
+70 = Miles
+7a = Greg
+7b = Carmine
+7c = Seeklight
+7d = Frost
+7e = Guy
+82 = Joseph
+85 = Asmo
+88 = Brad
+8e = Musashi
+8f = Ralph
+91 = Klaus
+94 = Max
+98 = Carlo
+9a = Rufus
+a4 = Kamui
+a5 = Ariel
+a7 = Maria
+a8 = Lisa
+ad = Mogra
+ae = May
+b0 = Kilala
+b1 = Cocoa
+b2 = Mint
+b4 = Cordelia
+b5 = Flora
+b7 = Hashish
+b8 = Nazuna
+ba = Chloe
+bf = Mina
+c6 = Yuno
+03e6 = None
+# 0xcbca62 - Skill Points - 1
+# 0xcbca65 - Skill Points - 2
+# 0xcbd0d6 - Skill Tree Region
+# 0xcbebe4 - Current Main Weapon 32 bits
+# 0xcbebe8 - Current Main Weapon 32 bits - 2 address
+# 0xcbebec - Current Sub Weapon 32 bits
+# 0xcbebf0 - Current Sub Weapon 32 bits - 2 Address
+# 0xcbebf4 - Current Body 32 bits
+# 0xcbebfc - Current Arms 32 bits
+# 0xcbec04 - Current Legs 32 bits
+# 0xcbec14 - Current Herd 32 bits
+# 0xcbec1c - Current Waist 32 bits
+# 0xcbec24 - Current Back 32 bits
+# 0xcbec2c - Current Ring 32 bits - 2
+# 0xcbec34 - Current Main Ring 32 bits
+# 0xcbec48 - Kirito Inventory Flag Array 1500 bytes - Black Leather 32 bits
+# 0xcbf298 - Total Money 32 bits
+# 0xcbf308 - Asuna Inventory Flag - White Red Cloth 32 bits
+# 0xcbf310 - Asuna Inventory Flag - Red White Boots 32 bits
+# 0xcbf318 - Asuna Inventory Flag - Bloody Cross Arm 32 bits
+# 0xcbf320 - Asuna Inventory Flag - Engagement Ring 32 bits
+# 0xcbf328 - Asuna Inventory Flag - Shield Ring 32 bits
+# 0xcbf330 - Asuna Inventory Flag - Leaf Pendant 32 bits
+# 0xcbf338 - Asuna Inventory Flag - Feather Belt 32 bits
+# 0xcbf340 - Asuna Inventory Flag - Thieves Mantle 32 bits
+# 0xcbf348 - Asuna Inventory Flag - Poison Charm 32 bits
+# 0xcbf350 - Asuna Inventory Flag - Potion 32 bits
+# 0xcbf358 - Asuna Inventory Flag - H-Potion 32 bits
+# 0xcbf360 - Asuna Inventory Flag - Grand Potion 32 bits
+# 0xcbf368 - Asuna Inventory Flag - Teleport Crystal 32 bits
+# 0xcbf370 - Asuna Inventory Flag - Antidote Crystal 32 bits
+# 0xcbf378 - Asuna Inventory Flag - Paralysis Crystal 32 bits
+# 0xcc01ec - "Sachi" Inventory Flag - Sachi's Message 32 bits
+# 0xcc01f4 - "Sachi" Inventory Flag - Potion 32 bits
+# 0xcc01fc - "Sachi" Inventory Flag - Teleport Crystal 32 bits
+# 0xcc17c0 - Asuna Approval - Rank 16 bits
+01f4 = Max
+# 0xcc17c3 - Asuna Level
+# 0xcc17cc - Silica Approval - Rank 16 bits
+01f4 = Max
+# 0xcc17cf - Silica Level
+# 0xcc17d8 - Lisbeth Approval - Rank 16 bits
+01f4 = Max
+# 0xcc17db - Lisbeth Level
+# 0xcc17e4 - Leafa Approval - Rank 16 bits
+01f4 = Max
+# 0xcc17e7 - Leafa Level
+# 0xcc17f0 - Shinon Approval - Rank 16 bits
+01f4 = Max
+# 0xcc17f3 - Shinon Level
+# 0xcc17fc - Yui Approval - Rank 16 bits
+01f4 = Max
+# 0xcc17ff - Yui Level
+# 0xcc1808 - Strea Approval - Rank 16 bits
+01f4 = Max
+# 0xcc180b - Strea Level
+# 0xcc1814 - Klein Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1817 - Klein Level
+# 0xcc1838 - [NPC] Aaron Approval - Rank 16 bits
+01f4 = Max
+# 0xcc183b - [NPC] Aaron Level
+# 0xcc1868 - [NPC] Kyle Approval - Rank 16 bits
+01f4 = Max
+# 0xcc186b - [NPC] Kyle Level
+# 0xcc188c - [NPC] Schneider Approval - Rank 16 bits
+01f4 = Max
+# 0xcc188f - [NPC] Schneider Level
+# 0xcc18b0 - [NPC] Glen Approval - Rank 16 bits
+01f4 = Max
+# 0xcc18b3 - [NPC] Glen Level
+# 0xcc18c8 - [NPC] Miles Approval - Rank 16 bits
+01f4 = Max
+# 0xcc18cb - [NPC] Miles Level
+# 0xcc1940 - [NPC] Greg Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1943 - [NPC] Greg Level
+# 0xcc194c - [NPC] Carmine Approval - Rank 16 bits
+01f4 = Max
+# 0xcc194f - [NPC] Carmine Level
+# 0xcc1958 - [NPC] Seeklight Approval - Rank 16 bits
+01f4 = Max
+# 0xcc195b - [NPC] Seeklight Level
+# 0xcc1964 - [NPC] Frost Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1967 - [NPC] Frost Level
+# 0xcc1970 - [NPC] Guy Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1973 - [NPC] Guy Level
+# 0xcc19a0 - [NPC] Joseph Approval - Rank 16 bits
+01f4 = Max
+# 0xcc19a3 - [NPC] Joseph Level
+# 0xcc19c4 - [NPC] Asmo Approval - Rank 16 bits
+01f4 = Max
+# 0xcc19c7 - [NPC] Asmo Level
+# 0xcc19e8 - [NPC] Brad Approval - Rank 16 bits
+01f4 = Max
+# 0xcc19eb - [NPC] Brad Level
+# 0xcc1a30 - [NPC] Musashi Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1a33 - [NPC] Musashi Level
+# 0xcc1a3c - [NPC] Ralph Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1a3f - [NPC] Ralph Level
+# 0xcc1a54 - [NPC] Klaus Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1a57 - [NPC] Klaus Level
+# 0xcc1a78 - [NPC] Max Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1a7b - [NPC] Max Level
+# 0xcc1aa8 - [NPC] Carlo Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1aab - [NPC] Carlo Level
+# 0xcc1ac0 - [NPC] Rufus Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1ac3 - [NPC] Rufus Level
+# 0xcc1b38 - [NPC] Kamui Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1b3b - [NPC] Kamui Level
+# 0xcc1b44 - [NPC] Ariel Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1b47 - [NPC] Ariel Level
+# 0xcc1b5c - [NPC] Maria Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1b5f - [NPC] Maria Level
+# 0xcc1b68 - [NPC] Lisa Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1b6b - [NPC] Lisa Level
+# 0xcc1ba4 - [NPC] Mogra Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1ba7 - [NPC] Mogra Level
+# 0xcc1bb0 - [NPC] May Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1bb3 - [NPC] May Level
+# 0xcc1bc8 - [NPC] Kilala Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1bcb - [NPC] Kilala Level
+# 0xcc1bd4 - [NPC] Cocoa Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1bd7 - [NPC] Cocoa Level
+# 0xcc1be0 - [NPC] Mint Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1be3 - [NPC] Mint Level
+# 0xcc1bf8 - [NPC] Cordelia Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1bfb - [NPC] Cordelia Level
+# 0xcc1c04 - [NPC] Flora Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1c07 - [NPC] Flora Level
+# 0xcc1c1c - [NPC] Hashish Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1c1f - [NPC] Hashish Level
+# 0xcc1c28 - [NPC] Nazuna Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1c2b - [NPC] Nazuna Level
+# 0xcc1c40 - [NPC] Chloe Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1c43 - [NPC] Chloe Level
+# 0xcc1c7c - [NPC] Mina Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1c7f - [NPC] Mina Level
+# 0xcc1cd0 - [NPC] Yuno Approval - Rank 16 bits
+01f4 = Max
+# 0xcc1cd3 - [NPC] Yuno Level
+# 0xcc2120 - Event Flag - Friend List Message - News Only
+Bit0 = Asuna - Thank God
+Bit1 = Asuna - Is It Possible...
+Bit2 = Asuna - Thank You, Yui
+Bit3 = Asuna - A Pair of Rings ---
+Bit4 = Asuna - Sunmount It!
+Bit6 = Asuna - Congrats!
+Bit5 = Asuna - So Embarrasing...
+Bit6 = Asuna - Congrats!
+Bit7 = Asuna - Thank You For You
+# 0xcc2121 - Event Flag - Friend List Message - News Only
+Bit0 = Asuna - The Last Quest
+Bit1 = We Are Finally...
+Bit2 = Thank You For Worry
+Bit3 = I Wanna Be With You
+# 0xcc2123 - Event Flag - Friend List Message - News Only
+Bit1 = Silica - Please Tolerance
+Bit2 = Silica - So Embarrasing
+Bit3 = Silica - Thank You
+Bit4 = Silica - Evolving Ores...
+Bit5 = Silica - I Forgot
+Bit6 = Silica - About Big Pina...
+Bit7 = Silica - Pina's Awesome!
+# 0xcc2124 - Event Flag - Friend List Message - News Only
+Bit0 = Silica - Thank You For Help
+# 0xcc2126 - Event Flag - Friend List Message - News Only
+Bit2 = Lisbeth - What a Shock
+Bit3 = Lisbeth - My Shop Is Open!
+Bit4 = Lisbeth - Don't Too Hard
+Bit5 = Lisbeth - Thanks A Lot!
+Bit6 = Lisbeth - Journey Gain Ores
+Bit7 = Lisbeth - A Big Progress!
+# 0xcc2127 - Event Flag - Friend List Message - News Only
+Bit0 = Lisbeth - The Sacred Fire!
+Bit1 = Lisbeth - Hot Sprint Trip!
+Bit2 = Lisbeth - The Hammer!
+Bit3 = Lisbeth - I Work So Ward!
+Bit4 = Lisbeth - Best Masterpiece
+Bit5 = Lisbeth - Gogogo Kirito!
+# 0xcc2129 - Event Flag - Friend List Message - News Only
+Bit3 = Leafa - It's A Long Time
+Bit4 = Leafa - Sorry for Trouble
+Bit5 = I Wasn't Angry
+Bit6 = Truly Sorry!
+Bit7 = Let's Go Together
+# 0xcc212a - Event Flag - Friend List Message - News Only
+Bit0 = Leafa - Lunar Necklace
+Bit1 = Leafa - Great Quest
+Bit2 = Leafa - Thank You Again
+# 0xcc212c - Event Flag - Friend List Message - News Only
+Bit4 = Shinon - No Subject
+Bit5 = Shinon - No Subject
+Bit6 = Shinon - Leave Braining
+Bit7 = Shinon - Thanks for Bow
+# 0xcc212d - Event Flag - Friend List Message - News Only
+Bit0 = Shinon - Thank You Anyway
+Bit1 = Shinon - Thanks
+Bit2 = The Quest Be?
+Bit3 = I Have Something
+# 0xcc212f - Event Flag - Friend List Message - News Only
+Bit5 = Yui - Sorry for villful
+Bit6 = Yui - Having A Baby
+Bit7 = Yui - What A Kiss Is!
+# 0xcc2130 - Event Flag - Friend List Message - News Only
+Bit0 = Yui - Sorry For Worry
+Bit1 = Yui - Hot Spring
+Bit2 = Yui - Let's Swin Again!
+Bit3 = Yui - To Papa and Mama
+Bit4 = Yui - Please
+# 0xcc2134 - Event Flag - Friend List Message - News Only
+Bit5 = Klein - Clear All Floors!
+# 0xcc213c - Event Flag - Friend List Message - News Only
+Bit1 = Bob - Help Collect?
+# 0xcc213f - Event Flag - Friend List Message - News Only
+Bit4 = Arnold - Lv Up Together?
+# 0xcc2140 - Event Flag - Friend List Message - News Only
+Bit5 = Dante - Can You Help?
+# 0xcc2142 - Event Flag - Friend List Message - News Only
+Bit7 = Elbert - Help Us Level Up?
+# 0xcc2149 - Event Flag - Friend List Message - News Only
+Bit5 = Leo - Can You Help?
+# 0xcc214d - Event Flag - Friend List Message - News Only
+Bit0 = Albin - Help Collect?
+# 0xcc214f - Event Flag - Friend List Message - News Only
+Bit2 = Greg - Need Your Help.
+Bit3 = Greg - Thanks A Million - Gift
+# 0xcc2153 - Event Flag - Friend List Message - News Only
+Bit6 = Guy - Can You Help? / Lv Up Together?
+Bit7 = Thanks! - Gift
+# 0xcc2158 - Event Flag - Friend List Message - News Only
+Bit2 = Joseph - Can You Help?
+Bit3 = Joseph - Thanks - Gift
+Bit5 = Joseph - Can You Help?
+# 0xcc2163 - Event Flag - Friend List Message - News Only
+Bit4 = Masao - Can You Help?
+# 0xcc2164 - Event Flag - Friend List Message - News Only
+Bit5 = Levin - Help Level Up?
+# 0xcc2165 - Event Flag - Friend List Message - News Only
+Bit6 = Musashi - Can You Help?
+# 0xcc2166 - Event Flag - Friend List Message - News Only
+Bit7 = Ralph - Can You Help?
+# 0xcc2167 - Event Flag - Friend List Message - News Only
+Bit0 = Ralph - Thanks! - Gift
+# 0xcc216c - Event Flag - Friend List Message - News Only
+Bit4 = Max - Need Your Help.
+Bit5 = Max - Thanks A Million - Gift
+# 0xcc216e - Event Flag - Friend List Message - News Only
+Bit6 = Osvald - Wanna Help?
+# 0xcc216f - Event Flag - Friend List Message - News Only
+Bit7 = Erik - Kill Together?
+# 0xcc2171 - Event Flag - Friend List Message - News Only
+Bit0 = Carlo - Wanna Help?
+Bit1 = Carlo - Thanks A Million - Gift
+# 0xcc2172 - Event Flag - Friend List Message - News Only
+Bit1 = Simon - Can You Help?
+# 0xcc217b - Event Flag - Friend List Message - News Only
+Bit1 = Shinya - Help Collect?
+# 0xcc217d - Event Flag - Friend List Message - News Only
+Bit3 = Cloud - Kill Together?
+# 0xcc217e - Event Flag - Friend List Message - News Only
+Bit4 = Kamui - Can You Help?
+Bit5 = Kamui - Thanks!! - Gift
+# 0xcc2180 - Event Flag - Friend List Message - News Only
+Bit6 = Camila - Please Help
+# 0xcc2186 - Event Flag - Friend List Message - News Only
+Bit3 = Sofia - Fight Togeher
+# 0xcc2187 - Event Flag - Friend List Message - News Only
+Bit4 = Alice - Fight Together.
+# 0xcc2188 - Event Flag - Friend List Message - News Only
+Bit5 = Mogra - Please Help Us.
+Bit6 = Mogra - Thanks - Gift
+# 0xcc218a - Event Flag - Friend List Message - News Only
+Bit7 = Ceba - Fight Together
+# 0xcc218b - Event Flag - Friend List Message - News Only
+Bit0 = Ceba - Very Grateful!! - Gift
+# 0xcc218d - Event Flag - Friend List Message - News Only
+Bit1 = Cocoa - Can You Help?
+Bit2 = Cocoa - Thanks - Gift
+# 0xcc2190 - Event Flag - Friend List Message - News Only
+Bit4 = Cordelia - Please Help.
+Bit5 = Cordelia - Luckily U Helped - Gift
+# 0xcc2193 - Event Flag - Friend List Message - News Only
+Bit7 = Hashish - Please Help.
+# 0xcc2194 - Event Flag - Friend List Message - News Only
+Bit0 = Hashish - Luckily U Helped
+# 0xcc2195 - Event Flag - Friend List Message - News Only
+Bit0 = Nazuna - Fight Together.
+# 0xcc2198 - Event Flag - Friend List Message - News Only
+Bit3 = Nicole - Help Level Up?
+# 0xcc219e - Event Flag - Friend List Message - News Only
+Bit0 = More - Please Help.
+# 0xcc219f - Event Flag - Friend List Message - News Only
+Bit1 = Cornelia - Please Help
+# 0xcc21a1 - Event Flag - Friend List Message - News Only
+Bit3 = Iris - Please Help Us.
+# 0xcc21a8 - Event Flag - Friend List Message - Read Messages
+Bit0 = Asuna - Thank God
+Bit1 = Asuna - Is It Possible...
+Bit2 = Asuna - Thank You, Yui
+Bit3 = Asuna - A Pair of Rings ---
+Bit4 = Asuna - Sunmount It!
+Bit5 = Asuna - So Embarrasing...
+Bit6 = Asuna - Congrats!
+Bit7 = Asuna - Thank You For You
+# 0xcc21a9 - Event Flag - Friend List Message - Read Messages
+Bit0 = Asuna - The Last Quest
+Bit1 = We Are Finally...
+Bit2 = Thank You For Worry
+Bit3 = I Wanna Be With You
+# 0xcc21ab - Event Flag - Friend List Message - Read Messages
+Bit1 = Silica - Please Tolerance
+Bit2 = Silica - So Embarrasing
+Bit3 = Silica - Thank You
+Bit4 = Silica - Evolving Ores...
+Bit5 = Silica - I Forgot
+Bit6 = Silica - About Big Pina...
+Bit7 = Silica - Pina's Awesome!
+# 0xcc21ac - Event Flag - Friend List Message - Read Messages
+Bit0 = Silica - Thank You For Help
+# 0xcc21ae - Event Flag - Friend List Message - Read Messages
+Bit2 = Lisbeth - What a Shock
+Bit3 = Lisbeth - My Shop Is Open!
+Bit4 = Lisbeth - Don't Too Hard
+Bit5 = Lisbeth - Thanks A Lot!
+Bit6 = Lisbeth - Journey Gain Ores
+Bit7 = Lisbeth - A Big Progress!
+# 0xcc21af - Event Flag - Friend List Message - Read Messages
+Bit0 = Lisbeth - The Sacred Fire!
+Bit1 = Lisbeth - Hot Sprint Trip!
+Bit2 = Lisbeth - The Hammer!
+Bit3 = Lisbeth - I Work So Ward!
+Bit4 = Lisbeth - Best Masterpiece
+Bit5 = Lisbeth - Gogogo Kirito!
+# 0xcc21b1 - Event Flag - Friend List Message - Read Messages
+Bit3 = Leafa - It's A Long Time
+Bit4 = Leafa - Sorry for Trouble
+Bit5 = I Wasn't Angry
+Bit6 = Truly Sorry!
+Bit7 = Let's Go Together
+# 0xcc21b2 - Event Flag - Friend List Message - Read Messages
+Bit0 = Leafa - Lunar Necklace
+Bit1 = Leafa - Great Quest
+Bit2 = Leafa - Thank You Again
+# 0xcc21b4 - Event Flag - Friend List Message - Read Messages
+Bit4 = Shinon - No Subject
+Bit5 = Shinon - No Subject
+Bit6 = Shinon - Leave Braining
+Bit7 = Shinon - Thanks for Bow
+# 0xcc21b5 - Event Flag - Friend List Message - Read Messages
+Bit0 = Shinon - Thank You Anyway
+Bit1 = Shinon - Thanks
+Bit2 = The Quest Be?
+Bit3 = I Have Something
+# 0xcc21b7 - Event Flag - Friend List Message - Read Messages
+Bit5 = Yui - Sorry for villful
+Bit6 = Yui - Having A Baby
+Bit7 = Yui - What A Kiss Is!
+# 0xcc21b8 - Event Flag - Friend List Message - Read Messages
+Bit0 = Yui - Sorry For Worry
+Bit1 = Yui - Hot Spring
+Bit2 = Yui - Let's Swin Again!
+Bit3 = Yui - To Papa and Mama
+Bit4 = Yui - Please
+# 0xcc21bc - Event Flag - Friend List Message - Read Messages
+Bit5 = Klein - Clear All Floors!
+# 0xcc21c4 - Event Flag - Friend List Message - Read Messages
+Bit1 = Bob - Help Collect?
+# 0xcc21c7 - Event Flag - Friend List Message - Read Messages
+Bit4 = Arnold - Lv Up Together?
+# 0xcc21c8 - Event Flag - Friend List Message - Read Messages
+Bit5 = Dante - Can You Help?
+# 0xcc21ca - Event Flag - Friend List Message - Read Messages
+Bit7 = Elbert - Help Us Level Up?
+# 0xcc21d1 - Event Flag - Friend List Message - Read Messages
+Bit5 = Leo - Can You Help?
+# 0xcc21d5 - Event Flag - Friend List Message - Read Messages
+Bit0 = Albin - Help Collect?
+# 0xcc21d7 - Event Flag - Friend List Message - Read Messages
+Bit2 = Greg - Need Your Help.
+Bit3 = Greg - Thanks A Million - Gift
+# 0xcc21db - Event Flag - Friend List Message - Read Messages
+Bit6 = Guy - Can You Help?
+Bit7 = Thanks! - Gift
+# 0xcc21e0 - Event Flag - Friend List Message - Read Messages
+Bit2 = Joseph - Can You Help?
+Bit3 = Joseph - Thanks - Gift
+Bit5 = Joseph - Can You Help?
+# 0xcc21eb - Event Flag - Friend List Message - Read Messages
+Bit4 = Masao - Can You Help?
+# 0xcc21ec - Event Flag - Friend List Message - Read Messages
+Bit5 = Levin - Help Level Up?
+# 0xcc21ed - Event Flag - Friend List Message - Read Messages
+Bit6 = Musashi - Can You Help?
+# 0xcc21ee - Event Flag - Friend List Message - Read Messages
+Bit7 = Ralph - Can You Help?
+# 0xcc21ef - Event Flag - Friend List Message - Read Messages
+Bit0 = Ralph - Thanks! - Gift
+# 0xcc21f4 - Event Flag - Friend List Message - Read Messages
+Bit4 = Max - Need Your Help.
+Bit5 = Max - Thanks A Million - Gift
+# 0xcc21f6 - Event Flag - Friend List Message - Read Messages
+Bit6 = Osvald - Wanna Help?
+# 0xcc21f7 - Event Flag - Friend List Message - Read Messages
+Bit7 = Erik - Kill Together?
+# 0xcc21f9 - Event Flag - Friend List Message - Read Messages
+Bit0 = Carlo - Wanna Help?
+Bit1 = Carlo - Thanks A Million - Gift
+# 0xcc21fa - Event Flag - Friend List Message - Read Messages
+Bit1 = Simon - Can You Help?
+# 0xcc2203 - Event Flag - Friend List Message - Read Messages
+Bit1 = Shinya - Help Collect?
+# 0xcc2205 - Event Flag - Friend List Message - Read Messages
+Bit3 = Cloud - Kill Together?
+# 0xcc2206 - Event Flag - Friend List Message - Read Messages
+Bit4 = Kamui - Can You Help?
+# 0xcc2208 - Event Flag - Friend List Message - Read Messages
+Bit6 = Camila - Please Help
+# 0xcc220e - Event Flag - Friend List Message - Read Messages
+Bit3 = Sofia - Fight Togeher
+# 0xcc220f - Event Flag - Friend List Message - Read Messages
+Bit4 = Alice - Fight Together.
+# 0xcc2210 - Event Flag - Friend List Message - Read Messages
+Bit5 = Mogra - Please Help Us.
+Bit6 = Mogra - Thanks - Gift
+# 0xcc2212 - Event Flag - Friend List Message - Read Messages
+Bit7 = Ceba - Fight Together
+# 0xcc2213 - Event Flag - Friend List Message - Read Messages
+Bit0 = Ceba - Very Grateful!! - Gift
+# 0xcc2215 - Event Flag - Friend List Message - Read Messages
+Bit1 = Cocoa - Can You Help?
+Bit2 = Cocoa - Thanks - Gift
+# 0xcc2218 - Event Flag - Friend List Message - Read Messages
+Bit4 = Cordelia - Please Help.
+Bit5 = Cordelia - Luckily U Helped - Gift
+# 0xcc221b - Event Flag - Friend List Message - Read Mensages
+Bit7 = Hashish - Please Help.
+# 0xcc221c - Event Flag - Friend List Message - Read Mensages
+Bit0 = Hashish - Luckily U Helped - Gift
+# 0xcc221d - Event Flag - Friend List Message - Read Mensages
+Bit0 = Nazuna - Fight Together.
+# 0xcc2220 - Event Flag - Friend List Message - Read Messages
+Bit3 = Nicole - Help Level Up?
+# 0xcc2226 - Event Flag - Friend List Message - Read Messages
+Bit0 = More - Please Help.
+# 0xcc2227 - Event Flag - Friend List Message - Read Messages
+Bit1 = Cornelia - Please Help
+# 0xcc2229 - Event Flag - Friend List Message - Read Mensages
+Bit3 = Iris - Please Help Us.
+# 0xcc22b8 - Can Be Usable As Hours
+# 0xcc22b9 - Can Be Usable As Minutes
+# 0xcc22c4 - Map ID 16 bits
+0x0465=Flowers' Paradise
+0x04c9=Dragon In Center
+0x052d=Dragon Yin Seal
+0x0591=Dragon Yang Seal
+0x09c0=Spiral Way Green
+0x0a24=Windless Green
+0x0df0=Fallen Sunset Slope
+0x0e54=Waterfall Stream
+0x0fb1=Grotto Enlighten 1
+0x0fb2=Grotto Enlighten 2
+0x0fb3=Grotto Enlighten 3
+0x0fb4=Grotto Enlighten 4
+0x0fb5=Grotto Enlighten 5
+0x13e1=Demons' Cave - 1
+0x13e2=Demons' Cave - 2
+0x13e3=Demons' Cave - 3
+0x13e4=Demons' Cave - 4
+0x13e5=Demons' Cave-Boss
+0x1571=Grotto Battlefield
+0x15d5=Shelter of Monster
+0x1639=Shelter of Dragon
+0x1a05=Cliff Passage 1
+0x1a06=Cliff Passage 2
+0x1a69=Cliff Passage 3
+0x1a6a=Cliff Passage 4
+0x1b30=Courtyard of Ruby
+0x1f60=Marching Valley
+0x1fc4=Bloody Battlefield
+0x2028=Supply Depot
+0x2121=Trial of Ruby 1
+0x2122=Trial of Ruby 2
+0x2123=Trial of Ruby 3
+0x2124=Trial of Ruby 4
+0x2125=Trial of Ruby 5
+0x212f=Trial of Ruby 5
+0x2551=Stream Grotto 1
+0x2552=Stream Grotto 2
+0x2553=Stream Grotto 3
+0x2554=Stream Grotto 4
+0x2555=Stream Grotto 5
+0x2b11=Tower Torrents
+0x2b75=Tower Saults
+0x2bd9=Cloud Corridor
+0x2f41=Poison Weave Forest
+0x2fa5=Green Hole - 1
+0x2fa6=Green Hole - 2
+0x3009=BF Corridor
+0x30d0=Grassland Flaws
+0x3134=Penetrated Field
+0x338d=Path Distant Wind
+0x3500=Sage Proceed Vale
+0x3564=Road the Dead
+0x36c1=Guardian Maze 1
+0x36c2=Guardian Maze 2
+0x36c3=Guardian Maze 3
+0x36c4=Guardian Maze 4
+0x36c5=Guardian Maze 5
+0x3af1=Dragon Palace - 1
+0x3af2=Dragon Palace - 2
+0x3af3=Dragon Palace - 3
+0x3af4=Dragon Palace - 4
+0x3af5=Dragon Palace - 5
+0x3c81=Corridor Unbreak
+0x3ce5=Corridor Fighter
+0x3d49=Corridor Cunning
+0x3dad=Corridor of Plan
+0x40b1=Forest of Hyphae
+0x4115=Agile Monsters 1
+0x4116=Agile Monsters 2
+0x4179=Forest-Path Woods
+0x4240=Ruby Palace
+0x4499=Forest-Path
+0x4670=Cracked Gravel
+0x46d4=Broken Grotto
+0x4835=Ruby Place Low-Boss
+0x4836=Ruby Life Site
+0x4837=Ruby Aging Site
+0x4838=Ruby Illness Site
+0x4839=Ruby Death Site
+0x4c61=Forgotten Tower 1
+0x4c62=Forgotten Tower 2
+0x4c63=Forgotten Tower 3
+0x4c64=Forgotten Tower 4
+0x4c65=Forgotten Tower 5
+0x5651=Greenwood Avenue
+0x56b5=Cave of Demons
+0x5719=Fool's Corridor
+0x57e0=Waterfall Canyon
+0x5c10=Sun Kiss Desert
+0x5c40=Teleport Gate
+0x5c41=Shopping Street
+0x5c42=Central Plaza
+0x5c4a=Central Plaza
+0x5c4b=Central Plaza
+0x5ca8=76th Floor - Inn
+0x5c54=Cauldron of Dead - 4
+0x5c55=Cauldron of Dead - 4
+0x5c56=Trial of Ruby 4
+0x5c57=Corridor Throne
+0x5c58=Trial of Ruby 4
+0x5c5e=76th Floor - Precisa de teste
+0x5c74=Mirage Dunes
+0x5ca4=Agil's Shop
+0x5ca5=Inn Room
+0x5dd1=Magic Building 1
+0x5dd2=Magic Building 2
+0x5dd3=Magic Building 3
+0x5dd4=Magic Building 4
+0x5dd5=Magic Building 5
+0x6201=Monster Maze - 1
+0x6202=Monster Maze - 2
+0x6203=Monster Maze - 3
+0x6204=Monster Maze - 4
+0x6391=Corridor Low-Floor
+0x6459=Corridor Up-Floor
+0x6779=Maze Challengers
+0x6824=Unearthed Grotto 1
+0x6888=Unearthed Grotto 2
+0x68ec=Road of Rulers
+0x6ba9=Unearthed Grotto 2
+0x6d80=Dim Plant Marsh
+0x6de4=Water Lilies
+0x6e48=Cold Gloomy Ditch
+0x6f41=Corridor Throne
+0x6f45=Throne Ruby Palace - Hollow
+0x6f46=Throne Ruby Palace - Mini Streas
+0x6f47=Throne Ruby Palace - Hollow Strea
+0x6f48=Throne Ruby Palace - Heathcliff
+0x7371=Stronghold 1
+0x7372=Stronghold 2
+0x7373=Stronghold 3
+0x7374=Stronghold 4
+0x7375=Stronghold 5
+0x7931=Maze Hollow Foam
+0x7995=Windy Hallway
+0x7dc5=Maze Fragrant Leaf
+0x7e29=Forest AByss
+0x7e8d=Grotto of Chaos
+0x7ef0=Waste Gorge Far
+0x7ef1=Cave of Wisdom
+0x7f54=Crossed Wall
+0x8149=Demons' Cave 2
+0x8320=Stacked Vortex
+0x8384=Intersect Towers
+0x84e1=Dark Knight 1
+0x84e2=Dark Knight 2
+0x84e3=Dark Knight 3
+0x84e4=Dark Knight 4
+0x84e5=Dark Knight 5
+0x8911=Halls Strong - 1
+0x8912=Halls Strong - 2
+0x8913=Halls Strong - 3
+0x8914=Halls Strong - 4
+0x8915=Halls Strong - 5
+0x8b05=Tower of Shield 1
+0x8b06=Tower of Shield 2
+0x8b07=Tower of Shield 3
+0x8b69=Tower of Sword 1
+0x8b6a=Tower of Sword 2
+0x8b6b=Tower of Sword 3
+0x8f35=Delusive Tree
+0x8f99=Blooming Forest
+0x8ffd=Hermit Residence
+0x9061=Spilled Corridor
+0x92b9=Hermit Residence
+0x931d=Blooming Forest
+0x9490=Greenish Path
+0x94f4= Fountain Springs
+0x9924=Hill With Cobweb
+0x9988=Losers' Canyon
+0x9a81=Tenants' Work 1
+0x9a82=Tenants' Work 2
+0x9a83=Tenants' Work 3
+0x9a84=Tenants' Work 4
+0x98c0=Path Distant Wind
+0x99ec=Predator's Road
+0xa041=Wyvern Mid-Floor
+0xa0a5=Wyvern Up-Floor
+0xa4d5=Rippled Corridor
+0xa539=Water Corridor
+0xa59d=Shift Corridor
+0xa600=Street Wisdom
+0xaa30=Green Field
+0xaa94=Fierce Crossroad
+0xabf1=Beast Master 1
+0xabf2=Beast Master 2
+0xabf3=Beast Master 3
+0xabf4=Beast Master 4
+0xabf5=Beast Master 5
+0xb021=Solid Grotto 1
+0xb022=Solid Grotto 2
+0xb023=Solid Grotto 3
+0xb024=Solid Grotto 4
+0xb025=Solid Grotto 5
+0xb5e1=Dead Front Line 1
+0xb5e2=Dead Front Line 2
+0xb5e3=Dead Front Line 3
+0xb645=Fort Walking Dead
+0xb6a9=Treasure Dead
+0xb9c9=Dead Front Line 1
+0xba2d=Dead Front Line 2
+0xba2e=Dead Front Line 3
+0xba91=Forgotten Tower 3
+0xbba0=Plants Hill
+0xbc04=Plants Land 1
+0xbc68=Plants Land 2
+0xbccc=Plants Land 3
+0xbfd0=Serpent Isle
+0xc034=Serpent Tail Air
+0xc098=Battle Outpost
+0xc191=Temple Turbid 1
+0xc192=Temple Turbid 2
+0xc193=Temple Turbid 3
+0xc194=Temple Turbid 4
+0xc195=Temple Turbid 5
+0xc5c1=Cauldron of Dead - 1
+0xc5c2=Cauldron of Dead - 2
+0xc5c3=Cauldron of Dead - 3
+0xc5c4=Cauldron of Dead - 4
+0xc5c5=Cauldron of Dead - 5
+0xc5cb=Dungeon Tutorial
+0xcb81=Sacrifice Level - 1
+0xcb82=Sacrifice Level - 2
+0xcbe5=Fanatics' Lab - 1
+0xcbe6=Fanatics' Lab - 2
+0xcbe7=Fanatics' Lab - 3
+0xcc49=Research Prison
+0xcd10=Maze Challengers
+0xcf69=Research Prison
+0xcfcd=Mystery Dungeon
+0xd140=Dry Valley
+0xd1a4=Sandy Wasteland
+0xd301=Hall Paladin 1
+0xd302=Hall Paladin 2
+0xd303=Hall Paladin 3
+0xd304=Hall Paladin 4
+0xd305=Hall Paladin 5
+0xd731=Kingdom Bandits 1
+0xd732=Kingdom Bandits 2
+0xd733=Kingdom Bandits 3
+0xd734=Kingdom Bandits 4
+0xdd55=Grotto Up-Floor
+0xdd56=Grotto Mid-Floor
+0xdd57=Grotto Low-Floor
+0xddb9=Grotto Insatiable
+0xde1d=Fortress Sleeping
+0xde81=Resulting Forest
+0xe2b0=Vale Path Mystery
+0xe314=Towers Eternity
+0xe6e0=Penetrated Ground
+0xe744=Clover of Cliff
+0xe8a1=Tower Monster 1
+0xe8a2=Tower Monster 2
+0xe8a3=Tower Monster 3
+0xe8a4=Tower Monster 4
+0xe8a5=Tower Monster 5
+0xecd1=Treasure Maze - 1
+0xecd2=Treasure Maze - 2
+0xecd3=Treasure Maze - 3
+0xecd4=Treasure Maze - 4
+0xecd5=Treasure Maze - 5
+0xeec5=Forest Ant-East
+0xef29=Forest Ant-West
+0xef8d=Aged Treasure-East
+0xeff1=Aged Treasure-West
+0xf291=Blocking Trial
+0xf2f5=Limited Lost Trial
+0xf359=Mimicry Trial
+0xf3bd=Evil Wipeout Trial
+0xf420=Path of Ruby Protect
+0xf850=Forest Path
+0xf8b4=Illusory Lakeside
+0xfa11=Death King 1
+0xfa12=Death King 2
+0xfa13=Death King 3
+0xfa14=Death King 4
+0xfa15=Death King 5
+0xfe41=Dwell Devour 1
+0xfe42=Dwell Devour 2
+0xfe43=Dwell Devour 3
+0xfe44=Dwell Devour 4
+0xfe45=Dwell Devour 5
+# 0xcc22c8 - Map ID Backup 16 bits - with a lot of variants
+0x05c0=100th Floor
+0x09f0=86th Floor
+0x09f1=86th Floor - Inn
+0x09f2=86th Floor - Weapon Shop
+0x09f3=86th Floor - Armor Shop
+0x09f4=86th Floor - Item Shop
+0x1b60=94th Floor
+0x1b61=94th Floor - Inn
+0x1b62=94th Floor - Weapon Shop
+0x1b63=94th Floor - Armor Shop
+0x1b64=94th Floor - Item Shop
+0x1f90=81th Floor
+0x1f91=81th Floor - Inn
+0x1f92=81th Floor - Weapon Shop
+0x1f93=81th Floor - Armor Shop
+0x1f94=81th Floor - Item Shop
+0x3100=88th Floor
+0x3101=88th Floor - Inn
+0x3102=88th Floor - Wapon Shop
+0x3103=88th Floor - Armor Shop
+0x3104=88th Floor - Item Shop
+0x4270=95th Floor
+0x4271=95th Floor - Inn
+0x4272=95th Floor - Weapon Shop
+0x4273=95th Floor - Armor Shop
+0x4274=95th Floor - Item Shop
+0x46a0=82th Floor
+0x46a1=82th Floor - Inn
+0x46a2=82th Floor - Weapon Shop
+0x46a3=82th Floor - Armor Shop
+0x46a4=82th Floor - Item Shop
+0x46a9=82th Floor - Lake
+0x5810=89th Floor
+0x5811=89th Floor - Inn
+0x5813=89th Floor - Weapon Shop
+0x5813=89th Floor - Armor Shop
+0x5814=89th Floor - Item Shop
+0x6980=96th Floor
+0x6981=96th Floor - Inn
+0x6982=96th Floor - Weapon Shop
+0x6983=96th Floor - Armor Shop
+0x6984=96th Floor - Item Shop
+0x6db0=83th Floor
+0x6db1=83th Floor - Inn
+0x6db2=83th Floor - Weapon Shop
+0x6db3=83th Floor - Armor Shop
+0x6db9=83th Floor - Scenic Site
+0x6db4=83th Floor - Item Shop
+0x7f20=90th Floor
+0x7f21=90th Floor - Inn
+0x7f22=90th Floor - Weapon Shop
+0x7f23=90th Floor - Armor Shop
+0x7f24=90th Floor - Item Shop
+0x8350=77th Floor
+0x8351=77th Floor - Inn
+0x8352=77th Floor - Weapon Shop
+0x8353=77th Floor - Armor Shop
+0x8354=77th Floor - Item Shop
+0x9090=97th Floor
+0x9091=97th Floor - Inn
+0x9092=97th Floor - Weapon Shop
+0x9093=97th Floor - Armor Shop
+0x9094=97th Floor - Item Shop
+0x94c0=84th Floor
+0x94c1=84th Floor - Inn
+0x94c2=84th Floor - Weapon Shop
+0x94c3=84th Floor - Armor Shop
+0x94c4=84th Floor - Item Shop
+0xa630=91th Floor
+0xa631=91th Floor - Inn
+0xa632=91th Floor - Weapon Shop
+0xa633=91th Floor - Armor Shop
+0xa634=91th Floor - Item Shop
+0xaa60=78th Floor
+0xaa61=78th Floor - Inn
+0xaa62=78th Floor - Weapon Shop
+0xaa63=78th Floor - Armor Shop
+0xaa63=78th Floor - Item Shop
+0xb7a0=98th Floor
+0xb7a1=98th Floor - Inn
+0xb7a2=98th Floor - Wapon Shop
+0xb7a3=98th Floor - Armor Shop
+0xb7a4=98th Floor - Item Shop
+0xbbd0=85th Floor
+0xbbd1=85th Floor - Inn
+0xbbd2=85th Floor - Weapon Shop
+0xbbd3=85th Floor - Armor Shop
+0xbbd4=85th Floor - Item Shop
+0xcd40=92th Floor
+0xcd41=92th Floor - Inn
+0xcd42=92th Floor - Weapon Shop
+0xcd43=92th Floor - Armor Shop
+0xcd44=92th Floor - Item Shop
+0xd170=79th Floor
+0xd171=79th Floor - Inn
+0xd172=79th Floor - Weapon Shop
+0xd173=79th Floor - Armor Shop
+0xd174=79th Floor - Item Shop
+0xd179=79th Floor - Crunch
+0xdeb0=99th Floor
+0xdeb1=99th Floor - Inn
+0xdeb2=99th Floor - Weapon Shop
+0xdeb3=99th Floor - Armor Shop
+0xdeb4=99th Floor - Item Shop
+0xe2e0=86th Floor
+0xe2e1=86th Floor - Inn
+0xe2e2=86th Floor - Weapon Shop
+0xe2e3=86th Floor - Armor Shop
+0xe2e4=86th Floor - Item Shop
+0xf450=93th Floor
+0xf451=93th Floor - Inn
+0xf452=93th Floor - Weapon Shop
+0xf453=93th Floor - Armor Shop
+0xf454=93th Floor - Item Shop
+0xf880=80th Floor
+0xf881=80th Floor - Inn
+0xf882=80th Floor - Weapon Shop
+0xf883=80th Floor - Armor Shop
+0xf884=80th Floor - Item Shop
+# 0xcc22e0 - Map Cleared 720 bytes
+# 0xcc27bc - Item Flag - Herb Valley
+Bit0 = Chest - [Potion] Grand Potion X2 - 76 Floor
+# 0xcc29c4 - Item Flag - Poison Weave Forest
+Bit0 = Chest - [Ores] Red Flame Ore X4
+Bit2 = Chest - [2-Handed] Ultima Random Drop
+Bit4 = Chest - [Sword] Marauder Random Drop
+Bit6 = Chest - [Crystal] Restore Crystal 3
+
+0xcc29c5	
+Item Flag - Poison Weave Forest
+Bit0 = Chest - [Dagger] Venom Random Drop
+Bit2 = Chest - [Dress] Sharp Edge Ore X5
+Bit4 = Chest - [Dress] Stream Ore X5
+Bit6 = Chest - 150000 Col
+
+0xcc29c6	
+Item Flag - Poison Weave Forest
+Bit0 = Chest - [Dress] Kongo Ore X5
+
+0xcc2ac8	
+Item Flag - Greed Hole 1
+Bit0 = [Dress] Windy F. Stone X10 - Cavern 76 Floor
+Bit2 = [Dress] Kongo Stone X10 - Cavern 76 Floor
+Bit4 = [Dress] White Grey Ore X5 - Cavern 76 Floor
+Bit6 = [Dress] Crust Ore X5 - Cavern 76 Floor
+
+0xcc2b5e	
+Event Flag
+Bit0 = Greed Hole 1 - Removed Barier
+
+0xcc2bcc	
+Item Flag - Greed Hole 2
+Bit0 = Chest - [Rapier] FlussLine+4x1 - Cavern 76 Floor
+Bit5 = Chest - 180000 Col - Cavern 76 Floor
+
+0xcc2dd4	
+Item Flag BF Corridor - 76th Floor
+Bit0 = Chest - [Scimitar] Random Kaiser Drop
+Bit2 = Chest - [Rapier] Random Drop
+Bit4 = Chest - [Spear] WaldSauveur+2 X1
+Bit6 = Chest - [Crystal] Healing Crystal 4
+
+0xcc2dd5	
+Item Flag BF Corridor
+Bit0 = [1-Club] Dead Random Drop
+Bit2 = [Dress] Kongo Crystal X3
+
+0xcc2fdc	
+Item Flag - Cauldron of Dead - 1 - 76th Floor
+Bit0 = Chest - [Dress] Stream Stone X4
+Bit2 = Chest - [Potion] Grand Potion X3
+Bit4 = Chest - [Potion] SP - Hi-Potion X4
+Bit6 = Chest - [Dress] Sharp Edge Stone X10
+
+0xcc3073	
+Event Flag
+Bit0 = Door Opened - Cauldron of Dead - 1
+Bit1 = Door Opened - Cauldron of Dead - 1
+
+0xcc30e0	
+Item Flag - Cauldron of Dead - 1 - 76th Floor
+Bit0 = Chest - [Crystal] Teleport Crystal 3
+Bit2 = Chest - [2-Gr. Axe] Insane Random Drop
+Bit4 = Chest - [Dress] Wind F. Stone X10
+Bit6 = Chest - [Dress] White Grey Stone X10
+
+0xcc3177	
+Event Flag
+Bit0 = Door Opened - Cauldron of Dead - 2
+Bit1 = Door Opened - Cauldron of Dead - 2
+Bit2 = Door Opened - Cauldron of Dead - 2
+Bit3 = Door Opened - Cauldron of Dead - 2
+
+0xcc31e4	
+Item Flag - Cauldron of Dead - 3 - 76th Floor
+Bit0 = Chest - [Rapier] Random Prize
+Bit2 = Chest - [Katana] Random Prize
+Bit4 = Chest - [Dress] Red Flame Stone X10
+Bit6 = Chest - [Potion] Grand Potion X2
+
+0xcc31e5	
+Item Flag - Cauldron of Dead - 3 - 76th Floor
+Bit0 = Chest [Potion] - Hit Potion X3
+
+0xcc327b	
+Event Flag
+Bit0 = Door Opened - Cauldron of Dead - 3
+Bit1 = Door Opened - Cauldron of Dead - 3
+Bit2 = Door Opened - Cauldron of Dead - 3
+Bit3 = Door Opened - Cauldron of Dead - 3
+Bit4 = Door Opened - Cauldron of Dead - 3
+Bit5 = Door Opened - Cauldron of Dead - 3
+
+0xcc3d10	
+Item Flag - Greenwood Avenue - 77th Floor
+Bit0 = Chest - [1-Club] Dead Slugger X1
+Bit2 = Chest - [2-Gr. Axe] Insane Random Drop
+Bit4 = Chest - Dress] Red Flame Stone X4
+Bit6 = Chest - [Spear] WaldStream X1
+
+0xcc3e14	
+Item Flag - Cavern of Demons - 77th Floor
+Bit0 = Chest - [Crystal] Healing Crystals
+Bit2 = Chest - [Sword] Kaiser Random Drop
+Bit4 = Chest - [Dress] Red Flame Ore X4
+Bit6 = Chest - [Dress] Wind F. Stone X4
+
+0xcc3e15	
+Item Flag - Cavern of Demons - 77th Floor
+Bit0 = Chest - [Dagger] Venom Feless+2 X1
+Bit2 = Chest - [Crystal] Teleport Crystal3
+
+0xcc3ea3	
+Event Flag - Cavern of Demons
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+
+0xcc3f18	
+Item Flag - Fool's Corridor - 77th Floor
+Bit1 = Chest - [Dress] Random Drop
+Bit2 = Chest - [Dress] Kongo Stone X4
+Bit4 = Chest - [Sword] Kaizer Strait X1
+Bit6 = Chest - [Dress] Stream Stone X4
+
+0xcc3fbe	
+Event Flag - Crystals
+Bit0 = Fat Slime - Fool's Corridor
+Bit1 = Fat Slime - Fool's Corridor
+Bit1 = Fat Slime - Fool's Corridor
+
+0xcc401c	
+Item Flag - Treasure Maze - 1 - 77th Floor
+Bit0 = Chest - [Dress] White Grey Stone X4
+Bit2 = Chest - [Crystal] Healing Crystal 3
+Bit4 = Chest - [Dress] Sharp Edge Stone X4
+Bit6 = Chest - [Dress] Crust Stone X10
+
+0xcc401d	
+Item Flag - Treasure Maze - 1 - 77th Floor
+Bit0 = Chest - [Dress] Windy Flower Ore X4
+
+0xcc40b3	
+Event Flag - Treazure Maze 1 - 77th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+
+0xcc4120	
+Item Flag - Treasure Maze - 2 - 77th Floor
+Bit0 = Chest - [Crystal] Teleport Crystal 3
+Bit2 = Chest - [Dress] White Grey Ore X5
+Bit4 = Chest - [Dress] Stream Ore X5
+Bit6 = Chest - [Potion] SP Grand Potion X5
+
+0xcc41a8	
+Enemy Flag - Treazure Maze 2 - 77th Floor
+Bit0 = 2 Fat Slime
+
+0xcc41b7	
+Event Flag - Treazure Maze 2 - 77th Floor
+Bit0 = Door Unlocked - 2 Fat Slime
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+
+0xcc4224	
+Item Flag - Treazure Maze 3 - 77th Floor
+Bit0 = Chest - [Sword] Kaizer Random Drop
+Bit2 = Chest - [Sword] Grand Potion X5
+Bit4 = Chest - [Sword] Sharp Edge Ore X5
+Bit6 = Chest - [Sword] Random Drop
+
+0xcc42ad	
+Enemy Flag - Treazure Maze 3 - 77th Floor
+Bit0 = 2 Fat Slime
+
+0xcc42b3	
+Event Flag - Treazure Maze 3 - 77th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked - 2 Fat Slime
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+
+0xcc505c	
+Item Flag - Maze Fragant Leaf - 78th Floor
+Bit0 = Chest - [Dress] Wind F. Stone X10
+Bit2 = Chest - [Dress] Stream Ore X4
+Bit4 = Chest - [Dress] Sharp Edge Stone X10
+Bit6 = Chest - [Dress] Red Flame Stone X10
+
+0xcc505d	
+Item Flag - Maze Fragant Leaf - 78th Floor
+Bit0 = Chest - [Potion] Grand Potion X2
+
+0xcc5160	
+Item Flag - Forest Abyss - 78th Floor
+Bit0 = Chest - [Sword] Random Drop
+
+0xcc5264	
+Item Flag - Grotto of Chaos - 78th Floor
+Bit0 = Chest - [Potion] Grand Potion X3
+Bit2 = Chest - [Dress] Wind Flower Ore X5
+Bit4 = Chest - [Dress] Crust Stone X10
+Bit6 = Chest - [Dress] White Grey Stone X10
+
+0xcc5265	
+Item Flag - Grotto of Chaos - 78th Floor
+Bit0 = Chest - [Sword] Random Drop
+Bit2 = Chest - ??
+Bit4 = Chest - [Crystal] Healing Crystals
+
+0xcc5368	
+Item Flag - Cave of Wisdom - 78th Floor
+Bit0 = Chest - [Dress] Red Flame Stone X10
+Bit2 = Chest - [Dress] Crust Ore X5
+Bit4 = Chest - [Dress] Kongo Stone X10
+
+0xcc53f7	
+Event Flag - Cave of Wisdom - 78th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+
+0xcc5570	
+Item Flag - Demons' Cave 1 - 78th Floor
+Bit0 = Chest - [Crystal] Teleport Crystal 3
+Bit2 = Chest - [Potion] Grand Potion X5
+Bit4 = Chest - [Potion] SP Grand Potion X4
+Bit6 = Chest - 200000 Col
+
+0xcc5674	
+Item Flag - Demons' Cave 2 - 78th Floor
+Bit0 = Chest - [Rapier] Random Drop
+Bit2 = Chest - [1-Club] Dead Random Drop
+Bit4 = Chest - [Dagger] Random Drop
+Bit6 = Chest - [Potion] SP Grand Potion X3
+
+0xcc5675	
+Item Flag - Demons' Cave 2 - 78th Floor
+Bit0 = Chest - [Dress] Kongo Stone X10
+
+0xcc5778	
+Item Flag - Demons' Cave 3 - 78th Floor
+Bit0 = Chest - [Potion] Grand Potion X5
+Bit2 = Chest - [Ores] Stream Ore X5
+Bit4 = Chest - [Dagger] Insane Random Drop
+Bit6 = Chest - [Sword] Blood Random Drop
+
+0xcc64ac	
+Item Flag - Rippled Corridor - 79th Floor
+Bit0 = Chest - [Sword] Random Prize
+
+0xcc653c	
+Event Flag - Rippled Corridor
+Bit0 = Triggers at the same time when you press the 1st switch
+
+0xcc6540	
+Event Flag - Rippled Corridor
+Bit0 = Water
+Bit1 = Cutscene
+
+0xcc6542	
+Event Flag - Rippled Corridor
+Bit0 = Switch
+
+0xcc65b0	
+Item Flag - Water Corridor - 79th Floor
+Bit0 = Chest - [Ores] Red Flame Stone X10
+Bit2 = Chest - [Crystal] Teleport Crystal3
+Bit4 = Chest - [1-Club] Dead Random Drop
+
+0xcc6638	
+Event Flag - Water Corridor
+Bit0 = Trigger at the same time when the door open
+
+0xcc663f	
+Event Flag - Water Corridor
+Bit5 = Door Unlocked - After Huge Poison Crab
+
+0xcc6657	
+Event Flag - Water Corridor
+Bit0 = Door Unlocked
+
+0xcc6658	
+Event Flag - Water Corridor
+Bit0 = Triggers at the same time when you press the 1st switch
+Bit4 = Triggers at the same time when you press the 2nd switch
+
+0xcc665c	
+Event Flag - Water Corridor
+Bit0 = Water
+Bit1 = ?? at the same time Bit0
+Bit2 = Water
+
+0xcc665e	
+Event Flag - Water Corridor
+Bit0 = Switch
+Bit1 = Switch
+Bit2 = Switch
+
+0xcc66b4	
+Item Flag - Shift Corridor - 79th Floor
+Bit0 = [Ores] Stream Stone X10
+Bit2 = Chest - [Sword] Blood Strait +2 X1
+Bit4 = Chest - [Ores] Kongo Stone X10
+
+0xcc67b8	
+Item Flag - Dragon Palace 1 - 79th Floor
+Bit0 = Chest - [Katana] Random Prize
+Bit2 = Chest - [2-Gr. Axe] Insane Random Prize
+Bit4 = Chest - [1-Club] Dead Random Prize
+
+0xcc68bc	
+Item Flag - Dragon Palace 2 - 79th Floor
+Bit0 = Chest - [Sword] Random Drop
+Bit2 = Chest - [Dress] Sharp Edge Stone X10
+Bit4 = Chest - [Potion] SP Grand Potion X4
+
+0xcc69c0	
+Item Flag - Dragon Palace 3 - 79th Floor
+Bit0 = Chest - [Potion] Grand Potion X4
+Bit2 = Chest - [Dress] Crust Stone X10
+Bit4 = Chest - [Dress] Windy F. Stone X10
+Bit6 = Chest - [Sword] Dead Random Drop
+
+0xcc78fc	
+Item Flag - Sacrifice Level 1 - 80th Floor
+Bit0 = Chest - [Ores] Stream Stone X1
+Bit2 = Chest - [Ores] Red Flame Stone X10
+Bit4 = Chest - [Spear] Wald Random Drop
+Bit6 = Chest - [Ores] Crust Stone X10
+
+0xcc78fd	
+Item Flag - Sacrifice Level 1 - 80th Floor
+Bit0 = Chest - [Ores] Stream Stone X10
+Bit2 = Chest - [Rapier] Blood Random Drop
+
+0xcc7984	
+Event Flag - Sacrifice Level 1
+Bit0 = Item Flag Door Key (the same Chest as other item in the Sacrifice Level 1)
+Bit1 = Used the Key
+
+0xcc7993	
+Event Flag - Sacrifice Level 1
+Bit0 = Key Door Unlocked
+
+0xcc799b	
+Event Flag - Sacrifice Level 1
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+
+0xcc7a00	
+Item Flag - Sacrifice Level 2 - 80th Floor
+Bit0 = Chest - [Dress] Wind F. Stone X1
+Bit2 = Chest - [Potion] SP Grand Potion X5
+Bit4 = Chest - [Dress] Kongo Stone X10
+Bit6 = Chest - [Sword] Random Drop
+
+0xcc7a01	
+Item Flag - Sacrifice Level 2 - 80th Floor
+Bit0 = Chest - [Dress] White Grey Ore X6
+Bit2 = Chest - [2-Handed] Random Drop
+
+0xcc7a88	
+Event Flag - Sacrifice Level 2
+Bit0 = Item Flag Door Key (the same Chest as other item in the Sacrifice Level 2)
+Bit1 = Used the Key
+
+0xcc7a97	
+Event Flag - Sacrifice Level 2
+Bit0 = Key Door Unlocked
+
+0xcc7aa7	
+Event Flag - Sacrifice Level 2
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+
+0xcc7b04	
+Item Flag - Fanatics' Lab 1 - 80th Floor
+Bit0 = Chest - 300000 Col
+Bit2 = Chest - [Potion] Grand Potion X3
+
+0xcc7b94	
+Event Flag - Fanatics' Lab 1
+Bit0 = Switch
+
+0xcc7b9b	
+Event Flag - Fanatics' Lab 1
+Bit0 = Door Unlocked
+
+0xcc7c08	
+Item Flag - Fanatics' Lab 2 - 80th Floor
+Bit0 = Chest - [Potion] Grand Potion X3
+Bit2 = Chest - [Rapier] Random Drop
+
+0xcc7c98	
+Event Flag - Fanatics' Lab 2
+Bit0 = Switch
+
+0xcc7c9f	
+Event Flag - Fanatics' Lab 2
+Bit0 = Door Unlocked
+
+0xcc7d0c	
+Item Flag - Fanatics' Lab 3 - 80th Floor
+Bit0 = Chest - [Dagger] Kaiser Random Drop
+Bit2 = Chest - [Sword] Kaiser Random Drop
+Bit4 = Chest - [Crystal] Restore Crystal 2
+
+0xcc7d9c	
+Event Flag - Fanatics' Lab 3
+Bit0 = Switch
+
+0xcc7da3	
+Event Flag - Fanatics' Lab 3
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked after Trap
+Bit3 = Door Unlocked
+
+0xcc7dac	
+Event Flag - Fanatics' Lab 3
+Bit0 = Trap Room
+Bit1 = Beaten the Trap Room
+
+0xcc7e10	
+Item Flag - Research Prison - 80th Floor
+Bit0 = Chest - [Crystal] Teleport Crystal 3
+Bit2 = Chest - [Potion] SP Hi-Potion X4
+Bit4 = Chest - [Crystal] Restore Crystal 2
+Bit6 = Chest - [Potion] SP Grand Potion X3
+
+0xcc7e11	
+Item Flag - Research Prison - 80th Floor
+Bit0 = Chest - [Potion] Grand Potion X3
+
+0xcc7f14	
+Item Flag - Monster Maze - 80th Floor
+Bit0 = Chest - [Dress] Windy F. Stone X10
+Bit2 = Chest - [Dress] Sharp Edge Stone X10
+Bit4 = Chest - [Potion] SP Hi-Potion X3
+
+0xcc8018	
+Item Flag - Monster Maze 2 - 80th Floor
+Bit0 = Chest - [Dress] Crust Ore X6
+Bit2 = Chest - [Potion] SP Hi-Potion X4
+Bit4 = Chest - [Dagger] Kaizer Random Drop
+Bit6 = Chest - [Dagger] Beast Feles +4
+
+0xcc8019	
+Item Flag - Monster Maze 2 - 80th Floor
+Bit1 = Chest - [Ores] Kongo Ore X6
+Bit2 = Chest - [Sword] Random Drop
+
+0xcc80a0	
+Event Flag - Monster Maze 2
+Bit0 = Switch
+
+0xcc80a7	
+Event Flag - Monster Maze 2
+Bit0 = Door Unlocked
+
+0xcc811c	
+Item Flag - Monster Maze 3 - 80th Floor
+Bit0 = Chest - [Potion] Grand Potion X6
+Bit2 = Chest - [Crystal] Restore Crystal 2
+Bit4 = Chest - [Sword] Random Drop
+
+0xcc8d4c	
+Item Flag - Blocking Trial - 81th Floor
+Bit2 = Chest - [Dress] Crust Stone X5
+Bit4 = Chest - [Valuables] Block Trial Key
+Bit6 = Chest - [Potion] SP Grand Potion X4
+
+0xcc8dea	
+Event Flag - Blocking Trial - 81th Floor
+Bit0 = Switch
+
+0xcc8deb	
+Event Flag - Blocking Trial - 81th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked - Enemy
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked With Key
+Bit4 = Door Unlocked
+
+0xcc8e51	
+Item Flag - Limited Lost Trial - 81th Floor
+Bit6 = Chest - [Sword] Maravder Random Drop
+
+0xcc8e52	
+Item Flag - Limited Lost Trial - 81th Floor
+Bit0 = Chest - 300000 Col
+Bit2 = Chest - [Ores] Wind F. Stone X10
+Bit4 = Chest - [Crystal] Teleport Crystal 3
+
+0xcc8eef	
+Event Flag - Limited Lost Trial - 81th Floor
+Bit0 = Door Unlocked
+
+0xcc8f58	
+Item Flag - Mimicry Trial - 81th Floor
+Bit0 = Chest - None (key in another address)
+Bit2 = Chest - [Scimitar] Kaiser Random Drop
+Bit4 = Chest - [Dagger] Random Drop
+Bit6 = Chest - [Sword] Random Drop
+
+0xcc8f5c	
+Item Flag - Mimicry Trial - 81th Floor
+Bit0 = Chest - Trap Chest - Monster Attacks
+Bit1 = Chest - Trap Chest - Monster Attacks
+Bit2 = Chest - Trap Chest - Monster Attacks
+Bit3 = Chest - Trap Chest - Monster Attacks
+Bit4 = Chest - Trap Chest - Monster Attacks
+Bit5 = Chest - Trap Chest - Monster Attacks
+Bit6 = Chest - Trap Chest - Monster Attacks
+Bit7 = Chest - Trap Chest - Monster Attacks
+
+0xcc8ff4	
+Item Flag - Mimicry Trial - 81th Floor
+Bit0 = Key
+
+0xcc8ffb	
+Event Flag - Mimicry Trial
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked With Key
+
+0xcc9058	
+Item Flag - Evil Wipeout Trial - 81th Floor
+Bit4 = Chest - [Dress] Sharp Edge Stone X10
+Bit6 = Chest - [Sword] Eternal Hero +2
+
+0xcc9059	
+Item Flag - Evil Wipeout Trial - 81th Floor
+Bit0 = Chest - [Dagger] Recife Random Drop
+
+0xcc910f	
+Event Floor - Evil Wipeout Trial - 81th Floor
+Bit0 = Door Unlocked - Enemy
+Bit1 = Door Unlocked - Enemy
+Bit2 = Door Unlocked - Enemy
+
+0xcc915c	
+Item Flag - Halls Strong - 81th Floor
+Bit0 = Chest - [Dress] RedFlame Stone X10
+Bit2 = Chest - [Sword] Random Drop
+Bit6 = Chest - [Dagger] Randon Drop
+
+0xcc9164	
+Item Flag - Halls Strong 1 - 81th Floor
+Bit2 = Chest - Trap Chest - Monster Attacks
+
+0xcc91f3	
+Event Flag - Halls Strong 1 - 81th Floor
+Bit0 = Door Unlocked - Enemy
+
+0xcc9260	
+Event Flag - Halls Strong 2 - 81th Floor
+Bit0 = Chest - [Potion] Grand Potion X3
+Bit2 = Chest - [Crystal] Restore Crystal 3
+
+0xcc9268	
+Event Flag - Halls Strong 2 - 81th Floor
+Bit2 = Chest - Trap Chest - Monster Attacks
+
+0xcc9364	
+Item Flag - Halls Strong 3 - 81th Floor
+Bit2 = Chest - [Dagger] Recife Random Drop
+Bit4 = Chest - [Sword] High Tidelake+3 X1
+
+0xcc936c	
+Item Flag - Halls Strong 3 - 81th Floor
+Bit0 = Chest - Trap Chest - Monster Attacks
+
+0xcc93fb	
+Event Flag - Halls Strong 3
+Bit0 = Door Unlocked - Enemy
+Bit1 = Door Unlocked - Enemy
+Bit2 = Door Unlocked - Enemy
+Bit3 = Door Unlocked - Enemy
+
+0xcca19c	
+Item Flag - Cliff Passage 1 - 82th Floor
+Bit0 = Chest - [Dress] Kongo Stone X10
+Bit2 = Chest - [Dress] Stream Stone X10
+Bit4 = Chest - [Valuables] Cliff Key 1 X1
+Bit6 = Chest - [Dress] White Grey Stone X10
+
+0xcca224	
+Item Flag
+Bit0 = Cliff Key
+
+0xcca233	
+Event Flag - Cliff Passage 1 - 82th Floor
+Bit0 = Door Unlocked With Key
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+Bit6 = Door Unlocked
+
+0xcca32f	
+Event Flag - Clif Passage 2 - 82th Floor
+Bit0 = Door Unlocked - Enemies
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked - Enemies
+Bit4 = Door Unlocked - Enemies
+Bit5 = Door Unlocked
+Bit6 = Door Unlocked - Switch
+
+0xcca336	
+Event Flag - Cliff Passage 2 - 82th Floor
+Bit0 = Switch
+
+0xcca3a4	
+Item Flag - Cliff Passage 3 - 82th Floor
+Bit0 = Chest - [Dress] Red Flame Ore X6
+Bit2 = Chest - [Valuables] Clif Key 2 X1
+Bit4 = Chest - [Dress] Crust Ore X6
+Bit6 = Chest - [Dress] Sharp Edge Ore X6
+
+0xcca43b	
+Event Flag - Cliff Passage 3 - 82th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+
+0xcca43c	
+Event Flag - Cliff Passage 3 - 82th Floor
+Bit0 = Clif Key
+Bit4 = Fake Door Appear - Monster
+Bit5 = Fake Door Defeated - Monster
+
+0xcca443	
+Event Flag - Cliff Passage 3 - 82th Floor
+Bit0 = Door Unlocked With Key
+
+0xcca4a8	
+Item Flag - Cliff Passage 82th Floor
+Bit0 = Chest - [Dress] Stream Crystal X5
+Bit2 = Chest - [Dress] Sharp Edge Stone X10
+
+0xcca538	
+Event Flag - Cliff Passage 4 - 82th Floor
+Bit2 = Enemy (Maybe Key Drop)
+
+0xcca53f	
+Event Flag - Clif Passage 4 - 82th Floor
+Bit0 = Door Unlocked - Switch
+Bit1 = Door Unlocked - Enemy
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+Bit6 = Door Unlocked
+
+0xcca540	
+Event Flag - Cliff Passage 3 - 82th Floor
+Bit0 = Clif Key
+Bit4 = Fake Door Appear - Monster
+Bit5 = Fake Door Defeated - Monster
+
+0xcca546	
+Event Flag - Cliff Passage 4 - 82th Floor
+Bit0 = Switch
+
+0xcca5ac	
+Item Flag - Solid Grotto 1 - 82th Floor
+Bit0 = Chest - [Dress] White G. Crystal X5
+Bit2 = Chest - [Potion] SP Hi-Potion X6
+Bit4 = Chest - [Potion] Grand Potion X4
+
+0xcca6b0	
+Item Flag - Solid Grotto 2 - 82th Floor
+Bit0 = Chest - [Dress] Crust Crystal X5
+Bit2 = Chest - [Dress] Windy F. Crystal X5
+Bit4 = Chest - [Crystal] Teleport Crystal 3
+
+0xcca7b4	
+Item Flag - Solid Grotto 3 - 82th Floor
+Bit0 = Chest - [Sword] Random Drop
+Bit2 = Chest - [Dress] Kongo Crystal X5
+Bit4 = Chest - [Rapier] Random Drop
+
+0xcca83c	
+Event Flag - Solid Grotto 3 - 82th FLoor
+Bit0 = Door Unlocked - Enemy
+
+0xcca843	
+Event Flag - Solid Grotto 3 - 82th FLoor
+Bit0 = Door Unlocked
+Bit0 = Door Unlocked - Enemy
+
+0xccb5ec	
+Item Flag - Forest of Hyphae - 83th Floor
+Bit0 = Chest - [Dress] Sharp Edge Ore X5
+Bit2 = Chest - 400000 Col
+Bit4 = Chest - [Crystal] Restore Crystal 5
+Bit6 = Chest - [Crystal] Teleport Crystal 4
+
+0xccb5ed	
+Item Flag - Forest of Hyphae - 83th Floor
+Bit0 = Chest - [Dress] Stream Crystal X5
+
+0xccb6f0	
+Item Flag - Agile Monsters 1 - 83th Floor
+Bit2 = Chest - 450000 Col
+Bit4 = Chest - [Sword] Random Drop
+Bit6 = Chest - [Spear] Random Drop
+
+0xccb6f1	
+Item Flag - Agile Monsters 1 - 83th Floor
+Bit0 = Chest - [Rapier] Random Drop
+Bit2 = Chest - [Valuables] District Key X1
+Bit4 = Chest - [Valuables] Armor Key X1
+
+0xccb780	
+Item Flag - Agile Monsters 1 - 83th Floor
+Bit0 = District Key
+Bit4 = Armor Key
+
+0xccb787	
+Event Flag - Agile Monsters 1 - 83th Floor
+Bit0 = Door Unlocked With Key
+Bit2 = Door Unlocked With Key
+
+0xccb7f4	
+Item Flag - Agile Monsters 2 - 83th Floor
+Bit0 = Chest - 400000 Col
+Bit2 = Chest - [Scimitar] Kaizer Random Drop
+Bit4 = Chest - [Dagger] Venon Random Drop
+
+0xccb7f5	
+Item Flag - Agile Monsters 2 - 83th Floor
+Bit0 = Chest - [1-Club] Dead Random Drop
+Bit2 = Chest - [2-Gr. Axe] Insane Random Drop
+Bit4 = Chest - [Katana] Random Drop or none
+Bit6 = Chest - [Valuables] Treasure Key X1
+
+0xccb7f6	
+Item Flag - Agile Monsters 2 - 83th Floor
+Bit0 = Chest - [Valuables] Hall Key
+Bit2 = Chest - [Valuables] Chamber Key
+Bit4 = Chest - [Valuables] King Key
+
+0xccb801	
+Event Flag - Agile Monsters 2 - 83th Floor
+Bit5 = Friend Rescued
+
+0xccb883	
+Event Flag - Agile Monsters 2 - 83th Floor
+Bit0 = Friend Rescued
+Bit1 = Friend Rescued
+
+0xccb884	
+Item Flag - Agile Monsters 2 - 83th Floor
+Bit0 = King Key
+Bit0 = Treasure Key
+
+0xccb885	
+Item Flag - Agile Monsters 2 - 83th Floor
+Bit0 = Chamber Key
+Bit4 = Hall Key
+
+0xccb88b	
+Event Flag - Agile Monsters 2 - 83th Floor
+Bit0 = Door Unlocked With Key
+Bit1 = Door Unlocked With Key
+Bit2 = Door Unlocked With Key
+Bit3 = Door Unlocked With Key
+
+0xccb893	
+Event Flag - Agile Monsters 2 - 83th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+
+0xccb894	
+Event Flag - Agile Monsters 2 - 83th Floor
+Bit0 = Room Trap
+Bit1 = Beaten the Trap
+
+0xccb8f8	
+Item Flag - Forest-Path Woods - 83th Floor
+Bit0 = Chest - [Dress] White G. Crystal X5
+Bit2 = Chest - [Dress] Wind F. Crystal X5
+Bit4 = Chest - [Sword] Insane Random Drop
+Bit6 = Chest - [Dress] Cryst Crystal X5
+
+0xccb8f9	
+Item Flag - Forest-Path Woods - 83th Floor
+Bit0 = Chest - [Crystal] Teleport Crystal 2
+
+0xccba8b	
+Event Flag - Kingdom Bandits 1 - 83th Floor
+Bit1 = Door Unlocked
+
+0xccbb00	
+Event Flag - Kingdom Bandits 2 - 83th Floor
+Bit0 = Chest - [Dress] Red Flame Crystal
+Bit2 = Chest - [Dress] Wind F. Stone X10
+Bit4 = Chest - [Ores] Kongo Ore X6
+Bit6 = Chest - [Crystal Restore Crystal 2
+
+0xccbb01	
+Event Flag - Kingdom Bandits 2 - 83th Floor
+Bit0 = Chest - [Crystal] Teleport Crystal 2
+
+0xccbc04	
+Event Flag - Kingdom Bandits 3 - 83th Floor
+Bit0 = Chest - [Crystal] Healing Crystal 3
+Bit2 = Chest - [Crystal] Teleport Crystal 2
+
+0xccbc93	
+Event Flag - Kingdom Bandits 3 - 83th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+
+0xccca3c	
+Item Flag - Unearthed Grotto 1 - 84th Floor
+Bit0 = Chest - [Spear] Random Prize
+Bit2 = Chest - [1-Club] Ruin Random Prize
+
+0xcccacb	
+Event Flag - Unearthed Grotto 1 - 84th Floor
+Bit0 = Door Unlocked
+
+0xcccb40	
+Item Flag - Unearthed Grotto 2 - 84th Floor
+Bit0 = Chest - [Dress] Kongo Stone X10
+Bit2 = Chest - [Dress] White Grey Stone X10
+Bit4 = Chest - [Crystal Teleport Crystal 2
+
+0xcccc44	
+Item Flag - Road of Rulers - 84th Floor
+Bit0 = Chest - [Sword] Random Drop
+
+0xccccd3	
+Event Flag - Road of Rulers - 84th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+
+0xcccd48	
+Item Flag - Road of Rulers - 84th Floor
+Bit0 = Chest - [Ores] Sharp Edge Stone X10
+Bit2 = Chest - [Dagger] Venom Random Drop
+Bit4 = Chest - [Ores] Red Flame Stone X10
+Bit6 = Chest - [Crystal] Restore Crystal 3
+
+0xcccedb	
+Event Flag - Dwell Devour 2 - 84th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+
+0xcccf50	
+Item Flag - Dwell Devour 2 - 84th Floor
+Bit0 = Chest - [Potion] Grand Potion X4
+Bit2 = Chest - [Dress] Stream Stone X10
+Bit4 = Chest - [Ores] Windy F. Stone X10
+Bit6 = Chest - [2-Gr. Axe] Insane Random Drop
+
+0xcccf51	
+Item Flag - Dwell Devour 2 - 84th Floor
+Bit0 = Chest - [Rapier] Awaken Random Drop
+
+0xccde8c	
+Item Flag - Delusive Tree - 85th Floor
+Bit0 = Chest - [Dress] Red Flame Ore X6
+Bit2 = Chest - [Ores] Stream Ore X6
+
+0xccdf90	
+Item Flag - Blooming Forest - 85th Floor
+Bit0 = Chest - [Katana] Hemorrhag True +7
+Bit2 = Chest - [1-Club] Random Drop
+Bit4 = Chest - [1-Club] Random Drop
+
+0xccdf9c	
+Event Flag - Blooming Forest
+Bit1 = Defeated General Orc, Passage Opened
+
+0xcce094	
+Item Flag - Hermit Residence - 85th Floor
+Bit0 = Chest - [Ores] Kongo Ore X6
+Bit2 = Chest - [Crystal] Teleport Crystal 3
+Bit4 = Chest - [Sword] Random Drop
+Bit6 = Chest - [Sword] Random Drop
+
+0xcce198	
+Item Flag - Spilled Corridor - 85th Floor
+Bit0 = Chest - [Sword] Dark Repulsar +4
+Bit2 = Chest - [1-Club] Herbst Spirit +6
+
+0xcce236	
+Event Flag - Spilled Corridor - 85th Floor
+Bit0 = Switch
+Bit1 = Puzzle off
+Bit2 = Water
+
+0xcce29c	
+Item Flag - Stream Grotto 1 - 85th Floor
+Bit0 = Chest - [Ores] Sharp Edge Ore X6
+
+0xcce32b	
+Event Flag - Stream Grotto 1 - 85th Floor
+Bit0 = Door Unlocked - Enemy
+Bit1 = Door Unlocked - Enemy
+
+0xcce3a0	
+Item Flag - Stream Grotto 2 - 85th Floor
+Bit0 = Chest - [Crystal] Recovery Crystal 2
+
+0xcce42f	
+Event Flag - Stream Grotto 2 - 85th Floor
+Bit0 = Door Unlocked - Enemy
+Bit1 = Door Unlocked - Enemy
+
+0xcce4a4	
+Item Flag - Stream Grotto 2 - 85th Floor
+Bit0 = Chest - [Sword] Light Hero +4 X1
+
+0xcce533	
+Event Flag - Stream Grotto 3 - 85th Floor
+Bit0 = Door Unlocked - Enemy
+Bit1 = Door Unlocked - Enemy
+
+0xccf4e4	
+Item Flag - Dead Front Line 1 - 86th Floor
+Bit2 = Chest - [Potion] Grand Potion X3
+Bit4 = Chest - [Dress] Red Flame Crystal X6
+Bit6 = Chest - [Crystal] Restore Crystal 5
+
+0xccf4e5	
+Item Flag - Dead Front Line 1 - 86th Floor
+Bit0 = Chest - [Ores] Crust Stone X10
+Bit4 = Chest - [Dress] Sharp Edge Stone X10
+
+0xccf4e6	
+Item Flag - Dead Front Line 1 - 86th Floor
+Bit0 = Chest - [1-Club] Dead Spirit +4 X1
+
+0xccf4ec	
+Item Flag - Dead Front Line 1 - 86th Floor
+Bit0 = Chest - Trap Chest - Monster Attacks
+Bit5 = Chest - Trap Chest - Monster Attacks
+Bit7 = Chest - Trap Chest - Monster Attacks
+
+0xccf5e8	
+Item Flag - Dead Front Line 2 - 86th Floor
+Bit2 = Chest - [Dagger] Venon Random Drop
+Bit4 = Chest - [Dress] Windy F. Stone X10
+Bit6 = Chest - [2-Handed] Ultima Random Drop
+
+0xccf5e9	
+Item Flag - Dead Front Line 2 - 86th Floor
+Bit2 = Chest - [Ores] Kongo Stone X10
+Bit4 = Chest - [Potion] Grand Potion X4
+Bit6 = Chest - [Dres] White Grey Stone X10
+
+0xccf5f0	
+Item Flag - Dead Front Line 2 - 86th Floor
+Bit0 = Chest - Trap Chest - Monster Attacks
+Bit4 = Chest - Trap Chest - Monster Attacks
+
+0xccf5f1	
+Item Flag - Dead Front Line 2 - 86th Floor
+Bit0 = Chest - Trap Chest - Monster Attacks
+
+0xccf6ec	
+Item Flag - Dead Front Line 3 - 86th Floor
+Bit0 = Chest - [Ores] Stream Stone X10
+Bit2 = Chest - [Ores] Stream Stone X10
+Bit4 = Chest - [Crystal] Teleport Crystal 3
+
+0xccf782	
+Event Flag - Dead Front Line 3 - 86th Floor
+Bit0 = Door Unlocked
+
+0xccf783	
+Event Flag - Dead Front Line 3 - 86th Floor
+Bit0 = Switch
+
+0xccf7f0	
+Item Flag - Dead Front Line 3 - 86th Floor
+Bit0 = Chest - [Ores] Red Flame Stone X10
+Bit2 = Chest - [Ores] Sharp E. Crystal X6
+Bit6 = Chest - [Dagger] Shark Stinger +6 X1
+
+0xccf7f1	
+Item Flag - Dead Front Line 3 - 86th Floor
+Bit2 = Chest - [Ores] Red Flame Ore X8
+
+0xccf7f8	
+Item Flag - Fort Walking Dead - 86th Floor
+Bit2 = Chest - Trap Chest - Monster Attacks
+Bit4 = Chest - Trap Chest - Monster Attacks
+
+0xccf87f	
+Item Flag - Fort Walking Dead - 86th Floor
+Bit0 = Door Unlocked - Enemies
+Bit1 = Door Unlocked
+
+0xccf8f4	
+Item Flag - Dead Front Line 3 - 86th Floor
+Bit0 = Chest - [Sword] Light Enhancer +6 X1
+Bit2 = Chest - [Dagger] Wanderer Klingel +61
+Bit6 = Chest - [Crystal] Recovery Crystal 3
+
+0xccf8f5	
+Item Flag - Dead Front Line 3 - 86th Floor
+Bit0 = Chest - [Sword] Eternal Hero +5 X1
+Bit2 = Chest - [Ores] Stream Ore X8
+Bit4 = Chest - [Ores] Sharp Edge Ore X8
+Bit6 = Chest - [Potion] Grand Potion X3
+
+0xccf8f6	
+Item Flag - Dead Front Line 3 - 86th Floor
+Bit2 = Chest - [Ores] Kongo Ore X10
+
+0xccf8fc	
+Item Flag - Fort Walking Dead - 86th Floor
+Bit2 = Chest - Trap Chest - Monster Attacks
+
+0xccf8fd	
+Item Flag - Fort Walking Dead - 86th Floor
+Bit0 = Chest - Trap Chest - Monster Attacks
+
+0xccf983	
+Item Flag - Treasure Dead - 86th Floor
+Bit0 = Door Unlocked - Enemy
+Bit1 = Door Unlocked - Enemy
+Bit2 = Door Unlocked - Enemy
+Bit3 = Door Unlocked - Enemy
+Bit4 = Door Unlocked - Enemy
+Bit5 = Door Unlocked - Enemy
+Bit6 = Door Unlocked - Enemy
+Bit7 = Door Unlocked - Enemy
+
+0xccf9f8	
+Item Flag - Forgotten Tower 1 - 86th Floor
+Bit0 = Chest - [Rapier] Lux Strahl +7 X1
+Bit2 = Chest - [Katana] Abstinenc Dusk +51
+Bit4 = Chest - [Ores] Crust Ore X6
+
+0xccfa86	
+Item Flag - Forgotten Tower 1 - 86th Floor
+Bit0 = Switch
+
+0xccfa87	
+Item Flag - Forgotten Tower 1 - 86th Floor
+Bit0 = Door Unlocked
+
+0xccfafc	
+Item Flag - Forgotten Tower 2 - 86th Floor
+Bit0 = Chest - [Dagger] Fatal Venus +6 X1
+Bit2 = Chest - [1-Club] Dead Twing +6 X1
+Bit4 = Chest - [Ores] Windy Flower Ore X8
+Bit6 = Chest - [Crystal] Restore Crystal 3
+
+0xccfafd	
+Item Flag - Forgotten Tower 2 - 86th Floor
+Bit0 = Chest - [2-Gr. Axe] Insane Basalt +51
+
+0xccfc00	
+Item Flag - Forgotten Tower 3 - 86th Floor
+Bit0 = Chest - [Potion] Grand Potion X6
+Bit2 = Chest - [Dagger] Venom Klingel +5 X1
+Bit4 = Chest - [Ores] White Grey Ore X8
+Bit6 = Chest - [Sword] Death Rugiada +7 X1
+
+0xccfc01	
+Item Flag - Forgotten Tower 3 - 86th Floor
+Bit0 = Chest - [Crystal] Restore Cristal 3
+
+0xccfc8e	
+Item Flag - Forgotten Tower 3 - 86th Floor
+Bit0 = Switch
+
+0xccfc8f	
+Item Flag - Forgotten Tower 3 - 86th Floor
+Bit0 = Door Unlocked
+
+0xcd072c	
+Item Flag - Grotto Up-Floor - 87th Floor
+Bit0 = Chest - [Ores] Crust Ore X8
+
+0xcd0830	
+Item Flag - Grotto Mid-Floor - 87th Floor
+Bit0 = Chest - [Dagger] Shark Scissors +7 X1
+Bit2 = Chest - [Crystal] Recovery Crystal 3
+
+0xcd0934	
+Item Flag - Grotto Low-Floor - 87th Floor
+Bit0 = [Sword] Soulkreuz +7 X1
+
+0xcd0a38	
+Item Flag - Grotto Insatiable - 87th Floor
+Bit0 = Chest - [Ores] Sharp Edge Ore X8
+Bit2 = Chest - [Ores] White Grey Ore X8
+Bit4 = Chest - [Crystal] Recovery Crystal 3
+Bit6 = Chest - [Sword] Crime Arthur +8 X1
+
+0xcd0a39	
+Item Flag - Grotto Insatiable - 87th Floor
+Bit0 = Chest - [Potion] Grand Potion X5
+
+0xcd0b3c	
+Item Flag - Fortress Sleeping - 87th Floor
+Bit0 = Chest - [Ores] Windy Flower Ore X6
+Bit2 = Chest - [Potion] Grand Potion X3
+
+0xcd0c40	
+Item Flag - Resulting Forest - 87th Floor
+Bit0 = Chest - [Dagger] Random Drop
+Bit2 = Chest - [Spear] Wald Illusion +5
+Bit4 = Chest - [Rapier] Random Drop
+Bit6 = Chest - [Ores] Red Flame Ore X8
+
+0xcd0e48	
+Item Flag - Stronghold 1 - 87th Floor
+Bit0 = Chest - [Katana~Hemorrhag Dusk +61
+Bit2 = Chest - [Crystal] Teleport Crystal 3
+Bit4 = Chest - [Crystal] Unique Crystal X4
+Bit6 = Chest - [Ores] Stream Ore X8
+
+0xcd0f4c	
+Item Flag - Stronghold 2 - 87th Floor
+Bit0 = Chest - [Crystal] Restore Crystal 3
+Bit2 = Chest - [1-Club] Dead Clover +5 X1
+Bit4 = Chest - [Ores] Kongo Ore X8
+Bit6 = Chest - [2-Gr. Axe] Insane Drop
+
+0xcd1050	
+Item Flag - Stronghold 2 - 87th Floor
+Bit0 = Chest - [Sword] Glanz Krevz +4 X1
+Bit2 = Chest - [Ores] Crust Stone X10
+Bit4 = Chest - [Ores] Wndy F. Stone X10
+Bit6 = Chest - [Crystal] Restore Crystal 3
+
+0xcd1c80	
+Item Flag - Flowers' paradise - 88th Floor
+Bit0 = Chest - [Ores] Red Flame Ore X8
+Bit2 = Chest - [Ores] Stream Ore X8
+Bit4 = Chest - [Sword] Dark Repulsor +5 X1
+Bit6 = Chest - [Rapier] Lux Fencer +7 X1
+
+0xcd1e0c	
+Event Flag - Dragon In Center - 88th Floor
+Bit0 = Dragon Defeated
+
+0xcd1e13	
+Event Flag - Dragon Ying Seal - 88th Floor
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit2 = Door Unlocked - After Necro Dragon
+
+0xcd1e88	
+Item Flag - Dragon Yin Seal - 88th Floor
+Bit0 = Chest - [Potion] Grand Potion X5
+Bit2 = Chest - [Sword] Justice Lake +6 X1
+Bit4 = Chest - [Ores] Sharp Edge Ore X8
+Bit6 = Chest - [Ores] Crust Ore X8
+
+0xcd1e89	
+Item Flag - Dragon Yin Seal - 88th Floor
+Bit0 = Chest - [Crystal] Teleport Crystal 3
+
+0xcd1f18	
+Event Flag - Dragon Ying Seal - 88th Floor
+Bit0 = Yin Seal - Boss: Seal Guard Golem
+
+0xcd1f1e	
+Event Flag - Dragon Ying Seal - 88th Floor
+Bit0 = Switch
+
+0xcd1f1f	
+Event Flag - Dragon Ying Seal - 88th Floor
+Bit1 = Door Unlocked
+Bit0 = Door Unlocked
+
+0xcd1f8c	
+Item Flag - Dragon Yang Seal - 88th Floor
+Bit0 = Chest - [Ores] White Grey Stone X8
+Bit2 = Chest - [Ores] Windy Flower Ore X8
+Bit4 = Chest - [Rapier] Awaken Dahlia +3 X1
+Bit6 = Chest - [2-Gr. Axe] Insane Engrima +51
+
+0xcd1f8d	
+Item Flag - Dragon Yang Seal - 88th Floor
+Bit0 = Chest - [Ores] Kongo Ore X8
+
+0xcd201c	
+Event Flag - Dragon Yang Seal - 88th Floor
+Bit0 = Yang Seal - Boss: Seal Guard Knight
+
+0xcd2023	
+Event Flag - Dragon Yang Seal - 88th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+
+0xcd2090	
+Item Flag - Tenants' Work 1 - 88th Floor
+Bit0 = Chest - [Crystal] Recovery Crystal 2
+Bit2 = Chest - [1-Club] Dead Hugel +4 X1
+Bit4 = Chest - [Ores] Sharp E. Crystal X6
+
+0xcd2194	
+Item Flag - Tenants' Work 2 - 88th Floor
+Bit0 = Chest - [Potion] Grand Potion X5
+Bit2 = Chest - [Ores] Red Flame Crystal X5
+Bit4 = Chest - [Rapier] Argento Greed +5 X1
+Bit6 = CHest - [Sword] Death Rugiada +6 X1
+
+0xcd2195	
+Item Flag - Tenants' Work 2 - 88th Floor
+Bit0 = Chest - [Potion] Grand Potion X5
+
+0xcd2298	
+Item Flag - Tenants' Work 3 - 88th Floor
+Bit0 = Chest - [Rapier] Lux Fencer +5 X1
+Bit2 = Chest - [Scimitar] Kaizer Random Drop
+Bit4 = Chest - [1-Club] Dead Wasser +9 X1
+Bit6 = Chest - [Ores] Stream Stone X10
+
+0xcd2299	
+Item Flag - Tenants' Work 3 - 88th Floor
+Bit0 = Chest - [Crystal] Restore Crystal 5
+Bit2 = Chest - [Dagger] Venon Punish +6 X1
+
+0xcd2fcc	
+Item Flag - Tower Torrents - 89th Floor
+Bit0 = Chest - [Ores] Windy FLower Ore X10
+Bit2 = Chest - [Ores] Sharp Edge Ore X10
+
+0xcd3063	
+Event Flag - Tower Torrents - 89th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+Bit6 = Door Unlocked
+
+0xcd306a	
+Event Flag - Tower Torrents - 89th Floor
+Bit0 = Switch - Enemies
+
+0xcd30d0	
+Item Flag - Tower Saults - 89th Floor
+Bit0 = Chest - [Ores] Red Flame Ore X10
+Bit2 = Chest - 500000 Col
+
+0xcd3167	
+Event Flag - Tower Saults - 89th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+Bit6 = Door Unlocked
+Bit7 = Door Unlocked
+
+0xcd316e	
+Event Flag - Tower Saults - 89th Floor
+Bit0 = Switch - Enemy
+
+0xcd31d4	
+Item Flag - Cloud Corridor - 89th Floor
+Bit0 = Chest - [Ores] Crust Ore X10
+Bit2 = Chest - [Potion] Grand Potion X6
+Bit4 = Chest - [Ores] Luminous Random Drop
+
+0xcd32d8	
+Item Flag - Temple Turbid 1 - 89th Floor
+Bit0 = Chest - [Dagger] Shark Scissors +5 X1
+Bit2 = Chest - [Crystal] Teleport Crystal 3
+Bit4 = Chest - [Ores] White Grey Ore X10
+
+0xcd33dc	
+Item Flag - Temple Turbid 2 - 89th Floor
+Bit0 = Chest - [Potion] Grand Potion X5
+Bit2 = Chest - [Scimitar] Kaizer Random Drop
+Bit4 = Chest - [Ores] Kongo Ore X10
+Bit6 = Chest - [Katana] Hemorrhag Dawn +51
+
+0xcd34e0	
+Item Flag - Temple Turbid 3 - 89th Floor
+Bit0 = Chest - [1-Club] Dead Clover +7 X1
+Bit2 = Chest - [Spear] Random Drop
+
+0xcd441c	
+Item Flag - Plants Land 1 - 90th Floor
+Bit0 = Chest - [Valuables] Tower Key X1
+
+0xcd4728	
+Item Flag - Tower Monster 1 - 90th Floor
+Bit0 = Chest - [Dagger] Random Drop
+Bit2 = Chest - [Potion] Grand Potion X6
+Bit4 = Chest - [Sword] Random Drop
+Bit6 = Chest - [Ores] Crust Ore X10
+
+0xcd4729	
+Item Flag - Tower Monster 1 - 90th Floor
+Bit0 = Chest - [Potion] Grand Potion X5
+Bit2 = Chest - [Ores] Windy Flower Ore X10
+
+0xcd47b0	
+Event Flag - Tower Monster 1 - 90th Floor
+Bit0 = Used the Tower Key
+Bit4 = Switch
+
+0xcd47b6	
+Event Flag - Tower Monster 1 - 90th Floor
+Bit0 = Activated the Teleport in Plants Land 1
+
+0xcd47b7	
+Event Flag - Tower Monster 1 - 90th Floor
+Bit0 = Door Unlocked With Key
+
+0xcd482c	
+Item Flag - Tower Monster 2 - 90th Floor
+Bit0 = Chest - [Sword] Justice Samelink +51
+Bit2 = Chest - [Ores] Red Flame Ore X10
+Bit4 = Chest - [Potion] Grand Potion X6
+Bit6 = Chest - [Ores] White Grey Ore X10
+
+0xcd482d	
+Item Flag - Tower Monster 2 - 90th Floor
+Bit0 = Chest - [Ores] Kongo Ore X10
+Bit2 = Chest - [Sword] Crime Arthur +4 X1
+
+0xcd48b4	
+Event Flag - Tower Monster 2 - 90th Floor
+Bit4 = Switch
+
+0xcd48ba	
+Event Flag - Tower Monster 2 - 90th Floor
+Bit0 = Activated the Teleport Outside Tower Monster 2
+
+0xcd48c4	
+Event Flag - Tower Monster 2 - 90th Floor
+Bit0 = Fake Door Appear
+Bit1 = Fake Door Destroyed
+
+0xcd48cb	
+Event Flag - Tower Monster 2 - 90th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+
+0xcd4930	
+Item Flag - Tower Monster 3 - 90th Floor
+Bit0 = Chest - [Sword] Luminous Repulsor +9
+Bit2 = Chest - [Scimitar] Kaizer Random Drop
+Bit4 = Chest - [Ores] Stream Ore X10
+Bit6 = Chest - [Crystal] Teleport Crystal 3
+
+0xcd4931	
+Item Flag - Tower Monster 3 - 90th Floor
+Bit0 = Chest - [2-Gr. Axe] Insane Random Drop
+Bit2 = Chest - [Crystal] Restore Crystal 3
+Bit4 = Chest - [Katana] Random Drop
+Bit6 = Chest - [Potion] Grand Potion X5
+
+0xcd4932	
+Item Flag - Tower Monster 3 - 90th Floor
+Bit0 = Chest - [Ores] Sharp Edge Ore X10
+
+0xcd49b8	
+Event Flag - Tower Monster 3 - 90th Floor
+Bit4 = Switch
+
+0xcd49be	
+Event Flag - Tower Monster 3 - 90th Floor
+Bit0 = Activated the Teleport outside Tower Monster 3
+
+0xcd49c8	
+Event Flag - Tower Monster 3 - 90th Floor
+Bit0 = Fake Door Appear
+Bit1 = Fake Door Defeated
+
+0xcd49cf	
+Event Flag - Tower Monster 3 - 90th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+
+0xcd586c	
+Item Flag - Maze Hollow Foam - 91th Floor
+Bit0 = Chest - [Sword] Eternal Hero +8 X1
+Bit2 = Chest - [Ores] White Grey Ore X10
+
+0xcd5874	
+Item Flag - Maze Hollow Foam - 91th Floor
+Bit2 = Chest - Trap Chest - Monster Attacks
+
+0xcd5970	
+Item Flag - Windy Hallway - 91th Floor
+Bit0 = Chest - [Dagger] Fascinate Genesis +754290
+Bit2 = Chest - [Ores] Stream Ore X10
+
+0xcd5978	
+Item Flag - Windy Hallway - 91th Floor
+Bit2 = Chest - Trap Chest - Monster Attacks
+
+0xcd5a00	
+Event Flag - Windy Hallway - 91th Floor
+Bit0 = Scene after reach on red crystal II
+Bit2 = Red Crystal Activated
+
+0xcd5a08	
+Event Flag - Windy Hallway - 91th Floor
+Bit0 = Red Crystal Activated
+
+0xcd5a10	
+Event Flag - Windy Hallway - 91th Floor
+Bit0 = Scene after reach on red crystal II
+Bit2 = Red Crystal Activated
+
+0xcd5a18	
+Event Flag - Windy Hallway - 91th Floor
+Bit0 = Scene after reach on red crystal III
+Bit2 = Red Crystal Activated
+
+0xcd5a20	
+Event Flag - Windy Hallway - 91th Floor
+Bit0 = Scene after reach on red crystal
+
+0xcd5a74	
+Item Flag - Grotto Enlighten 1 - 91th Floor
+Bit0 = Chest - 800000 Col
+Bit2 = Chest - [Crystal] Teleport Crystal 3
+
+0xcd5a7c	
+Item Flag - Grotto Enlighten 1 - 91th Floor
+Bit0 = Chest - Trap Chest - Monster Attacks
+
+0xcd5b78	
+Item Flag - Grotto Enlighten 2 - 91th Floor
+Bit0 = Chest - [Ores] Red Flame Ore X10
+Bit2 = Chest - [Sword] Luminous Repulsor +91
+
+0xcd5b80	
+Item Flag - Grotto Enlighten 2 - 91th Floor
+Bit2 = Chest - Trap Chest - Monster Attacks
+
+0xcd5c7c	
+Item Flag - Grotto Enlighten 3 - 91th Floor
+Bit0 = Chest - [Potion] Grand Potion X6
+Bit2 = Chest - [Crystal] Recovery Crystal 4
+
+0xcd6dc0	
+Item Flag - Guardian Maze 1 - 92th Floor
+Bit0 = Chest - [Ores] White G. Crystal X4
+Bit2 = Chest - [Dagger] Tester Klingel +9 X1
+Bit4 = Chest - [Ores] Stream Stone X10
+
+0xcd6ec4	
+Item Flag - Guardian Maze 2 - 92th Floor
+Bit0 = Chest - [Kaiser Elegy +7 X1
+Bit2 = Chest - [1-Club] Dead Strano +6 X1
+Bit4 = Chest - [Potion] Grand Potion X3
+Bit6 = Chest - [Crystal] Teleport Crystal 3
+
+0xcd6ec5	
+Item Flag - Guardian Maze 2 - 92th Floor
+Bit0 = Chest - [Sword]Eternal Hero +8 X1
+
+0xcd71d0	
+Item Flag - Wyvern Mid-Floor - 92th Floor
+Bit0 = Chest - [Ores] Kongo Ore X10
+Bit2 = Chest - [Rapier] Venom Fencer +8 X1
+Bit4 = Chest - [Sword] Dark Repulsor +7 X1
+Bit6 = Chest - [Ores] Stream Crystal X2
+
+0xcd71d1	
+Item Flag - Wyvern Mid-Floor - 92th Floor
+Bit0 = Chest - [Ores] Windy Flower Ore X6
+Bit2 = Chest - None
+Bit4 = Chest - [Ores] Crust Ore X10
+
+0xcd72d4	
+Item Flag - Wyvern Up-Floor - 92th Floor
+Bit0 = Chest - [Potion] Grand Potion X4
+Bit2 = Chest - [2-Handed] Dead Breaker +6 X1
+Bit4 = Chest - [Spear] Wald Geist +9 X1
+Bit6 = Chest - [Ores] Sharp Edge Ore X10
+
+0xcd72d5	
+Item Flag - Wyvern Up-Floor - 92th Floor
+Bit0 = Chest - [Potion] Grand Potion X4
+
+0xcd72e1	
+Event Flag
+Bit5 = Wyvern Boss Defeated
+
+0xcd73d8	
+Item Flag - Wyvern Low-Floor - 92th Floor
+Bit0 = Chest - [Ores] Red Flame Ore X4
+Bit2 = Chest - [2-Gr. Axe] Blood Seltsam +61
+Bit4 = Chest - [Crystal] Teleport Crystal 3
+Bit6 = Chest - [Dagger] Venom Intercep +64
+
+0xcd73d9	
+Item Flag - Wyvern Low-Floor - 92th Floor
+Bit0 = Chest - [Crystal] Restore Crystal 3
+Bit2 = Chest - [Scimitar] Kaizer Casse +7 X1
+
+0xcd7460	
+Event Flag - Hyvern Low-Floor
+Bit5 = 3 Greater Wing Defeated - Passage Unlocked
+
+0xcd810c	
+Item Flag - Magic Building 1 - 93th Floor
+Bit0 = Chest - [Ores] Crust Stone X10
+Bit2 = Chest - [Ores] Windy F. Stone X10
+
+0xcd819c	
+Event Flag - Magic Building 1 - 93th Floor
+Bit0,1 = Trap
+Bit2 = Beaten the Trap
+
+0xcd81ac	
+Event Flag - Magic Building 1 - 93th Floor
+Bit0 = Teleport Stone is Broken - Cutscene
+
+0xcd81b4	
+Item Flag - Magic Building 1 - 93th Floor
+Bit0 = Teleport Stone
+Bit1 = Teleport Cutscene - It's Reacting...
+
+0xcd8210	
+Item Flag - Magic Building 2 - 93th Floor
+Bit0 = Chest - [Ores] Red Crystal X5
+Bit2 = Chest - [Ores] Kongo Crystal X5
+Bit4 = Chest - [Ores] White G. Crystal X6
+
+0xcd8314	
+Item Flag - Magic Building 2 - 93th Floor
+Bit0 = Chest - [Crystal] Recovery Crystal 4
+Bit2 = Chest - [Scimitar] Kaizer Random Drop
+Bit4 = Chest - [Potion] Grand Potion X4
+Bit6 = Chest - [2-Gr. Axe] Insane Random Drop
+
+0xcd9458	
+Item Flag - Forest - Ant-East - 94th Floor
+Bit0 = Chest - [2-Handed] Random Drop
+Bit2 = Chest - [Ores] Kongo Stone X10
+Bit4 = Chest - [Ores] Sharp Edge Stone X10
+Bit6 = Chest - [2-Gr. Axe] Insane Random Drop
+
+0xcd955c	
+Item Flag - Forest Ant-West - 94th Floor
+Bit0 = Chest - [1-Club] Dead Diamante +8 X1
+Bit2 = Chest - [Ores] Windy F. Stone X10
+Bit4 = Chest - [Crystal] Teleport Crystal 4
+Bit6 = Chest - [Ores] Red Flame Stone X10
+
+0xcd955d	
+Item Flag - Forest Ant-West - 94th Floor
+Bit0 = Chest - [Rapier] Kaizer Random Drop
+
+0xcd9660	
+Item Flag - Aged Treasure-East - 94th Floor
+Bit0 = Chest - [Crystal] Teleport Crystal 3
+Bit2 = Chest - [Crystal] Restore Crystal 4
+Bit4 = Chest - [Potion] Grand Potion X5
+Bit6 = Chest - [Ores] White Grey Stone X10
+
+0xcd9661	
+Item Flag - Aged Treasure-East - 94th Floor
+Bit0 = Chest - [Crystal] Recovery Crystal 3
+Bit2 = Chest - [Dagger] Venom Random Drop
+Bit4 = Chest - [Spear] Random Drop
+Bit6 = Chest - [Sword] Random Drop
+
+0xcd96f0	
+Event Flag - Aged Treasure-East - 94th Floor
+Bit0 = Beaten the Trap
+Bit1 = Trapped
+
+0xcd9764	
+Item Flag - Aged Treasure-West - 94th Floor
+Bit0 = Chest - [Ores] Red Flame Ore X10
+Bit2 = Chest - [Rapier] Blood Recht +5 X1
+Bit4 = Chest - [Crystal] Recovery Crystal 3
+Bit6 = Chest - [Ores] White Grey Ore X10
+
+0xcd9765	
+Item Flag - Aged Treasure-West - 94th Floor
+Bit0 = Chest - [Potion] Grand Potion X4
+Bit2 = Chest - [Sword] Random Drop
+Bit4 = Chest - [Ores] Sharp Edge Ore X10
+Bit6 = Chest - [Dagger] Tester Klingel +9 X1
+
+0xcd9868	
+Item Flag - Dark Knight 1 - 94th Floor
+Bit0 = Chest - [Ores] Stream Stone X10
+Bit2 = Chest - [Ores] Crust Stone X10
+
+0xcd98f6	
+Event Flag - Dark Knight 1 - 94th Floor
+Bit0 = Switch
+
+0xcd98fc	
+Event Flag - Dark Knight 1 - 94th Floor
+Bit0 = Sealed Passage Removed
+Bit2 = Sealed Passage Removed
+Bit4 = Sealed Passage Removed
+Bit6 = Sealed Passage Removed
+
+0xcd996c	
+Item Flag - Dark Knight 2 - 94th Floor
+Bit0 = Chest - [Potion] Grand Potion X4
+Bit2 = Chest - [Katana] Abstinenc Dawn +81
+
+0xcd9a70	
+Item Flag - Dark Knight 3 - 94th Floor
+Bit0 = Chest - [Ores] Crust Ore X10
+Bit2 = Chest - [Crystal] Recovery Crystal 3
+Bit4 = Chest - [Scimitar] Kaiser Random Drop
+Bit6 = Chest - [Dagger] Venon Arena +10
+
+0xcd9a71	
+Item Flag - Dark Knight 3 - 94th Floor
+Bit0 = Chest - [Crystal] Restore Crystal 6
+
+0xcd9b07	
+Event Flag - Dark Knight 3 - 94th Floor
+Bit0 = Door Unlocked
+
+0xcda9ac	
+Item Flag - Grotto Battlefield - 95th Floor
+Bit0 = Chest - [Dagger] Random Drop
+
+0xcdaab0	
+Item Flag - Shelter of Monster - 95th Floor
+Bit0 = Chest - [Dagger] Random Drop
+Bit2 = Chest - [Ores] Red Flame Ore X10
+Bit4 = Chest - [Ores] Stream Ore X10
+Bit6 = Chest - [Scimitar] Kaiser Random Drop
+
+0xcdaab1	
+Item Flag - Shelter of Monster - 95th Floor
+Bit0 = Chest - [Spear] Random Drop
+
+0xcdab40	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Enemy Trap Activated
+
+0xcdab47	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+Bit6 = Door Unlocked
+Bit7 = Door Unlocked
+
+0xcdab4f	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+Bit6 = Door Unlocked
+Bit7 = Door Unlocked
+
+0xcdab50	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Enemy Trap Activated - Special Enemy
+Bit1 = Enemy Trap Beaten - Goblin King
+
+0xcdab58	
+Event Flag - Shelter of Monster - 95th Floor
+Bit1 = Enemy Trap
+
+0xcdab5c	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Enemy Trap
+
+0xcdab60	
+Event Flag - Shelter of Monster - 95th Floor
+Bit4 = Trap Beaten - Door Unlocked
+Bit5 = Enemy Trap
+
+0xcdab64	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+
+0xcdab69	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+
+0xcdab6c	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+Bit2 = Enemy Trap
+
+0xcdab71	
+Event Flag - Shelter of Monster - 95th Floor
+Bit4 = Enemy Trap
+Bit5 = Enemy Trap
+
+0xcdab74	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+
+0xcdab7a	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+
+0xcdab7c	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+
+0xcdab82	
+Event Flag - Shelter of Monster - 95th Floor
+Bit5 = Enemy Trap
+
+0xcdab84	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+Bit2 = Enemy Trap
+Bit3 = Enemy Trap
+Bit4 = Enemy Trap
+Bit5 = Enemy Trap
+
+0xcdab8b	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+
+0xcdab8c	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+Bit2 = Enemy Trap
+Bit3 = Enemy Trap
+
+0xcdab93	
+Event Flag - Shelter of Monster - 95th Floor
+Bit5 = Enemy Trap
+
+0xcdab94	
+Event Flag - Shelter of Monster - 95th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+Bit2 = Enemy Trap
+Bit3 = Enemy Trap
+Bit4 = Enemy Trap
+
+0xcdabb4	
+Item Flag - Shelter of Dragon - 95th Floor
+Bit0 = Chest - [2-Handed] Blood Reus +10 X1
+Bit2 = Chest - [Rapier] Kaiser Random Drop
+Bit4 = Chest - [Ores] Stream Stone X1
+
+0xcdabd0	
+Event Flag - Shelter of Dragon - 95th Floor
+Bit0 = Enemy Trap
+Bit1 = Key after beat the enemy
+
+0xcdac3c	
+Event Flag - Shelter of Dragon - 95th Floor
+Bit0 = Enemy Trap
+Bit4 = Enemy Trap
+
+will go 00 after defeat enemies
+
+0xcdac3d	
+Event Flag - Shelter of Dragon - 95th Floor
+Bit0 = Enemy Trap
+Bit4 = Enemy Trap
+
+will go 00 after defeat enemies
+
+0xcdac3e	
+Event Flag - Shelter of Dragon - 95th Floor
+Bit0 = Enemy Trap
+
+will go 00 after defeat enemies
+
+0xcdac44	
+Event Flag - Shelter of Dragon - 95th Floor
+Bit0 = Enemy Trap Beaten
+Bit4 = Enemy Trap Beaten
+
+0xcdac45	
+Event Flag - Shelter of Dragon - 95th Floor
+Bit0 = Enemy Trap Beaten
+Bit4 = Enemy Trap Beaten
+
+0xcdac4b	
+Event Flag - Shelter of Dragon - 95th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+Bit6 = Door Unlocked
+
+0xcdac53	
+Event Flag - Shelter of Dragon - 95th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked - After Trap
+Bit2 = Door Unlocked - After Trap
+
+0xcdacb8	
+Item Flag - Sleeping Forest - 95th Floor
+Bit0 = Chest - [Crystal] Teleport Crystal 3
+Bit2 = Chest - [Ores] Windy Flower Ore X10
+
+0xcdae44	
+Event Flag - Beast Master 1 - 95th Floor
+Bit0 = Door Unlocked
+Bit4 = Door Unlocked
+
+0xcdae4b	
+Event Flag - Beast Master 1 - 95th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+
+0xcdae52	
+Event Flag - Beast Master 1 - 95th Floor
+Bit0 = Switch
+Bit1 = Switch
+
+0xcdaec0	
+Item Flag - Beast Master 2 - 95th Floor
+Bit0 = Chest - [Dead Enhancer +9 X1
+
+0xcdafc4	
+Item Flag - Beast Master 3 - 95th Floor
+Bit2 = Chest - [2-Gr. Axe] Insane Random Drop
+
+0xcdb053	
+Event Flag - Beast Master 3 - 95th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+
+0xcdbcf8	
+Item Flag - Corridor Unbreak - 96th Floor
+Bit4 = Chest - 700000 Col
+Bit6 = Chest - [Valuables] Corridor Key X1
+
+0xcdbd80	
+Item Flag - Corridor Unbreak - 96th Floor
+Bit0 = Corridor Key
+Bit4 = Used the Corridor Key
+
+0xcdbd81	
+Event Flag - Corridor Unbreak - 96th Floor
+Bit0 = Door Unlocked
+Bit4 = Door Unlocked
+
+0xcdbd82	
+Event Flag - Corridor Unbreak - 96th Floor
+Bit4 = Enemy Trap
+Bit5 = Enemy Trap Beaten
+
+0xcdbd8f	
+Event Flag - Corridor Unbreak - 96th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+
+0xcdbd96	
+Event Flag - Corridor Unbreak - 96th Floor
+Bit0 = Switch
+Bit1 = Switch
+
+0xcdbdfc	
+Item Flag - Corridor Unbreak - 96th Floor
+Bit0 = Chest - [Ores] Crust Stone X10
+Bit2 = Chest - [Rapier] Insane Random Drop
+Bit4 = Chest - [2-Handed] Insane Random Drop
+Bit6 = Chest - [Ores] Windy F. Stone X10
+
+0xcdbe93	
+Event Flag - Corridor Fighter - 96th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+
+0xcdbe9b	
+Event Flag - Corridor Fighter - 96th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+
+0xcdbea3	
+Event Flag - Corridor Fighter - 96th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+
+0xcdbeac	
+Event Flag - Corridor Fighter - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap Beaten
+Bit4 = Enemy Trap
+Bit5 = Enemy Trap Beaten
+
+0xcdbead	
+Event Flag - Corridor Unbreak - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap Beaten
+Bit4 = Enemy Trap
+Bit5 = Enemy Trap Beaten
+
+0xcdbeae	
+Event Flag - Corridor Fighter - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap Beaten
+Bit4 = Enemy Trap
+Bit5 = Enemy Trap Beaten
+
+0xcdbeaf	
+Event Flag - Corridor Fighter - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap Beaten
+
+0xcdbf00	
+Item Flag - Corridor Cunning - 96th Floor
+Bit0 = Chest - [Ores] Red Flame Stone X10
+Bit2 = Chest - [Sword] Kaiser Random Drop
+Bit4 = Chest - [Potion] Grand Potion X4
+
+0xcdbf08	
+Item Flag - Corridor Cunning - 96th Floor
+Bit3 = Chest - Trap Chest - Monster Attacks
+
+0xcdbf88	
+Event Flag - Corridor Cunning - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+Bit2 = Enemy Trap Beaten
+Bit4 = Enemy Trap
+Bit5 = Enemy Trap
+Bit6 = Enemy Trap Beaten
+
+0xcdbf89	
+Event Flag - Corridor Cunning - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+Bit2 = Enemy Trap Beaten
+Bit4 = Enemy Trap
+Bit5 = Enemy Trap
+Bit6 = Enemy Trap Beaten
+
+0xcdbf8a	
+Event Flag - Corridor Cunning - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+Bit2 = Enemy Trap Beaten
+Bit4 = Enemy Trap
+Bit5 = Enemy Trap
+Bit6 = Enemy Trap Beaten
+
+0xcdbf90	
+Event Flag - Corridor Cunning - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+
+0xcdbf97	
+Event Flag - Corridor Cunning - 96th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+
+0xcdbf9f	
+Event Flag - Corridor Cunning - 96th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+
+0xcdbfa7	
+Event Flag - Corridor Cunning - 96th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+
+0xcdbfb4	
+Event Flag - Corridor Cunning - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+Bit2 = Enemy Trap
+
+0xcdbfbc	
+Event Flag - Corridor Cunning - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+Bit2 = Enemy Trap
+
+0xcdbfc4	
+Event Flag - Corridor Cunning - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+Bit2 = Enemy Trap
+Bit2 = Enemy Trap
+
+0xcdbfcc	
+Event Flag - Corridor Cunning - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+Bit2 = Enemy Trap
+
+0xcdbfd4	
+Event Flag - Corridor Cunning - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+Bit2 = Enemy Trap
+
+0xcdbfdc	
+Event Flag - Corridor Cunning - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap
+Bit2 = Enemy Trap
+
+0xcdc004	
+Item Flag - Corridor Cunning - 96th Floor
+Bit2 = Chest - [Rapier] Random Drop
+Bit4 = Chest - [2-Gr. Axe] Insane Random Drop
+
+0xcdc005	
+Item Flag - Corridor Cunning - 96th Floor
+Bit0 = Chest - [Crystal] Recovery Crystal 3
+
+0xcdc00c	
+Item Flag - Corridor Cunning - 96th Floor
+Bit0 = Chest - Trap Chest - Monster Attacks
+Bit3 = Chest - Trap Chest - Monster Attacks
+Bit5 = Chest - Trap Chest - Monster Attacks
+
+0xcdc08c	
+Event Flag - Corridor of Plan - 96th Floor
+Bit0 = Fake Door Appear
+Bit1 = Fake Door Defeated
+Bit4 = Fake Door Appear
+Bit5 = Fake Door Defeated
+
+0xcdc08d	
+Event Flag - Corridor of Plan - 96th Floor
+Bit0 = Fake Door Appear
+Bit1 = Fake Door Defeated
+Bit4 = Fake Door Appear
+Bit5 = Fake Door Defeated
+
+0xcdc08e	
+Event Flag - Corridor of Plan - 96th Floor
+Bit0 = Enemy Trap
+Bit1 = Enemy Trap Beaten
+
+0xcdc0d3	
+Event Flag - Corridor of Plan - 96th Floor
+Bit0 = Door Unlocked
+
+0xcdc0db	
+Event Flag - Corridor of Plan - 96th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+
+0xcdc0e3	
+Event Flag - Corridor of Plan - 96th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+
+0xcdc0eb	
+Event Flag - Corridor of Plan - 96th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+
+0xcdc108	
+Item Flag - Hall Paladin 1 - 96th Floor
+Bit0 = Chest - [Spear] Wald Reliquia +5 X1
+Bit2 = Chest - [Katana] Abstinec Demon +51
+Bit4 = Chest - [Ores] Kongo Stone X10
+Bit6 = Chest - [Potion] Grand Potion X5
+
+0xcdc190	
+Event Flag - Hall Paladin 1 - 96th Floor
+Bit0 = Door Unlocked
+
+0xcdc196	
+Event Flag - Hall Paladin 1 - 96th Floor
+Bit0 = Switch?
+
+0xcdc197	
+Event Flag - Hall Paladin 1 - 96th Floor
+Bit0 = Switch?
+
+0xcdc20c	
+Item Flag - Hall Paladin 1 - 96th Floor
+Bit0 = Chest - [Ores] Stream Stone X10
+Bit2 = Chest - [Crystal] Teleport Crystal 3
+Bit4 = Chest - [1-Club] Dead Butler +6 X1
+
+0xcdc310	
+Item Flag - Hall Paladin 1 - 96th Floor
+Bit0 = Chest - [Sword] Insane Random Drop
+Bit2 = Chest - [Ores] Sharp Edge Stone X10
+Bit4 = Chest - [Crystal] Restore Crystal 5
+Bit6 = Chest - [Dagger] Venon Genesis +4 X1
+
+0xcdd148	
+Item Flag - Corridor Low-Floor - 97th Floor
+Bit0 = Chest - [Sword] Dead Enhancer +11 X1
+
+0xcdd24c	
+Item Flag - Corridor Mid-Floor - 97th Floor
+Bit0 = Chest - [Dagger] Random Drop
+
+0xcdd350	
+Item Flag - Corridor Up-Floor - 97th Floor
+Bit0 = Chest - [Crystal] Teleport Crystal 3
+
+0xcdd454	
+Item Flag - Death King 1 - 97th Floor
+Bit0 = Chest - [Scimitar] Kaiser Random Drop
+Bit2 = Chest - [2-Handed] Wald Reus +4 X1
+Bit4 = Chest - [1-Club] Dead Grasse +4 X1
+Bit6 = Chest - [Ores] Red Flame Crystal X6
+
+0xcdd455	
+Item Flag - Death King 1 - 97th Floor
+Bit0 = Chest - [Ores] Kongo Ore X10
+
+0xcdd558	
+Item Flag - Death King 2 - 97th Floor
+Bit0 = Chest - [Ores] Crust Crystal X6
+Bit2 = Chest - 1200000 Col
+Bit4 = Chest - [Potion] Grand Potion X4
+
+0xcdd65c	
+Item Flag - Death King 3 - 97th Floor
+Bit0 = Chest - [Ores] Stream Crystal X6
+Bit2 = Chest - [Ores] Sharp E. Crystal X6
+Bit4 = Chest - [Crystal] Teleport Crystal X3
+
+0xcde598	
+Item Flag - Trial of Ruby 1 - 98th Floor
+Bit0 = Chest - [Dagger] Venon Random Drop
+Bit2 = Chest - [Ores] Windy F. Stone X10
+Bit4 = Chest - [Rapier] Ocean Seducer X1
+
+0xcde62f	
+Event Flag - Trial of Ruby 1 - 98th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+
+0xcde630	
+Event Flag - Trial of Ruby 1 - 98th Floor
+Bit0 = Trap Room - Ancient Relic
+Bit1 = Trap Room Beaten
+
+0xcde69c	
+Item Flag - Trial of Ruby 2 - 98th Floor
+Bit0 = Chest - [2-Gr. Axe] Insane Random Drop
+Bit2 = Chest - [Rapier] Kaiser Random Drop
+Bit4 = Chest - [2-Handed] Venom Reus +11 X1
+
+0xcde733	
+Event Flag - Trial of Ruby 2 - 98th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+Bit6 = Door Unlocked
+
+0xcde73f	
+Event Flag - Trial of Ruby 2 - 98th Floor
+Bit4 = Door Unlocked
+
+0xcde742	
+Event Flag - Trial of Ruby 2 - 98th Floor
+Bit0 = Switch
+Bit1 = Switch
+Bit2 = Switch
+
+0xcde744	
+Event Flag - Trial of Ruby 2 - 98th Floor
+Bit0 = Trap Room - Scorbius
+Bit1 = Trap Room - Scorbius Beaten
+
+0xcde74c	
+Event Flag - Trial of Ruby 2 - 98th Floor
+Bit0 = Trap Room -
+Bit1 = Trap Room - Scarlet Thorn Beaten
+
+0xcde7a0	
+Item Flag - Trial of Ruby 3 - 98th Floor
+Bit0 = Chest - [Sword] Blood Arthur +8 X1
+
+0xcde837	
+Event Flag - Trial of Ruby 3 - 98th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+Bit6 = Door Unlocked
+Bit7 = Door Unlocked
+
+0xcde846	
+Event Flag - Trial of Ruby 3 - 98th Floor
+Bit0 = Switch
+
+0xcde848	
+Event Flag - Trial of Ruby 3 - 98th Floor
+Bit0 = Trap Room - Trinity Fenrir
+Bit0 = Trap Room - Trinity Fenrir Beaten
+
+0xcde850	
+Event Flag - Trial of Ruby 3 - 98th Floor
+Bit0 = Trap Room
+Bit1 = Trap Room Beaten
+
+0xcdebb0	
+Item Flag - Tower of Shield - 98th Floor
+Bit0 = Chest - [Scimitar] Kaiser Random Drop
+Bit2 = Chest - [Ores] White Grey Stone X10
+
+0xcdec47	
+Event Flag - Tower of Shield 1 - 98th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+Bit6 = Door Unlocked
+Bit7 = Door Unlocked
+
+0xcdec4e	
+Event Flag - Tower of Shield 1 - 98th Floor
+Bit0 = Switch
+
+0xcdecb4	
+Item Flag - Tower of Shield 2 - 98th Floor
+Bit0 = Chest - [Spear] Random Drop
+Bit2 = Chest - [Ores] Red Flame Stone X10
+Bit4 = Chest - [2-Handed] Random Drop
+
+0xcdecbc	
+Item Flag - Tower of Shield 2 - 98th Floor
+Bit3 = Chest - Trap Chest - Monster Attacks
+Bit4 = Chest - Trap Chest - Monster Attacks
+Bit5 = Chest - Trap Chest - Monster Attacks
+
+0xcded3c	
+Event Flag - Tower of Shield 2 - 98th Floor
+Bit0 = Trap Room Beaten
+Bit1 = Trap Room
+Bit4 = Trap Room Beaten
+Bit5 = Trap Room
+
+0xcded3d	
+Event Flag - Tower of Shield 2 - 98th Floor
+Bit0 = Trap Room Beaten
+Bit1 = Trap Room
+
+0xcded4b	
+Event Flag - Tower of Shield 2 - 98th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+Bit6 = Door Unlocked
+
+0xcded53	
+Event Flag - Tower of Shield 2 - 98th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+
+0xcded5c	
+Event Flag - Tower of Shield 2 - 98th Floor
+Bit0 = Trap Room Beaten
+Bit1 = Trap Room
+Bit4 = Trap Room Beaten
+Bit5 = Trap Room
+
+0xcdedd4	
+Event Flag - Tower of Shield 3 - 98th Floor
+Traps Count
+
+0xcdee47	
+Event Flag - Tower of Shield 3 - 98th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+
+0xcdee4e	
+Event Flag - Tower of Shield 3 - 98th Floor
+Bit0 = Big Switch
+
+0xcdeebc	
+ItemFlag - Tower of Sword 1 - 98th Floor
+Bit0 = Chest - [Ores] Crust Stone X10
+Bit2 = Chest - [Ores] Kongo Stone X10
+
+0xcdef54	
+ItemFlag - Tower of Sword 1 - 98th Floor
+Bit0 = Switch
+Bit4 = Switch
+
+0xcdef5a	
+ItemFlag - Tower of Sword 1 - 98th Floor
+Bit0 = Door Unlocked
+
+0xcdefc0	
+Item Flag - Tower of Sword 2 - 98th Floor
+Bit0 = Chest [1-Club] Random Drop
+Bit2 = CHest - [Crystal] Teleport Crystal 3
+Bit4 = Chest - [Katana] Random Drop
+
+0xcdefdc	
+Event Flag - Tower of Sword 2 - 98th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+
+0xcdf057	
+Event Flag - Tower of Sword 2 - 98th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit6 = Door Unlocked
+Bit7 = Door Unlocked
+
+0xcdf05f	
+Event Flag - Tower of Sword 2 - 98th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+Bit2 = Door Unlocked
+Bit3 = Door Unlocked
+Bit4 = Door Unlocked
+Bit5 = Door Unlocked
+
+0xcdf066	
+Event Flag - Tower of Sword 2 - 98th Floor
+Bit0 = Switch
+Bit1 = Switch
+Bit2 = Switch
+
+0xcdf070	
+Event Flag - Tower of Sword 2
+Bit0 = Fake Door Appear
+Bit1 = Fake Door Destroyed
+
+0xcdf080	
+Event Flag - Tower of Sword 2
+Bit0 = Trap Room
+Bit1 = Trap Room Beaten
+
+0xcdf088	
+Event Flag - Tower of Sword 2
+Bit0 = Trap Room
+Bit1 = Trap Room Beaten
+
+0xcdf090	
+Event Flag - Tower of Sword 2
+Bit0 = Trap Room
+Bit1 = Trap Room Beaten
+
+0xcdf098	
+Event Flag - Tower of Sword 2
+Bit0 = Trap Room
+Bit1 = Trap Room Beaten
+
+0xcdf0a0	
+Event Flag - Tower of Sword 2
+Bit0 = Fake Door Appear
+Bit1 = Fake Door Destroyed
+
+0xcdf0a8	
+Event Flag - Tower of Sword 2
+Bit0 = Trap Room
+Bit1 = Trap Room Beaten
+
+0xcdf0b0	
+Event Flag - Tower of Sword 2
+Bit0 = Fake Door Appear
+Bit1 = Fake Door - Big Boss Destroyed
+
+0xcdf0e0	
+Event Flag - Tower of Sword 3
+Trap Counter
+
+0xcdf153	
+Event Flag - Tower of Sword 3 - 98th Floor
+Bit0 = Door Unlocked
+Bit1 = Door Unlocked
+
+0xcdf15a	
+Event Flag - Tower of Sword 3 - 98th Floor
+Bit0 = Big Switch
+
+0xdd9c8c	
+Money In Shop only
+
+0xdf44e0	
+Enemy HP 32 bits
+
+0xdf5360	
+Enemy HP 32 bits
+
+0xdf6ac0	
+Enemy HP 32 bits
+
+0xe02f00	
+Enemy HP 32 bits
+
+0xe0c910	
+Enemy HP 32 bits
+
+0xe0f0e0	
+Enemy HP 32 bits
+
+0xe10e90	
+Enemy HP 32 bits
+
+0xe13470	
+Enemy HP 32 bits
+
+0xe139e0	
+Enemy HP 32 bits
+
+0xe14060	
+Enemy HP 32 bits
+
+0xe15a50	
+Enemy HP 32 bits
+
+0xe167f0	
+Enemy HP 32 bits
+
+0xe18030	
+Enemy HP 32 bits
+
+0xe18830	
+Enemy HP 32 bits
+
+0xe18860	
+Enemy HP 32 bits
+
+0xe18940	
+Enemy HP 32 bits - Hollow Strea
+
+0xe18b40	
+Enemy HP 32 bits
+
+0xe18c30	
+Enemy HP 32 bits
+
+0xe18c60	
+Enemy HP 32 bits
+
+0xe1a2a0	
+Enemy HP 32 bits
+
+0xe1a470	
+Enemy HP 32 bits
+
+0xe1a610	
+Enemy HP 32 bits
+
+0xe1c2b0	
+Enemy HP 32 bits
+
+0xe1c880	
+Enemy HP 32 bits
+
+0xe1cbf0	
+Enemy HP 32 bits
+
+0xe1cea0	
+Enemy HP 32 bits
+
+0xe1cf00	
+Enemy HP 32 bits
+
+0xe1d230	
+Enemy HP 32 bits
+
+0xe1d420	
+Enemy HP 32 bits - Last Boss
+
+0xe1d6b0	
+Enemy HP 32 bits
+
+0xe5fc84	
+Clock Display
+
+0xe5fc85	
+Hours Display
+
+0xe5fc86	
+Hours
+
+0xe5fc87	
+Minutes
+
+0x101daa0	
+Player X Coord Float
+
+0x101daa4	
+Player Y Coord Float
+
+0x101daa8	
+Player Z Coord Float
+
+0x101db86	
+Player State 16 bits
+
+0x101dbb0	
+- Status - Player Current Health 32 bits
+
+0x101dbb4	
+- Status - Player Total Health 32 bits
+
+0x101dbd6	
+- Status - Player Level
+
+0x101ffd0	
+Boss Battle Result - Max Damage 32 bits
+
+0x101ffda	
+Boss Battle Last Attack?
+
+Não faz sentido de caralhos nenhum vtnc jogo fdp
+
+0x19acfdc	
+Player SP 32 bits
+
+0x19b00b2	
+Interrupt Mission - Monsters needed to defeat on this quest 16 bits
+
+0x19b00b4	
+Interrupt Mission - Monsters needed to defeat 16 bits
+
+0x19b00c6	
+Interrupt Mission State 16 bits
+0000 = No
+0001 = Yes
+0200 = Finished - Failed
+
+0x19b00c8	
+Interrupt Mission State Time Limit Total 16 bits
+
+0x19b00ca	
+Interrupt Mission State Time Limit Countdown 16 bits
+
+0x19b00cc	
+Interrupt Mission State Seconds Frames 16 bits
