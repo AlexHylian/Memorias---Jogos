@@ -1327,118 +1327,80 @@ Bit0 = Chest - [Ores] Red Flame Ore X4
 Bit2 = Chest - [2-Handed] Ultima Random Drop
 Bit4 = Chest - [Sword] Marauder Random Drop
 Bit6 = Chest - [Crystal] Restore Crystal 3
-
-0xcc29c5	
-Item Flag - Poison Weave Forest
+# 0xcc29c5 - Item Flag - Poison Weave Forest
 Bit0 = Chest - [Dagger] Venom Random Drop
 Bit2 = Chest - [Dress] Sharp Edge Ore X5
 Bit4 = Chest - [Dress] Stream Ore X5
 Bit6 = Chest - 150000 Col
-
-0xcc29c6	
-Item Flag - Poison Weave Forest
+# 0xcc29c6 - Item Flag - Poison Weave Forest
 Bit0 = Chest - [Dress] Kongo Ore X5
-
-0xcc2ac8	
-Item Flag - Greed Hole 1
+# 0xcc2ac8 - Item Flag - Greed Hole 1
 Bit0 = [Dress] Windy F. Stone X10 - Cavern 76 Floor
 Bit2 = [Dress] Kongo Stone X10 - Cavern 76 Floor
 Bit4 = [Dress] White Grey Ore X5 - Cavern 76 Floor
 Bit6 = [Dress] Crust Ore X5 - Cavern 76 Floor
-
-0xcc2b5e	
-Event Flag
+# 0xcc2b5e - Event Flag
 Bit0 = Greed Hole 1 - Removed Barier
-
-0xcc2bcc	
-Item Flag - Greed Hole 2
+# 0xcc2bcc - Item Flag - Greed Hole 2
 Bit0 = Chest - [Rapier] FlussLine+4x1 - Cavern 76 Floor
 Bit5 = Chest - 180000 Col - Cavern 76 Floor
-
-0xcc2dd4	
-Item Flag BF Corridor - 76th Floor
+# 0xcc2dd4 - Item Flag BF Corridor - 76th Floor
 Bit0 = Chest - [Scimitar] Random Kaiser Drop
 Bit2 = Chest - [Rapier] Random Drop
 Bit4 = Chest - [Spear] WaldSauveur+2 X1
 Bit6 = Chest - [Crystal] Healing Crystal 4
-
-0xcc2dd5	
-Item Flag BF Corridor
+# 0xcc2dd5 - Item Flag BF Corridor
 Bit0 = [1-Club] Dead Random Drop
 Bit2 = [Dress] Kongo Crystal X3
-
-0xcc2fdc	
-Item Flag - Cauldron of Dead - 1 - 76th Floor
+# 0xcc2fdc - Item Flag - Cauldron of Dead - 1 - 76th Floor
 Bit0 = Chest - [Dress] Stream Stone X4
 Bit2 = Chest - [Potion] Grand Potion X3
 Bit4 = Chest - [Potion] SP - Hi-Potion X4
 Bit6 = Chest - [Dress] Sharp Edge Stone X10
-
-0xcc3073	
-Event Flag
+# 0xcc3073 - Event Flag
 Bit0 = Door Opened - Cauldron of Dead - 1
 Bit1 = Door Opened - Cauldron of Dead - 1
-
-0xcc30e0	
-Item Flag - Cauldron of Dead - 1 - 76th Floor
+# 0xcc30e0 - Item Flag - Cauldron of Dead - 1 - 76th Floor
 Bit0 = Chest - [Crystal] Teleport Crystal 3
 Bit2 = Chest - [2-Gr. Axe] Insane Random Drop
 Bit4 = Chest - [Dress] Wind F. Stone X10
 Bit6 = Chest - [Dress] White Grey Stone X10
-
-0xcc3177	
-Event Flag
+# 0xcc3177 - Event Flag
 Bit0 = Door Opened - Cauldron of Dead - 2
 Bit1 = Door Opened - Cauldron of Dead - 2
 Bit2 = Door Opened - Cauldron of Dead - 2
 Bit3 = Door Opened - Cauldron of Dead - 2
-
-0xcc31e4	
-Item Flag - Cauldron of Dead - 3 - 76th Floor
+# 0xcc31e4 - Item Flag - Cauldron of Dead - 3 - 76th Floor
 Bit0 = Chest - [Rapier] Random Prize
 Bit2 = Chest - [Katana] Random Prize
 Bit4 = Chest - [Dress] Red Flame Stone X10
 Bit6 = Chest - [Potion] Grand Potion X2
-
-0xcc31e5	
-Item Flag - Cauldron of Dead - 3 - 76th Floor
+# 0xcc31e5 - Item Flag - Cauldron of Dead - 3 - 76th Floor
 Bit0 = Chest [Potion] - Hit Potion X3
-
-0xcc327b	
-Event Flag
+# 0xcc327b - Event Flag
 Bit0 = Door Opened - Cauldron of Dead - 3
 Bit1 = Door Opened - Cauldron of Dead - 3
 Bit2 = Door Opened - Cauldron of Dead - 3
 Bit3 = Door Opened - Cauldron of Dead - 3
 Bit4 = Door Opened - Cauldron of Dead - 3
 Bit5 = Door Opened - Cauldron of Dead - 3
-
-0xcc3d10	
-Item Flag - Greenwood Avenue - 77th Floor
+# 0xcc3d10 - Item Flag - Greenwood Avenue - 77th Floor
 Bit0 = Chest - [1-Club] Dead Slugger X1
 Bit2 = Chest - [2-Gr. Axe] Insane Random Drop
 Bit4 = Chest - Dress] Red Flame Stone X4
 Bit6 = Chest - [Spear] WaldStream X1
-
-0xcc3e14	
-Item Flag - Cavern of Demons - 77th Floor
+# 0xcc3e14 - Item Flag - Cavern of Demons - 77th Floor
 Bit0 = Chest - [Crystal] Healing Crystals
 Bit2 = Chest - [Sword] Kaiser Random Drop
 Bit4 = Chest - [Dress] Red Flame Ore X4
 Bit6 = Chest - [Dress] Wind F. Stone X4
-
-0xcc3e15	
-Item Flag - Cavern of Demons - 77th Floor
+# 0xcc3e15 - Item Flag - Cavern of Demons - 77th Floor
 Bit0 = Chest - [Dagger] Venom Feless+2 X1
 Bit2 = Chest - [Crystal] Teleport Crystal3
-
-0xcc3ea3	
-Event Flag - Cavern of Demons
+# 0xcc3ea3 - Event Flag - Cavern of Demons
 Bit1 = Door Unlocked
 Bit2 = Door Unlocked
-
-0xcc3f18	
-Item Flag - Fool's Corridor - 77th Floor
+# 0xcc3f18 - Item Flag - Fool's Corridor - 77th Floor
 Bit1 = Chest - [Dress] Random Drop
 Bit2 = Chest - [Dress] Kongo Stone X4
 Bit4 = Chest - [Sword] Kaizer Strait X1
