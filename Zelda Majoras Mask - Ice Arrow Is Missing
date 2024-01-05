@@ -1,0 +1,1093 @@
+0xb3444	
+Part Being Played 16bits
+2031=Part 1
+2032=Part 2
+2033=Part 3
+2034=Part 4
+2035=Part 5
+3620=Part 6
+2036=Part 6-OG - Original but hard // Removed //
+2037=Part 7
+2038=Part 8
+3920=Part 9
+2039=Part 9-OG - Original but hard // Removed //
+3130=Part 10
+3131=Part 11
+3132=Part 12
+3133=Part 13
+3134=Part 14
+3135=Part 15
+3136=Part 16
+3137=Part 17
+3138=Part 18
+3139=Part 19
+3230=Part 20
+3231=Part 21
+3232=Part 22
+3233=Part 23
+3234=Part 24
+3235=Part 25
+3236=Part 26
+3237=Part 27
+3238=Part 28
+3239=Part 29
+3330=Part 30
+3331=Part 31
+3332=Part 32
+3333=Part 33
+3334=Part 34
+
+0x1ef670	
+Entrances Type - Bitflag (duplicated value)
+
+0x1ef671	
+Map ID
+
+0x1ef677	
+Mask Face ID
+00 = None
+01 = Truth
+02 = Kafei
+03 = All Night
+04 = Bunny
+05 = Keaton
+06 = Garo
+07 = Romani
+08 = Circus
+09 = Postman
+0A = Couple
+0B = G.Fairy
+0C = Gibdo
+0D = Don Gero
+0E = Kamaro
+0F = Captain
+10 = Stone
+11 = Bremen
+12 = Blast
+13 = Scents
+14 = Giant
+15 = F.Deity
+16 = Goron
+17 = Zora
+18 = Deku
+
+0x1ef67e	
+Current Hours 16 bits
+
+0x1ef680	
+Day Time
+00 = Day
+01 = Night
+
+0x1ef684	
+Slow Time Effect 32 bits
+00 = Off
+fffffffe = On
+
+0x1ef688	
+Days in Game
+01 = 1st Day
+02 = 2nd Day
+03 = 3rd Day
+
+0x1ef68c	
+Days in Game - Clone
+01 = 1st Day
+02 = 2nd Day
+03 = 3rd Day
+
+0x1ef693	
+Link Transformations
+00 = Fierce Deity
+01 = Goron
+02 = Zora
+03 = Deku
+04 = Link
+
+0x1ef698	
+Counter times you redo to "Dawn of the First Day"
+
+0x1ef6a4	
+Current Health 16 bits
+
+0x1ef6a6	
+Max Hearts Container 16 bits
+
+0x1ef6a8	
+Rupees 16 bits
+
+0x1ef6aa	
+Amount of Magic Power
+
+0x1ef6ab	
+Magic Metter
+Bit0 = Magic Power
+Bit1 = Enhanced Magic Power
+
+0x1ef6ac	
+Room Frames 32 bits
+
+0x1ef6b4	
+Owl Statues
+Bit0 = Great Bay Coast
+Bit1 = Zora Cape
+Bit2 = Snowhead
+Bit3 = Mountain Village
+Bit4 = Clock Town
+Bit5 = Milk Road
+Bit6 = Woodfall
+Bit7 = Southern Swamp
+
+0x1ef6b5	
+Owl Statues
+Bit0 = Ikana Canyon
+Bit1 = Stone Tower
+
+0x1ef6cb	
+Magic Power = Get 09
+
+0x1ef6cc	
+C-Right Selected
+
+0x1ef6cd	
+C-Down Selected
+
+0x1ef6de	
+Current Sword and Shield equipped
+Bit0 = Kokiri Sword
+Bit1 = Razor Sword
+Bit0,1 = Gilded Sword
+Bit5 = Mirror Shield
+
+0x1ef6e0	
+Ice Arrow = Get 03
+
+0x1ef6e1	
+Fire Arrow = Get 02
+
+0x1ef6e2	
+Hero's Bow = Get 01
+
+0x1ef6e3	
+Ocarina = Get 00
+
+0x1ef6e4	
+Bombchu = Get 07
+
+0x1ef6e5	
+Bomb Bag
+
+0x1ef6e6	
+Moon's Tear = Get 28
+Land Title Deed = Get 29
+
+0x1ef6e7	
+Light Arrow = Get 04
+
+0x1ef6e8	
+Room Key = Get 2d
+Express Mail = Get 2e
+
+0x1ef6e9	
+Magic Beans = Get 0a
+
+0x1ef6ea	
+Deku Nuts = Get 09
+
+0x1ef6eb	
+Deku Stick = Get 08
+
+0x1ef6ec	
+Hookshot = Get 0f
+
+0x1ef6ed	
+Lens of Truth = Get 0e
+
+0x1ef6ee	
+Pictograph Box = Get 0d
+
+0x1ef6ef	
+Powder Keg = Get 0c
+
+0x1ef6f0	
+Bottle
+
+0x1ef6f1	
+Bottle
+
+0x1ef6f2	
+Letter to kafei = Get 2f
+pendant of Memories = Get 30
+
+0x1ef6f3	
+Fairy Sword = Get 10
+
+0x1ef6f4	
+Bottle
+
+0x1ef6f5	
+Bottle
+
+0x1ef6f6	
+Bottle
+
+0x1ef6f7	
+Bottle
+
+0x1ef6f8	
+Stone Mask = Get 45
+
+0x1ef6f9	
+Blast Mask = Get 47
+
+0x1ef6fa	
+All-Night Mask = Get 38
+
+0x1ef6fb	
+Postman's Hat = Get 3e
+
+0x1ef6fc	
+Bremen Mask = Get 46
+
+0x1ef6fd	
+Keaton Mask = Get 3a
+
+0x1ef6fe	
+Deku Mask = Get 32
+
+0x1ef6ff	
+Great Fairy Mask = Get 40
+
+0x1ef700	
+Goron Mask = Get 33
+
+0x1ef701	
+Mask of Scents = Get 48
+
+0x1ef702	
+Don Gero's Mask = Get 42
+
+0x1ef703	
+Bunny Hood = Get 39
+
+0x1ef704	
+Couple's Mask = Get 3F - Triggers at sun's mask
+
+0x1ef705	
+Kafei Mask = Get 37
+
+0x1ef706	
+Troupe Leader's Mask = Get 3d
+
+0x1ef707	
+Romani's Mask = Get 3c
+
+0x1ef708	
+Gibdo Mask = Get 41
+
+0x1ef709	
+Kamaro's Mask = Get 43
+
+0x1ef70a	
+Zora Mask = Get 34
+
+0x1ef70b	
+Mask of Truth - Get 36
+
+0x1ef70c	
+Fierce Deity's Mask = Get 35
+
+0x1ef70d	
+Giant's Mask = Get 49
+
+0x1ef70e	
+Captain's Hat = Get 44
+
+0x1ef70f	
+Garo's Mask = Get 3b
+
+0x1ef712	
+Ammount of Arrows
+
+0x1ef714	
+Ammount of Bombchu
+
+0x1ef715	
+Ammount of Bombs
+
+0x1ef719	
+Ammount of Magic Beans
+
+0x1ef71a	
+Ammount of Deku Nuts
+
+0x1ef71b	
+Ammount of Deku Sticks
+
+0x1ef71f	
+Ammount of Powder Keg
+
+0x1ef728	
+Item Flag
+Bit0 = Bow
+Bit1 = Large Quiver
+Bit0,1 = Largest Quiver
+Bit4 = Biggest Bomb Bag
+
+0x1ef729	
+Wallets Flag
+Bit4 = Adult Wallet
+Bit5 = Giant Wallet
+
+0x1ef72a	
+Event Flag - Upgrades
+Bit1 = Deku Stick
+Bit2 = Deku Stick Upgrade
+Bit1,2 Deku Stick Last Upgrade
+Bit4 = Deku Nuts
+Bit5 = Deku Nuts Upgrade
+Bit4,5 = Deku Nuts Last Upgrade
+
+0x1ef72c	
+Boss Masks & Songs Flag
+Bit0 = Odolwa's Remains
+Bit1 = Goht's Remains
+Bit2 = Gyorg's Remains
+Bit3 = Twinmold's Remains
+Bit6 = Sonata of Awakening
+Bit7 = Goron Lullaby
+
+0x1ef72d	
+Inventory Flag - Songs
+Bit 0 = New Wave Boss Nova
+Bit 1 = Elegy of Emptiness
+Bit 2 = Oath to Order
+Bit 3 =
+Bit 4 = Song of Time
+Bit 5 = Song of Healing
+Bit 6 = Epona's Song
+Bit 7 = Song of Soaring
+
+0x1ef72e	
+Song and Bomber's Notebook
+Bit 0 - Song of Storms
+Bit 2 - Bomber's Notebook
+
+0x1ef730	
+Dungeon Itens - Stone Tower Temple
+Bit0 = Boss Key
+Bit1 = Dungeon Compass
+Bit2 = Dungeon Map
+
+0x1ef731	
+Dungeon Itens - Great Bay Temple
+Bit0 = Boss Key
+Bit1 = Dungeon Compass
+Bit2 = Dungeon Map
+
+0x1ef732	
+Dungeon Itens - Snowhead Temple
+Bit0 = Boss Key
+Bit1 = Dungeon Compass
+Bit2 = Dungeon Map
+
+0x1ef733	
+Dungeon Itens - Woodfall Temple
+Bit0 = Boss Key
+Bit1 = Dungeon Compass
+
+0x1ef738	
+Small Keys - Snowhead Temple
+
+0x1ef739	
+Small Keys - Woodfall Temple
+
+0x1ef73e	
+Small Keys - Stone Tower Temple
+
+0x1ef73f	
+Small Keys - Great Bay Temple
+
+0x1ef740	
+Inventory Flag
+Bit4 = Defense Upgrade
+
+0x1ef744	
+Inventory Flag - Stone Tower Temple - Faries Count
+
+0x1ef745	
+Inventory Flag - Great Bay Temple - Faries Count
+
+0x1ef746	
+Inventory Flag - Snowhead Temple - Faries Count
+
+0x1ef747	
+Inventory Flag - Woodfall Temple - Faries Count
+
+0x1efca0	
+Second Array of Events
+Zora Egg Counter in Marine Research
+
+0x1f0516	
+Event Flag
+Bit3 = Ikana Canyon Map
+
+0x1f051a	
+Event Flag
+Bit7 = Great Bay Coast Map
+
+0x1f051b	
+Event Flag
+Bit0 = Zora Cap Map
+
+0x1f054c	
+Money in Bank 16 bits
+
+0x1f057a	
+Event Flag
+Bit7 = Land Title Deed
+
+0x1f0598	
+Event Flag
+Bit2 = Kafei - Laundry Pool
+
+0x1f05a0	
+Event Flag
+Bit6 = Bank Prizes - Adult Wallet
+
+0x1f05a4	
+Event Flag
+Bit5 = Swordsman Piece of Heart
+
+0x1f05ad	
+Bombers' Flag - Checks
+Bit4 = End Cutscene - Bombers
+Bit5 = Red Bomber - You got the Bombers' Notebook
+
+0x1f05af	
+Bombers' Flag - Peoples
+Bit3 = Red Bomber
+
+0x1f05b2	
+Event Flag
+Bit2 = Deku Scrub Cutscene - Sout Clock Town
+Bit7 = Bomber Passcode Done
+
+0x1f068a	
+Interaction Object - Frames
+
+0x1f3318	
+Game Mode
+00 = Boot / Game Play
+01 = Tittle Screen
+02 = File Select Screen
+
+0x1f359a	
+Magic Metter Animation On
+00 = No
+07 Yes
+
+0x1f35a8	
+Swordman's School - Stick Counter
+Romani Mini Game - Ballons Counter
+Witch Mini Game - Target Counter
+Waterfall Mini Game - Circle Counter
+
+0x1f35aa	
+Event Flag
+Bit0 = Mini Game Started
+Bit0,Bit1 = No Mini Game
+
+0x1f35ae	
+Counter to Pathetic Old Hag cutscene
+
+0x2050d7	
+Music ID
+03 = Some Mini Games
+07 = Stone Tower Temple
+1c = Woodfall Temple
+1b = Boss Fight
+21 = Boss Victory
+28 = Fairy Fountain
+38 = Mini Boss Fight
+60 = Final Hours Theme
+65 = Snowhead Temple
+66 = Great Bay Temple
+69 = Majora's Last Form
+6a = Majora's Incarnation
+6b = Majora's 1st Theme
+72 = Lon Lon Ranch - Cremia
+74 = Credits
+7c = Giants Song - Credits
+7e = Before Credits after beat majoras
+
+0x3e8978	
+Rooms Event Flag
+----------Ikana Cruible ----------
+Bit1 = Iron Door Unlocked
+Bit2 = Fairy Fountain Checkpoint
+Bit3 = Fairy Fountain Checkpoint
+Bit4 = Fairy Fountain Checkpoint
+Bit5 = Iron Door Unlocked
+
+---------- Path to Snowhead ----------
+Bit1 = Switch - Wrong Chest
+
+---------- Path to Goron Village ----------
+Bit1 = Switch - Wrong Chest
+
+---------- Path to the Mountain ----------
+Bit1 = Switch - Chest
+
+---------- Test Map ----------
+Bit0 = Switch
+Bit1 = Switch
+Bit2 = Eye Switch
+
+0x3e8979	
+Rooms Event Flag
+---------- Great Fairy Fountain - Clock Town ----------
+Bit2 = Oh No! The Great Fairy! Cutscene
+
+0x3e897a	
+Rooms Event Flag
+---------- Snowhead Temple ----------
+Bit1 = Switch - Ice Arrow Chest
+
+---------- Deku Shrine ----------
+Bit1 = Switch - Ice Arrow Chest
+
+---------- Stone Tower ----------
+Bit0 = Switch
+Bit1 = Switch
+Bit2 = Switch
+Bit3 = Switch
+
+---------- Mama's House ----------
+Bit0 = Switch - Ice Arrow Chest
+
+0x3e897d	
+Rooms Event Flag
+---------- Ikana Castle ----------
+Bit1 = Sun Block - Ice Arrow Chest
+
+0x3e8984	
+Rooms Event Flag
+---------- Stone Tower ----------
+Bit0 = Switch
+Bit1 = Switch
+Bit2 = Switch
+
+---------- Goth Trial ----------
+Bit0 = Switch
+
+0x3e8987	
+Rooms Event Flag
+---------- South Clock Town ----------
+Bit7 = Fairy
+
+0x3e8988	
+Rooms Event Flag
+---------- Ikana Castle ----------
+Bit0 = Chest - Ice Arrow
+
+---------- Deku Shrine ----------
+Bit0 = Chest - Ice Arrow
+
+---------- Trials ----------
+Bit3 = Chest - Ice Arrow
+
+---------- Great Bay Ocean ----------
+Bit0 = Chest - 20 Rupees
+Bit1 = Chest - Ice Arrow
+
+---------- Ikana Cruible ----------
+Bit3 = Chest - Ice Arrow
+
+---------- Clock Town ----------
+Bit1 = Chest - Ice Arrow
+
+---------- Zora Hall ----------
+Bit1 = Chest - Ice Arrow
+
+---------- Path to Snowhead ----------
+Bit0 = Chest - Wrong Chest
+
+---------- Path to Goron Village ----------
+Bit0 = Chest - Wrong Chest
+
+---------- Mama's House ----------
+Bit0 = Chest - Ice Arrow
+
+---------- Beneath Snowhead ----------
+Bit0 = Chest - Ice Arrow
+
+---------- Lost Woods ----------
+Bit0 = Chest - Ice Arrow
+
+---------- Lone Peak Shrine ----------
+Bit7 = Chest - Ice Arrow
+
+---------- Pirate Fortress ----------
+Bit7 = Chest - Ice Arrow
+
+---------- Chamber of Giants ----------
+Bit0 = Chest - Ice Arrow
+
+---------- Milk Bar ----------
+Bit0 = Chest - Ice Arrow
+
+---------- On the Moon ----------
+Bit0 = Chest - Ice Arrow
+
+---------- Twinmold's Lair ----------
+Bit0 = Chest - Ice Arrow
+
+---------- Takkuri's House ----------
+Bit0 = Chest - Ice Arrow
+
+0x3e8989	
+Rooms Event Flag
+---------- Termina Grotto ----------
+Bit0 = Chest - Ice Arrow
+
+---------- Graveyard 2nd day ----------
+Bit7 = Chest - Ice Arrow
+
+---------- Chicken House Grotto ----------
+Bit0 = Chest - Ice Arrow
+
+0x3e898b	
+Rooms Event Flag
+---------- Snowhead Temple ----------
+Bit7 = Chest - Ice Arrow
+
+---------- Inverted Stone Tower ----------
+Bit4 = Chest - Ice Arrow
+
+---------- Stone Tower Temple ----------
+Bit7 = Chest - Ice Arrow
+
+0x3e898c	
+Rooms Event Flag
+----------Ikana Cruible ----------
+Bit0 = Floor 1
+Bit1 = Floor 2
+Bit2 = Floor 3
+Bit3 = Floor 4
+Bit4 = Floor 5
+Bit5 = Floor 6
+Bit6 = Floor 7
+Bit7 = Floor 8
+
+----------Chamber of Fate ----------
+Bit0 = Doors Unlockeds
+
+0x3e898d	
+Rooms Event Flag
+----------Ikana Cruible ----------
+Bit0 = Floor 9
+Bit1 = Floor 10
+Bit2 = Floor 11
+Bit3 = Floor 12
+Bit4 = Floor 13
+Bit5 = Floor 14
+Bit6 = Floor 15
+Bit7 = Floor 16
+
+0x3e898e	
+Rooms Event Flag
+----------Ikana Cruible ----------
+Bit0 = Floor 17
+Bit1 = Floor 18
+Bit2 = Floor 19
+Bit3 = Floor 20
+Bit4 = Floor 21
+Bit5 = Floor 22
+Bit6 = Floor 23
+Bit7 = Floor 24
+
+0x3e8995	
+Rooms Event Flag
+---------- South Clock Town ----------
+Bit2 = Piece of Heart
+
+---------- North Clock Town ----------
+Bit2 = Piece of Heart
+
+0x3fd32e	
+Dialogue ID 16 bits
+---------- Part 1 ----------
+[Clock Town - Clues] = 33f
+026 = You Found It! It's the Ice Arrow
+330 = Great Bay Coast - Switch
+331 = Pirate Fortress - Temple
+332 = Stone Tower Temple - Near that which holds the key
+333 = Clock Town - Seek the truth
+334 = Ancient Castle of Ikana - Behind the Wall
+32e = Southern Swamp (Poisoned) - Five Little One Big
+32f = Path to Ikana - Three Red
+
+---------- Part 2 ----------
+[Clock Town - Clues] = 33f
+330 = Goron Village (Snow) - Right side
+331 = Romani Ranch - Behind the sun
+332 = Pinnacle Rock - Guarded by four
+333 = Zora Cap - Near a master and magician
+334 = Mountain Village (Spring) - Invisible
+32e = Termina FIeld - 2nd of 3
+32f = Woodfall Temple - After the sun has set
+
+---------- Part 3 ----------
+[Clock Town - Clues] = 33f
+330 = Path to the Goron Village - Hidden in plain sight
+331 = Zora Hall - Skull Kid stands guard
+332 = Sakon's Hideout - Better seen from afar
+333 = Secret Shrine - Explosive Required
+334 = Inverted Stone Tower - Only seen by those who observe
+32e = Path to the Swamp - Grotto
+32f = Swamp Spider House - Left foot
+
+---------- Part 4 ----------
+[Clock Town - Clues] = 33f
+32e = Clock Town - Underground
+32f = Woods of Mystery - False Wall
+330 = Deku Shrine - Watched by Spiders
+331 = Path to the Mountain - Switch
+332 = Pirates' Fortress - Under the red in green
+333 = Great Bay Temple - Speak with the children
+334 = Beneath the Well - Near the knight in shining armor
+
+---------- Part 5 ----------
+[Clock Town - Clues] = 33f
+32e = Termina Field - Mask
+32f = Deku Palace - Yellow
+330 = Ocean Spider House - Ten
+331 = Beneath the Graveyard - Blocked
+332 = Ikana Canyon - Lead the way
+333 = On the Moon - They grow up so fast
+334 = Waterfall Rapids - Isn't that your clue?!?
+
+---------- Part 6 ----------
+[Clock Town - Clues] = 33f
+32e = Clock Town - Projectiles Needed
+32f = Termina Field - Time is short
+330 = Mountain Village - Blocked by a giant
+331 = Romani Ranch - Dead Ends
+332 = Ancient Castle of Ikana - Find them all
+333 = Southern Swamp - A-maze-ing
+334 = Stone Tower Temple Inverted - Follow his lead
+
+---------- Part 7 ----------
+[Clock Town - Clues] = 33f
+32e = Termina Field - 1 of 4
+32f = Deku Palace - Masked
+330 = Fairy's Fountain - Temple
+331 = Romani Ranchi - Children
+332 = Zora Hall - Two ways to obtain
+333 = Ikana Graveyard - Warp
+334 = Secret Shrine - Reimans required
+
+---------- Part 8 ----------
+[Clock Town - Clues] = 33f
+32e = Woods of Mystery - Black
+33f = Goron Village - Red Eyes
+330 = Snowhead Temple - Listen Closely
+331 = Great Bay Coast - Near 1 of 10
+332 = Path to Ikana Canyon - Day only
+333 = Beneath the Well - Inn town
+334 = Odolwa Trial - Don't fall asleep
+
+---------- Part 9 ----------
+[Clock Town - Clues] = 33f
+32e = Path to Ikana - Find me
+32f = Clock Town - One might say this will be quite the ordeal
+330 = Deku Palace - The power of fire is required
+331 = Snowhead - Must be able to summon the unseen
+332 = Pirates' Fortress - Near a cave
+333 = Ocean Spider House - The Lion, the Witch and the Wardrobe
+334 = Stone Stower Temple Inverted - Some may bid them farewell
+
+---------- Part 10 ----------
+[Clock Town - Clues] = 33f
+32e = Clock Town - Watch for rolling rocks
+32f = Termina Field - Enjoy the ride
+330 = Path to Snowhead - Above 3 near 5
+331 = Goron Racetrack - Up High
+332 = Zora Cape - Upside down
+333 = Ikana Graveyard - Make it rain, or don't
+334 = Ikana Canyon - Near organic contents
+
+---------- Part 11 ----------
+[Clock Town - Clues] = 33f
+32e = Bombers' Hideout - Tower
+32f = Clock Town - Don't be early
+330 = Goron Village - Watching the time go by
+331 = Snowhead Temple - Southern
+332 = Pinnacle Rock - 3rd of 3
+333 = Zora Hall - Being Constructed
+334 = Sakon's Hideout - Where it all began
+
+---------- Part 12 ----------
+[Clock Town - Clues] = 33f
+32e = Southern Swamp - Yowza!
+32f = Woodfall Temple - South West
+330 = Mountain Village - Below the surface
+331 = Great Bay Coast - Help him for a reward
+332 = Waterfall Rapids - Shed some light on the situation
+333 = Stone Tower - Above stage
+334 = On the Moon - Four stand guard
+
+---------- Part 13 ----------
+[Clock Town - Clues] = 33f
+2e = This isn't the Ice Arrow
+32e = Clock Town - Freezing
+32f = Deku Palace - Invisible to the naked eye
+330 = Woodfall - Play his song
+331 = Path to Goron Village - Switch
+332 = Gorman Track - Along the Path
+333 = Ikana Graveyard - Near a group of 3
+334 = Beneath the Well - Up a tree
+
+---------- Part 14 ----------
+[Clock Town - Clues] = 33f
+32e = Termina Field - Near a giant
+32f = Swamp Spider House - Sleeping
+330 = Deku Shrine - Switches
+331 = Pirates' Fortress - Eyes on the prize
+332 = Romani Ranch - Pointing right at it
+333 = Zora Cape - On the tip of his tongue
+334 = Ikana Canyon - At the gate, look above the bird
+
+---------- Part 15 ----------
+[Clock Town - Clues] = 33f
+32e = Southern Swamp - 3 Stones
+32f = Deku Palace - Near the end of time
+330 = Goron Village (Winter) - Chimney
+331 = Snowhead Temple - Fire
+332 = Zora Hall - 2F
+333 = Ancient Castle of Ikana - Failed Love
+334 = Stone Tower - Taking Refuge
+
+---------- Part 16 ----------
+[Clock Town - Clues] = 33f
+32e = Clock Town - Big
+32f = Path to the Swamp - Hidden
+330 = Goron Racetrack - Song required
+331 = Romani Ranch - 1 of 4
+332 = Zora Hall - Island
+333 = Waterfall Rapids - Near one with great power
+334 = Secret Shrine - Pierce the arrowhead
+
+---------- Part 17 ----------
+[Clock Town - Clues] = 33f
+32e = Bombers' Hideout - y4veZn
+32f = Termina Field - BEoa0ko
+330 = Woodfall Temple - PwWWCcn
+331 = Mountain Village - 2raLxZ
+332 = Snowhead Temple - fVvGN
+333 = Pirates' Fortress - DMAsnM
+334 = Great Bay Temple - CjYbe
+32a = Beneath the Well - vEixivMX
+32d - Stone Tower Temple - 40zlDW
+
+---------- Part 18 ----------
+[Clock Town - Clues] = 33f
+32e = Clock Town - Open your eyes, look up to the skies and see
+32f = Southern Swamp - Didn't mean to make you cry.
+330 = Path to Snowhead - If I'm not back again this time tomorrow, carry on, carry on as if nothing really matters
+331 = Goron Racetrack - Sends shivers down my spine, body's aching all the time
+332 = Great Bay Coast - Gotta leave you all behind and face the truth
+333 = Path to Ikana Canyon - Thunderbolts and lightning, very, very frightening me
+334 = Ikana Canyon - So you think you can stop me and spit in my eye
+
+---------- Part 19 ----------
+[Clock Town - Clues] = 33f
+32e = Termina Field - Switch
+32f = Mountain Village (Winter) - Brewing
+330 = Romani Ranch - Death fro above
+331 = Zora Hall - One fish, two fish, three fish, skullfish
+332 = Great Bay Temple - Patroling
+333 = Stone TOwer - Near the Aquarium
+334 = On the Moon - Under a veil
+
+---------- Part 20 ----------
+[Clock Town - Clues] = 33f
+32e = Southern Swamp - Open(A) the hidden door
+32f = Woodfall - Center of 5
+330 = Goron Village (Spring) - Two watch from above
+331 = Ocean Spider House - Under the tree
+332 = Zora Cape - Above the flower
+333 = Ikana Graveyard - Take the plunge
+334 = Stone Tower Temple - Temple
+
+---------- Part 21 ----------
+[Clock Town - Clues] = 33f
+32e = Clock Town - Blue
+32f = Swamp Spider House - 1 of 2
+330 = Snowhead Temple - Gotta Go Fast!
+331 = Romani Ranch - See the truth
+332 = Pinnacle Rock - Hear the truth
+333 = Pirates' Fortress - Save him
+334 = Ancient Castle of Ikana - Go all in
+
+---------- Part 22 ----------
+[Clock Town - Clues] = 33f
+32e = Fairy's Fountain - 1st of 3
+32f = Bomber's Hideout - Watched at night
+330 = Deku Palace - Make your dreams come true
+331 = Great Bay Coast - Spend your Moo-ey
+332 = Waterfall Rapids - Need 10
+333 = Ikana Graveyard - <--
+334 =On the Moon - Enter 017
+
+---------- Part 24 ----------
+[Clock Town - Clues] = 33f
+32e = Clock Town - Underground
+32f = Woodfall Temple - Traverse an alternate dimension
+330 = Mountain Village Winter - Mask required
+331 = Great Bay Coast - Ask and ye shall receive
+332 = Zora Hall - Step into the center
+333 = Ikana Graveyard - Bring the key to his room
+334 = Stone Tower - Grocery list: 1: Green Potion 2: [Fairy] 3: [Milk] 4: [Sticks] 5: [Bombchus]
+32d = Extra Clue - Embark on the right
+
+---------- Part 25 ----------
+[Clock Town - Clues] = 33f
+32e = Termina Field - Go with the flow
+32f = Woods of Mystery - Go with the flow
+330 = Deku Shrine - He protects his heart, for his brother's is ice cold
+331 = Romani Ranch - 5 stones
+332 = Pirate's Fortress - Let's play a game
+333 = Zora Cape - 3 masks
+334 =Ancient Castle of Ikana - Left, left, right, left. Then right, right, left.
+
+---------- Part 26 ----------
+[Clock Town - Clues] = 33f
+32e = Clock Town - 2nd of 3
+32f = Swamp Spider House - East
+330 = Snowhead Temple - Inside 1 of 3, on the right
+331 = Ocean Spider House - Bring one
+332 = Waterfall Rapids - Exit stage left
+333 = Secret Shrine - Drown your sorrows
+334 = On The Moon - Neat or on the rocks?
+
+---------- Part 27 ----------
+[Clock Town - Clues] = 33f
+32e = Bombers' Hideout - Bring the light
+32f = Southern Swamp - Pierce the sun
+330 = Path to the Mountain - Stand tall on the Triforce
+331 = Pinnacle Rock - Through the branches
+332 = Great Bay Temple - I used to be an adventurer like you, then I took an arrow in the knee
+333 = Ikana Canyon - Five are watching, four of which are patrolling
+334 = Stone Tower Temple - Opens at midnight
+
+---------- Part 28 ----------
+[Clock Town - Clues] = 33f
+32e = Path to the Swamp - Up above
+32f = Woodfall - Hidden with royalty
+330 = Goron Village (Winter) - Don't get caught
+331 = Romani Ranch - Take her home
+332 = Great Bay Coast - Bring your monocle
+333 = Pirates' Fortress - No more monkeying around
+334 = Inverted Stone Tower - The princess is in another castle
+
+---------- Part 29 ----------
+[Clock Town - Clues] = 33f
+32e = Clock Town - Taken
+32f = Deku Palace - Back to the lab
+330 = Path to Snowhead - Don't forget your raincoat
+331 = Gorman Track - Line the up
+332 = Ocean Spider House - On the staff
+333 = Path to Ikana - The children will teach you
+334 = Ancient Castle of Ikana - A box without hinges, key, or lid, yet golden treasure inside is hid
+
+---------- Part 30 ----------
+[Clock Town - Clues] = 33f
+32e = Termina Field - Unique Purpose
+32f = Woodfall Temple - Don't run out of power
+330 = Mountain Village (Winter) - Watching it with his eye
+331 = Snowhead Temple - You must transform yourself
+332 = Pirates' Fortress - Go big or go home
+333 = Zora Hall - Enter the lair
+334 = Stone Tower - Rockville
+
+---------- Part 31 ----------
+[Clock Town - Clues] = 33f
+32e = Southern Swamp - Questions are great, but do you have the answers?
+32f = Deku Shrine - Hidden in the grass
+330 = Snowhead (Winter) - Yellow
+331 = Path to Goron Village (Spring) - What you need lies with Kafei
+332 = Great Bay Coast - Pop quiz
+333 = Great Bay Temple - 3 tails
+334 = Beneath the Well - What does the fox say?
+
+---------- Part 32 ----------
+[Clock Town - Clues] = 33f
+32e = Termina Field - Near a gathering
+32f = Southern Swamp (Cleaned) - You must begin 1st day
+330 = Snowhead Temple - Pass the test
+331 = Romani Ranch - Changing of the seasons
+332 = Ocean Spider House - Hush now baby, don't you cry
+333 = Waterfall Rapids - Let me sing to you this lullaby
+334 = Stone Tower Temple - Near a chandelier
+
+---------- Part 33 ----------
+[Clock Town - Clues] = 33f
+32e = Swamp Spider House - Southern
+32f = Woodfall Temple - Get lost
+330 = Goron Village - Changing
+331 = Gorman Track - Don't follow him, he will lead you astray
+332 = Great Bay Coast - On the 2nd, go to the left
+333 = Ikana Graveyard - Love a good mystery
+334 = On the Moon - Use the chimney
+
+---------- Part 34 ----------
+[Clock Town - Clues] = 33f
+32e = Clock Town - Did you think it would be straightforward? No matter, just continue onward.
+32f = Termina Field - You must look to the beginning. There you will find it, if you are willing
+330 = Deku Palace - Open your mind to a different view. Stumped? You can always begin anew
+331 = Deku Shrine - Your path, is it not clear? Good things come to those who persevere
+332 = Pirates' Fortress - Eyes open or eyes closed? With each clue the answer is exposed
+333 = Great Bay Temple - .
+334 = Ikana Canyon - Us? We live on a different plane. Come visit our domain
+32d = This is NOT the clue
+
+0x3ffdd4	
+Player Coord X 32 bits float
+
+0x3ffdd8	
+Player Coord Y 32 bits float
+
+0x3ffddc	
+Player Coord Z 32 bits float
+
+0x414fe2	
+Enemy ID 16 bits
+
+0x416872	
+Enemy ID 16 bits
+
+0x416924	
+Enemy HP
+
+0x416f22	
+Enemy ID 16 bits
+
+0x416fd4	
+Enemy HP
+
+0x419f84	
+Anser Me This - Keanton
+
+0x41ca32	
+Enemy ID 16 bits
+
+0x41cae4	
+Twinmold HP blue worm
+
+0x41ee42	
+Enemy ID 16 bits
+
+0x41eef4	
+Twinmold HP blue worm
