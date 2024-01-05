@@ -1,0 +1,126 @@
+0x487bd8	
+Song Data Pointer [32 bits]
++0x138
+++0x00
++++0x30
+++++0x00
++++++0x08 = Notes [32 bits]
++++++0x0c = Multiplier/Combo [32 bits]
++++++0x14 = Game % [Float]
++++++0x24 = Ending Bonus [32 bits]
++++++0x3c = Music Finished [Bit0]
++++++0x40 = Score [Float]
++++++0x48 = Seconds [Float]
++++++0x234
+++++++0x08
++++++++0x00
+++++++++0x78 = Notes Passed [32 bits]
+
+0x56d5c8	
+Song ASCII 1
+
+0x56d7c8	
+Song ASCII 2
+0x61776867 = Highway to Hell
+0x62736c6c = Hell Bells
+0x63616a65 = The Jack
+0x64797472 = Dirty Deeds Done Dirt Cheap
+0x65646e75 = Thunderstruck
+0x65687474 = Let There Be Rock
+0x65737461 = Heatseeker
+0x69616c6c = Hell Ain't a Bad Place to Be
+0x696c5f74 = T.N.T.
+0x6c656c6f = Whole Lotta Roise
+0x6e696b63 = Back in Black
+0x6f687375 = You Shook Me All Night Long
+0x6f687472 = For Those About to Rock (We Salute You)
+0x6f766867 = High Voltage
+0x6f796572 = Fire Your Guns
+0x72626c69 = Jailbreak
+0x74746f6f = Shoot to Thrill
+0x7479656e = Moneytalks
+
+0x1085be0	
+Pointer 32 bits
+
+0x1085c18	
+Game Mode 32 bits
+00 = Quick Play
+01 = Tour / Pratice Mode
+
+0x1085c24	
+Difficulty ID 32 bits
+00 = Easy
+01 = Medium
+02 = Hard
+03 = Expert
+
+0x1085c28	
+Instrument 32 bits
+0x00 = Drums
+0x01 = Bass
+0x02 = Guitar
+0x03 = Microphone
+0x05 = None
+
+0x1085c2c	
+Game Context 32 bits
+0x01 = Inside Sub Menus
+0x03 = Main Menu
+
+0x1085c34	
+Tour Data Pointer
++E0 = Total Songs - Easy - 32 bits
++E4 = Total Songs Played - Easy 32 bits
++140 = Total Songs - Medium - 32 bits
++144 = Total Songs Played - Medium - 32 bits
++1A0 = Total Songs - Hard - 32 bits
++1A4 = Total Songs Played - Hard - 32 bits
++200 = Total Songs - Expert - 32 bits
++204 = Total Songs Played - Expert 32 bits
+
+Pointer Chain test
++00
+++160 = Total Songs Played - Expert 32 bits
+
+0x1085c4c	
+Song Data Pointer
++b0
+++3c = Notes Passed [32 bits]
+++40 = Notes Passed [32 bits]
+
+0x148e1a4	
+Tour Total Songs 32 bits - Medium
+
+0x148e1a8	
+Tour Songs Played 32 bits - Hard
+
+0x148e204	
+Tour Total Songs 32 bits - Hard
+
+0x148e208	
+Tour Songs Played 32 bits - Medium
+
+0x149d2f4	
+Tour Total Songs 32 bits - Medium
+
+0x149d354	
+Tour Total Songs 32 bits - Hard 2
+
+0x17b3108	
+estrelas save 2
+
+0x17b32e8	
+estrelas save1
+
+0x1c57a78	
+missed notes Save 1
+
+0x1c57d18	
+missed notes save 2
+
+0x1c96300	
+Score Float 1
+
+0x1c963c0	
+Score Float 2
