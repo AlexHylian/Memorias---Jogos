@@ -1,0 +1,1094 @@
+0x8ef48	
+Entity ID 1 - 16 bits
+
+0x8ef4b	
+Entity on Screen
+
+0x8ef4c	
+Entity State 1
+00 = None
+01 = Alive
+02 = Explosion
+
+0x8efa4	
+Entity HP 1
+
+0x8efa5	
+Entity HP 1 With Red Bar
+
+0x8efcc	
+Bos Inv Frames 16 bits
+
+0x8efe4	
+Metal Shark Player Clone Address 16 bits - Will work only if appear on the screen, if not wil be 0000
+
+0x8efe6	
+Metal Shark Clone Type
+01 = Sting Chameleon
+03 = Blast Hornet
+
+0x8efe7	
+Metal Shark Player Clone on Screen
+
+0x8f0dc	
+Entity HP Segmented - Rosca 1
+
+0x8f178	
+Entity HP Segmented - Nightmare Mother Entity 1
+
+0x8f214	
+Entity HP Segmented - Nightmare Mother Entity 2
+
+0x8f2b0	
+Entity HP Segmented - Rosca 2
+
+0x90c90	
+Teleport Area, all address go to FF when entered in any toten area 64 bytes
+
+0x95128	
+Weapons Frames
+
+0x970a3	
+Player on Screen
+
+0x970a4	
+Player Alive Indicator
+
+0x970aa	
+Player Corrd X 16 bits
+
+0x970ab	
+Player Corrd X 8 bits
+
+0x970ae	
+Player Corrd Y 16 bits
+
+0x970af	
+Player Corrd Y 8 bits
+
+0x970b7	
+Player Animation
+00 = Player is not on the screen
+01 = Teleport
+02 = Finishing the teleport
+03 = Special Teleport
+05 = None
+08 = Walking
+10 = Dashing
+11 = Finishg the Dash
+0a = Going Up
+0b = Falling Down
+21 = Death
+23 = Hit - X, Falcon
+29 = Ride Armor
+2a = Walking with Ride Armor
+2b = When Jumping with Ride Armor
+2c = When Jumping with Ride Armor
+2d = When Jumping with Ride Armor
+2f = Dashing with Ride Armor
+58 = Buster
+5b = Charged Buster
+6a = Ultimate Armor Giga Attack
+7b = Air Buster
+a9 = Air Dashing
+ab = Finish Air Dash
+b7 = Sword
+b8 = Air Sword
+
+0x970d4	
+Player Animations 16 bits
+
+0x970e4	
+Player Frames Animations
+
+0x970e6	
+Player Animations Sprite 16 bits
+
+0x970fc	
+Player Health
+
+0x970fd	
+Player Health with red bar
+
+0x970fe	
+Player Total Health
+
+0x97101	
+Player Inv Frames
+
+0x97107	
+Player Interaction
+00 = On Ground
+01 = On Air
+FF = On Air but Falling Down
+
+0x97110	
+Player Interaction 2
+00 = Air
+08 = Ground
+
+0x9711a	
+Zero State
+00 = Normal
+01 = Rotate
+
+Note, when zero activate the invul. glitch will be 01 until cancel the glitch again
+
+0x9711c	
+Player Inputs [Check 0x0c456d for real inputs]
+Bit0 = Right
+Bit1 = Left
+Bit2 = Up
+Bit3 = Down
+
+0x97124	
+Jump Type
+00 = Normal
+01 = With Dash
+
+0x97125	
+Related with Dash Sprite
+
+0x97126	
+Related with Dash Sprite
+
+0x9712c	
+Dash Sprite on Screen
+00 = No
+01 = Yes
+FF = last dashing sprite frames
+
+0x97133	
+Weapon Selected
+
+0x97137	
+Last Shot ID
+00 = None / Buster Level 1
+01 = Yammar Option
+02 = Ice Burst
+03 = Magma Blade
+05 = Ground Dash
+06 = Meteor Rain
+07 = Guard Shell
+08 = Ray Arrow
+09 = Buster Level 2 - Falcon Armor
+0a = Yammar Option - Charged
+0b = Ice Burst - Charged
+0c = Magma Blade - Charged
+0e = Ground Dash - Charged
+0f = Meteor Rain - Charged
+10 = Guard Shell - Charged
+11 = Ray Arrow - Charged
+12 = Buster Level 3 - Unarmored X
+13 = Buster Level 3 - Falcon Armor
+14 = Buster Level 3 - Ultimate Armor
+
+0x97138	
+Shoots on Screen
+
+0x97148	
+Giga Attack Ammo 16 bits - Falcon Armor
+
+0x9714a	
+Yammar Option Ammo 16 bits
+
+0x9714c	
+Ice Burst Ammo 16 bits
+
+0x9714e	
+Magma Blade Ammo 16 bits
+
+0x97150	
+Metal Anchor Ammo 16 bits
+
+0x97152	
+Ground Dash Ammo 16 bits
+
+0x97154	
+Meteor Rain Ammo 16 bits
+
+0x97156	
+Guard Shell Ammo 16 bits
+
+0x97158	
+Ray Arrow Ammo 16 bits
+
+0x97427	
+Memory Card - Save File Cursor
+
+0xc456c	
+Inputs
+Bit0 = L2
+Bit1 = R2
+Bit2 = L1
+Bit3 = R1
+Bit4 = Triangle
+Bit5 = Ball
+Bit6 = X
+Bit7 = Square
+
+0xc456d	
+Inputs
+Bit1 = Select
+Bit3 = Start
+Bit4 = Up
+Bit5 = Right
+Bit6 = Down
+Bit7 = Left
+
+0xc478c	
+Compressor Moves Type - Frames 1 - 1st act
+
+0xc478e	
+Compressor Moves Type - Frames 2 - 1st act
+
+0xc478f	
+caso o glitch funcione vai pra FF e fica correndo
+
+0xc4796	
+Compressor Coord Y 8 bits - 1st act
+
+0xc4797	
+caso o glitch funcione vai pra FF e fica correndo
+
+0xc47bc	
+Compressor Moves Type - Frames 1 - 2nd act
+
+0xc47be	
+Compressor Moves Type - Frames 2 - 2nd act
+
+0xc47c6	
+Compressor Coord Y 8 bits - 2nd act
+
+0xcced1	
+Game State
+00 = In Game
+02 = Pause
+03 = Cutscene
+
+0xcceda	
+Dialogue Left to end 16 bits
+
+0xccedc	
+Stage ID
+00 = intro stage
+01 = Commander Yammark
+02 = Blizzard Wolfang
+03 = Blaze Heatnix
+04 = Metal Shark Player
+05 = Ground Scaravich
+06 = Rainy Turtloid
+07 = Shield Sheldon
+08 = Infinity Mijinion
+0B = FMV Scenes
+0C = Sigma's Final Battle
+0D = Stage Select
+0E = Title Screen
+0F = Credits Screen
+10 = Gate's Laboratory 1
+11 = Gate's Laboratory 2A
+12 = Gate's Laboratory 2B
+13 = Alternate Path - Amazon Area / Pole Area
+14 = Alternate Path - Magma Area
+15 = Alternate Path - Inami Temple / Central Museum
+16 = Alternate Path - Laser Institute / Weapon Center
+
+0xccedd	
+Act
+
+0xccedf	
+Getting Green Orb after defeat any boss, also triggers when boss victory song satarts, not necessary green orb
+Bit4 = Yes
+Bit6 = Yes - Intro Stage
+
+0xcceec	
+Uncontrollable Flag
+00 = No
+01 = Yes
+
+0xcceed	
+FMV's Scene ID
+00 = Gate - Starting the game
+02 = Zero Rescued
+03 = Isac Report
+04 = High Max beaten
+05 = Alia - Reporting what is the Nightmare
+06 = Gate - Well Done Cutscene - X
+07 = Gate - Splendid Cutscene - Zero
+0a = X's Ending without Zero
+0b = X's Ending with Zero rescued
+0c = Zero's Ending
+
+This shit is used with more two functions
+1 - Checkpoint ID - wtf cpacom fdp
+2 - Map ID for Boss Rush - wtf capcom fdp
+
+0xcceef	
+Player Health Bar on Screen
+
+0xccef7	
+Stage Cursor ID
+
+0xccefa	
+Parts Cursor
+
+0xccefe	
+Boss Rush Flag - Commander Yammark - Temporary Address
+01 = Destroyed
+02 = Finished
+
+0xcceff	
+Boss Rush Flag - Blizzard Wolfang - Temporary Address
+01 = Destroyed
+02 = Finished
+
+0xccf00	
+Toten Map ID
+--------------------------------------------
+Boss Rush Flag - Blaze Heatnix - Temporary Address
+01 = Destroyed
+02 = Finished
+
+0xccf01	
+Toten Flag
+00 = Normal
+01 = In Toten Area
+--------------------------------------
+Boss Rush Flag - Metal Shark Player - Temporary Address
+01 = Destroyed
+02 = Finished
+
+0xccf02	
+Boss Rush Flag - Ground Scaravich - Temporary Address
+01 = Destroyed
+02 = Finished
+
+0xccf03	
+Dynamo Green Orbs
+
+Boss Rush Flag - Rainy Turtloid - Temporary Address
+01 = Destroyed
+02 = Finished
+
+0xccf04	
+Boss Rush Flag - Infinity Mijinion - Temporary Address
+01 = Destroyed
+02 = Finished
+
+0xccf05	
+Boss Rush Flag - Infinity Mijinion - Temporary Address
+01 = Destroyed
+02 = Finished
+
+0xccf09	
+Lives
+
+0xccf2b	
+Player Total Health
+20 = Normal
+40 = Full
+
+0xccf2e	
+Char ID
+00 = X
+01 = Falcon Armor
+02 = Shadow Armor
+03 = Blade Armor
+04 = Ultimate Armor
+05 = Zero
+
+0xccf2f	
+Armors Unlocked
+Bit0 = Falcon Armor
+Bit1 = Shadow Armor
+Bit2 = Blade Armor
+Bit3 = Ultimate Armor
+Bit4 = Zero
+Bit5 = Black Zero
+
+0xccf30	
+Boss Flag
+Bit0 = Commander Yammark
+Bit1 = Blizzard Wolfang
+Bit2 = Blaze Heatnix
+Bit3 = Metal Shark Player
+Bit4 = Ground Scaravich
+Bit5 = Rainy Turtloid
+Bit6 = Shield Sheldon
+Bit7 = Infinity Mijinion
+
+0xccf36	
+Game Progress
+01 = Beated Intro Stage
+03 = Unlocked Gate Laboratory
+04 = Unlocked Gate Laboratory 2
+05 = Unlocked Boss Rush Stage
+
+0xccf38	
+Difficulty ID - Memory Card Address
+00 = Easy
+01 = Normal
+02 = Extreme
+
+0xccf39	
+Armor Parts
+Bit0 = Blade's Helmet - Ground Scaravich
+Bit1 = Blade's Arms - Infinity Mijinion
+Bit2 = Blade's Body - Shield Sheldon
+Bit3 = Blade's Legs - Commander Yammark
+Bit4 = Shadow's Helmet - Metal Shark Player
+Bit5 = Shadow's Arms - Blaze Heatnix
+Bit6 = Shadow's Body - Rainy Turtloid
+Bit7 = Shadow's Legs - Blizzard Wolfang
+
+0xccf3b	
+Sub-Tanks
+Bit4 = Sub-Tank - Commander Yammark
+Bit5 = Sub-Tank - Blaze Heatnix
+Bit6 = W-tank Shield Sheldon
+Bit7 = EX-tank - Blizzard Wolfang
+
+0xccf3c	
+Hearts Tank
+Bit0 = Commander Yammark
+Bit1 = Blizzard Wolfgang
+Bit2 = Blaze Heatnix
+Bit3 = Metal Shark Player
+Bit4 = Gound Scaravich
+Bit5 = Rainy Turtloid
+Bit6 = Shield Sheldon
+Bit7 = Inifinity Mijinion
+
+0xccf44	
+X Parts Equipped
+Bit2 = Speedster
+Bit3 = Jumper
+Bit4 = Hyper Dash
+Bit5 = Energy Saver
+Bit6 = Super Recover
+Bit7 = Buster Plus
+
+0xccf45	
+X Parts Equipped
+Bit0 = Speed Shot
+Bit1 = Shock Buffer
+Bit2 = D. Barrier
+Bit3 = D-Converter
+Bit4 = Hyperdrive
+Bit5 = Powerdrive
+Bit6 = Weapon Drive
+Bit7 = Life Recover
+
+0xccf46	
+X Parts Equipped
+Bit0 = Weapon Recover
+Bit1 = Overdrive
+Bit2 = Rapid 5
+Bit3 = Ultimate Buster
+Bit4 = Quick Charge
+Bit5 = Weapon Plus
+
+0xccf48	
+Zero Parts Equipped
+Bit2 = Speedster
+Bit3 = Jumper
+Bit4 = Hyper Dash
+Bit5 = Energy Saver
+Bit6 = Super Recover
+Bit7 = Buster Plus
+
+0xccf49	
+Zero Parts Equipped
+Bit3 = D-Converter
+Bit4 = Hyperdrive
+Bit5 = Powerdrive
+Bit6 = Weapon Drive
+Bit7 = Life Recover
+
+0xccf4a	
+Zero Parts Equipped
+Bit0 = Weapon Recover
+Bit1 = Overdrive
+Bit6 = Saber Plus
+Bit7 = Saber Extend
+
+0xccf4b	
+Zero Parts Equipped
+Bit0 = Shot Eraser
+Bit1 = Master Saber
+
+0xccf5d	
+Rank - X
+00 = UH
+01 = PA
+02 = GA
+03 = SA
+04 = A
+05 = B
+06 = C
+07 = D
+
+0xccf5e	
+Rank - Zero
+00 = UH
+01 = PA
+02 = GA
+03 = SA
+04 = A
+05 = B
+06 = C
+07 = D
+
+0xccf60	
+IGT 32 bits - Stage Only
+
+0xccf64	
+Mavericks Defeated 16 bits
+
+0xccf68	
+Damage Received 16 bits
+
+0xccf6e	
+Alia Report - Intro Stage
+
+0xccf70	
+Alia Report - Amazon Area
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit6 = Yes
+
+0xccf72	
+Alia Report - Pole Area
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+
+0xccf74	
+Alia Report - Magma Area
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+
+0xccf76	
+Alia Report - Recycle Laboratory
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit5 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0xccf78	
+Alia Report - Central Museum
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0xccf79	
+Alia Report - Central Museum
+Bit0 = Yes
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+
+0xccf7a	
+Alia Report - Inami Temple
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit6 = Yes
+
+0xccf7c	
+Alia Report - Laser Institute
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit6 = Yes
+
+0xccf7e	
+Alia Report - Weapon Center
+Bit1 = Yes
+Bit4 = Yes
+
+0xccf82	
+Alia Report - Gate Laboratory
+Bit0 = Yes
+Bit1 = Yes
+Bit2 = Yes
+
+0xccf88	
+Alia Report - Amazon Area - Alternate Path
+Bit2 = Dynamo Dialogue
+Bit4 = Yes
+
+0xccf8a	
+Alia Report - Pole Area - Alternate Path
+Bit2 = Dynamo Dialogue
+Bit4 = Yes
+
+0xccf8c	
+Alia Report - Magma Area - Alternate Path
+Bit2 = Dynamo Dialogue
+Bit4 = Yes
+
+0xccf8e	
+Alia Report - Recycle Laboratory - Alternate Path
+Bit2 = Dynamo Dialogue
+Bit4 = Yes
+
+0xccf90	
+Alia Report - Central Museum - Alternate Path
+Bit2 = Dynamo Dialogue
+Bit4 = Yes
+
+0xccf92	
+Alia Report - Inami Temple - Alternate Path
+Bit2 = Dynamo Dialogue
+Bit4 = Yes
+
+0xccf94	
+Alia Report - Laser Institute - Alternate Path
+Bit4 = Yes
+
+0xccf96	
+Alia Report - Weapon Center - Alternate Path
+Bit2 = Dynamo Dialogue
+Bit4 = Yes
+
+0xccf9c	
+IGT 32 bits
+
+0xccfa2	
+Souls 16 bits - X
+
+0xccfa4	
+Souls 16 bits - Zero
+
+0xccfa8	
+Reploids - Amazon Area
+Bit1 = 1 - Alive - Life Up
+Bit5 = 2 - Alive - None
+
+0xccfa9	
+Reploids - Amazon Area
+Bit1 = 1 - Alive - Energy Up
+Bit5 = 2 - Alive - None
+
+0xccfaa	
+Reploids - Amazon Area
+Bit1 = 1 - Alive - Life Recover
+Bit5 = 2 - Alive - None
+
+0xccfab	
+Reploids - Amazon Area
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfac	
+Reploids - Amazon Area
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - Super Recover
+
+0xccfad	
+Reploids - Amazon Area
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfae	
+Reploids - Amazon Area
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfaf	
+Reploids - Amazon Area
+Bit1 = 1 - Alive - Rapid 5
+Bit5 = 2 - Alive - None
+
+0xccfb0	
+Reploids - Pole Area
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfb1	
+Reploids - Pole Area
+Bit1 = 1 - Alive - Shot Eraser
+Bit5 = 2 - Alive
+
+0xccfb2	
+Reploids - Pole Area
+Bit1 = 1 - Alive
+Bit5 = 2 - Alive - Weapon Drive
+
+0xccfb3	
+Reploids - Pole Area
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfb4	
+Reploids - Pole Area
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfb5	
+Reploids - Pole Area
+Bit1 = 1 - Alive - Life Up
+Bit5 = 2 - Alive - None
+
+0xccfb6	
+Reploids - Pole Area
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - Jumper
+
+0xccfb7	
+Reploids - Pole Area
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfb8	
+Reploids - Magma Area
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - Buster Plus
+
+0xccfb9	
+Reploids - Magma Area
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfba	
+Reploids - Magma Area
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfbb	
+Reploids - Magma Area
+Bit1 = 1 - Alive
+Bit5 = 2 - Alive - None
+
+0xccfbc	
+Reploids - Magma Area
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - Life Up
+
+0xccfbd	
+Reploids - Magma Area
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfbe	
+Reploids - Magma Area
+Bit1 = 1 - Alive - Energy Up
+Bit5 = 2 - Alive - Power Drive
+
+0xccfbf	
+Reploids - Magma Area
+Bit1 = 1 - Alive - Ultimate Buster
+Bit5 = 2 - Alive - None
+
+0xccfc0	
+Reploids - Recycle Laboratory
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfc1	
+Reploids - Recycle Laboratory
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfc2	
+Reploids - Recycle Laboratory
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - Energy Up
+
+0xccfc3	
+Reploids - Recycle Laboratory
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfc4	
+Reploids - Recycle Laboratory
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfc5	
+Reploids - Recycle Laboratory
+Bit1 = 1 - Alive - Shock Buffer
+Bit5 = 2 - Alive - Hyper Drive
+
+0xccfc6	
+Reploids - Recycle Laboratory
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - Life Up
+
+0xccfc7	
+Reploids - Recycle Laboratory
+Bit1 = 1 - Alive - Saber Extend
+Bit5 = 2 - Alive - None
+
+0xccfc8	
+Reploids - Central Museum
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfc9	
+Reploids - Central Museum
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfca	
+Reploids - Central Museum
+Bit1 = 1 - Alive - Life Up
+Bit5 = 2 - Alive - None
+
+0xccfcb	
+Reploids - Central Museum
+Bit1 = 1 - Alive - Speedster
+Bit5 = 2 - Alive - None
+
+0xccfcc	
+Reploids - Central Museum
+Bit1 = 1 - Alive - Quick Charge
+Bit5 = 2 - Alive - None
+
+0xccfcd	
+Reploids - Central Museum
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfce	
+Reploids - Central Museum
+Bit1 = 1 - Alive - Energy Up
+Bit5 = 2 - Alive - None
+
+0xccfcf	
+Reploids - Central Museum
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - Overdrive
+
+0xccfd0	
+Reploids - Inami Temple
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfd1	
+Reploids - Inami Temple
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfd2	
+Reploids - Inami Temple
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfd3	
+Reploids - Inami Temple
+Bit1 = 1 - Alive - Energy Up
+Bit5 = 2 - Alive - None
+
+0xccfd4	
+Reploids - Inami Temple
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - Life Up
+
+0xccfd5	
+Reploids - Inami Temple
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - Weapon Recover
+
+0xccfd6	
+Reploids - Inami Temple
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - Hyper Dash
+
+0xccfd7	
+Reploids - Inami Temple
+Bit1 = 1 - Alive - Saber Plus
+Bit5 = 2 - Alive - None
+
+0xccfd8	
+Reploids - Laser Institute
+Bit1 = 1 - Alive - Life Up
+Bit5 = 2 - Alive - None
+
+0xccfd9	
+Reploids - Laser Institute
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfda	
+Reploids - Laser Institute
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfdb	
+Reploids - Laser Institute
+Bit1 = 1 - Alive - Energy Up
+Bit5 = 2 - Alive - None
+
+0xccfdc	
+Reploids - Laser Institute
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfdd	
+Reploids - Laser Institute
+Bit1 = 1 - Alive - Energy Saver
+Bit5 = 2 - Alive - None
+
+0xccfde	
+Reploids - Laser Institute
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - D Barrier
+
+0xccfdf	
+Reploids - Laser Institute
+Bit1 = 1 - Alive - Weapon Plus
+Bit5 = 2 - Alive - None
+
+0xccfe0	
+Reploids - Weapon Center
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfe1	
+Reploids - Weapon Center
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - D Converter
+
+0xccfe2	
+Reploids - Weapon Center
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfe3	
+Reploids - Weapon Center
+Bit1 = 1 - Alive - Speed Shot
+Bit5 = 2 - Alive - None
+
+0xccfe4	
+Reploids - Weapon Center
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - Life Up
+
+0xccfe5	
+Reploids - Weapon Center
+Bit1 = 1 - Alive - Master Saber
+Bit5 = 2 - Alive - None
+
+0xccfe6	
+Reploids - Weapon Center
+Bit1 = 1 - Alive - Energy Up
+Bit5 = 2 - Alive - None
+
+0xccfe7	
+Reploids - Weapon Center
+Bit1 = 1 - Alive - None
+Bit5 = 2 - Alive - None
+
+0xccfe8	
+Reploids - Amazon Area - Clone Address 8 bytes
+Bit1 = 1 - Alive
+Bit5 = 2 - Alive
+
+0xccff0	
+Reploids - Pole Area - Clone Address 8 bytes
+Bit1 = 1 - Alive
+Bit5 = 2 - Alive
+
+0xccff8	
+Reploids - Magma Area - Clone Address 8 bytes
+Bit1 = 1 - Alive
+Bit5 = 2 - Alive
+
+0xcd000	
+Reploids - Recycle Laboratory - Clone Address 8 bytes
+Bit1 = 1 - Alive
+Bit5 = 2 - Alive
+
+0xcd008	
+Reploids - Central Museum - Clone Address 8 bytes
+Bit1 = 1 - Alive
+Bit5 = 2 - Alive
+
+0xcd010	
+Reploids - Inami Temple - Clone Address 8 bytes
+Bit1 = 1 - Alive
+Bit5 = 2 - Alive
+
+0xcd018	
+Reploid - Laser Institute - Clone Address 8 bytes
+
+0xcd020	
+Reploids - Weapon Center - Clone Address 8 bytes
+Bit1 = 1 - Alive
+Bit5 = 2 - Alive
+
+0xcd30b	
+Game Progress II - Maverick Path
+01 = High Max
+02 = Dynamo
+
+0xcd39c	
+Ride Armor Health
+
+0xcd3f8	
+Game Mode 16 bits
+0000 = Booting the Game
+0001 = Now Loading... Demo
+0002 = Now Loading... Normal
+0600 = Demo
+0106 = Title Screen
+0107 = Continue the game Screen - after used game quit
+0108 = Option
+0206 = New Game
+0207 = Continue the game screen
+0305 = Load Game ??
+0307 = Auto Load
+0507 = Load Game
+
+0xcd40c	
+checar para orbs
+
+0xcf814	
+Transitions for paused game
+
+0xe2e06	
+Music ID
+00 = Dr Light
+04 = Boss Apresentation
+14 = Laser Institute
+17 = Weapon Center
+18 = Recycle Lab
+19 = Northpole
+21 = Amazon Area
+22 = X vs Zero Battle
+23 = Inami Temple
+24 = Central Museum / Boss Victory
+27 = Stage Select
+37 = High Max
+50 = Magma Area
+
+0xe2e65	
+Music ID Backup
+
+0xe3130	
+Ultimate Armor Cheat
+Bit2 = Activated
+
+0xe3134	
+Black Zero Cheat
+Bit2 = Activated
