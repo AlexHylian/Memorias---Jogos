@@ -1,0 +1,1228 @@
+0x3408b0	
+Game - State (Fighting only) [32 bits]
+
+0x0f = Fighting/Story Mode
+
+0x3408b4	
+Game - Mode (Fighting only) [32 bits]
+0x00 = Story Mode
+0x01 = Battlers Mode
+0x02 = Free Battle
+0x03 = Training Mode
+0x04 = Tutorial
+0x05 = Shop
+0x06 = Option
+
+0x3408b8	
+Story Mode - Episode [32 bits]
+
+0x3408bc	
+Story Mode - Battle [32 bits]
+
+0x388124	
+Total Money in Shop 32 bits
+
+0x388164	
+Crown - Battle Mode 32 bits
+
+0x38816c	
+Shop Address Ichigo 16 bits - Itens - Slot 1
+ffff = No Item
+
+0x388176	
+Shop Address Renji 16 bits - Itens - Slot 1
+ffff = No Item
+
+0x388180	
+Shop Address Ikkaku 16 bits - Itens - Slot 1
+ffff = No Item
+
+0x388184	
+Shop Address Hitsugaya 16 bits - Itens - Slot 1
+ffff = No Item
+
+0x388186	
+Shop Address Rukia 16 bits - Itens - Slot 1
+ffff = No Item
+
+0x388188	
+Shop Address Chad 16 bits - Itens - Slot 1
+ffff = No Item
+
+0x38818a	
+Shop Address Orihime 16 bits - Itens - Slot 1
+ffff = No Item
+
+0x38818c	
+Shop Address Ishida 16 bits - Itens - Slot 1
+ffff = No Item
+
+0x388192	
+Shop Address Matsumoto 16 bits - Itens - Slot 1
+ffff = No Item
+
+0x3881b6	
+Shop Address Grimmjow 16 bits - Itens - Slot 1
+ffff = No Item
+
+0x3881b8	
+Shop Address Yammi 16 bits - Itens - Slot 1
+ffff = No Item
+
+0x3881bc	
+Shop Address Hirako 16 bits - Itens - Slot 1
+ffff = No Item
+
+0x3881be	
+Shop Address Hyori 16 bits - Itens - Slot 1
+ffff = No Item
+
+0x3881ca	
+Shop Address Yumichika 16 bits - Itens - Slot 1
+ffff = No Item
+
+0x3881d6	
+Shop Address Ichigo 16 bits - Itens - Slot 2
+ffff = No Item
+
+0x3881e0	
+Shop Address Renji 16 bits - Itens - Slot 2
+ffff = No Item
+
+0x3881ea	
+Shop Address Ikkaku 16 bits - Itens - Slot 2
+ffff = No Item
+
+0x3881ee	
+Shop Address Hitsugaya 16 bits - Itens - Slot 2
+ffff = No Item
+
+0x3881f0	
+Shop Address Rukia 16 bits - Itens - Slot 2
+ffff = No Item
+
+0x3881f2	
+Shop Address Chad 16 bits - Itens - Slot 2
+ffff = No Item
+
+0x3881f4	
+Shop Address Orihime 16 bits - Itens - Slot 2
+ffff = No Item
+
+0x3881f6	
+Shop Address Ishida 16 bits - Itens - Slot 2
+ffff = No Item
+
+0x3881fc	
+Shop Address Matsumoto 16 bits - Itens - Slot 2
+ffff = No Item
+
+0x388220	
+Shop Address Grimmjow 16 bits - Itens - Slot 2
+ffff = No Item
+
+0x388222	
+Shop Address Yammi 16 bits - Itens - Slot 2
+ffff = No Item
+
+0x388226	
+Shop Address Hirako 16 bits - Itens - Slot 2
+ffff = No Item
+
+0x388228	
+Shop Address Hyori 16 bits - Itens - Slot 2
+ffff = No Item
+
+0x388234	
+Shop Address Yumichika 16 bits - Itens - Slot 2
+ffff = No Item
+
+0x38824c	
+Character Bitflag
+Bit4 = Ichigo
+Bit5 = Byakuya
+Bit6 = Ichimaru
+Bit7 = Kenpachi
+
+0x38824d	
+Character Bitflag
+Bit0 = Tosen
+Bit1 = Renji
+Bit2 = Urahara
+Bit3 = Komamura
+Bit4 = Yoruichi
+Bit5 = Soi Fon
+Bit6 = Ikkaku
+Bit7 = Kon
+
+0x38824e	
+Character Bitflag
+Bit0 = Hitsugaya
+Bit1 = Rukia
+Bit2 = Chad
+Bit3 = Orihime
+Bit4 = Ishida
+Bit5 = Aizen
+Bit6 = Kurotsuchi
+Bit7 = Matsumoto
+
+0x38824f	
+Charaacter Bitflag
+Bit0 = Ururu
+Bit1 = Hinamori
+Bit2 = Hollow Ichigo
+Bit3 = Ulquiora
+Bit4 = Grimmjow
+Bit5 = Yammi
+Bit6 = Luppi
+Bit7 = Shinji
+
+0x388250	
+Character Bitflag
+Bit0 = Hyori
+Bit1 = Yamamoto
+Bit2 = Ukitake
+Bit3 = Yachiru
+Bit4 = Hisagi
+Bit5 = Kira
+Bit6 = Yumichika
+Bit7 = Kyoraku
+
+0x388256	
+Voice - Urahara Shop bitflag
+
+0x388257	
+Voice - Urahara Shop bitflag
+
+0x388258	
+Voice - Urahara Shop bitflag
+
+0x388259	
+Voice - Urahara Shop bitflag
+
+0x38825a	
+Voice - Urahara Shop bitflag
+
+0x38825b	
+Maps Unlocked
+Bit4 = Parking lot in front of Kurosaki Clinic
+Bit5 = Courtyard of Karakura Daiichi High School
+Bit6 = Ryukongai
+Bit7 = Mansion in Seireitei
+
+0x38825c	
+Maps Unlocked
+Bit0 = Townscape of Seireitei
+Bit1 = Study room made by Urahara
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x38825d	
+Maps Unlocked
+Bit0 = Yes
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+
+0x38825e	
+Mission Unlocked - History Mode
+Bit0 = Episode 1 - 平子真子 - Mako Hirako
+Bit1 = Episode 1 - 黑崎一護 - Kurosaki Ichigo
+Bit2 = Episode 1 - 虚を 15体 - 15 Hollow Count
+Bit3 = Episode 1 - 黑崎一護 Kurosaki Ichigo
+Bit4 = Episode 1 - 黑崎一護を倒せ! - Defeat Hollow Ichigo
+Bit5 = Episode 2 - 吉良イヅル - Izuru Kira
+Bit6 = Episode 2 - 檜佐木修兵 - Hisagi Shuhei
+Bit7 = Episode 2 - 黑崎一護·阿散井恋次 - Ichigo Kurosaki and Renji Abarai
+
+--------------------
+Title
+Episode 1 = 世界の王 - King of the World
+Episode 2 = 女性死神協会の野望 - Ambition of the Women's Shinigami Association
+
+0x38825f	
+Mission Unlocked - History Mode
+Bit0 = Episode 2 = 阿散井恋次 . 吉良 イヅル . 檜佐木修兵 = Renji Abarai - Izuru Kira - Shuhei Hisagi
+Bit1 = Episode 2 = 黑崎一護 - Ichigo Kurosaki
+Bit2 = Episode 3 = 黒崎一護・平子真子 Ichigo Kurosaki and Mako Hirako
+Bit3 = Episode 3 = 黑崎一護 - Ichigo Kurosaki
+Bit4 = Episode 3 = 黑崎一護 - Ichigo Kurosaki
+Bit5 = Episode 3 = 茶渡泰虎・阿散井恋次・紬屋雨 - Yasutora Sado, Renji Abarai, Ame Tsumugiya
+Bit6 = Episode 3 = 平子真子 - Mako Hirako
+Bit7 = Episode 4 = 狛村左陣 - Left side of Komamura
+--------------------
+Title
+Episode 2 = 女性死神協会の野望 - Ambition of the Women's Shinigami Association
+Episode 3 = ひよ里女化計画 - Hiyori womanization plan
+Episode 4 = 酒饅頭喧騷譚 - Sake Bun Quarrel
+
+0x388260	
+Mission Unlocked - History Mode
+Bit0 = Episode 4 - 涅マユリ - Mayuri
+Bit1 = Episode 4 - 朽木白哉 - Byakuya Kuchiki
+Bit2 = Episode 4 - 砕蜂 - Bee Crushing
+Bit3 = Episode 4 - 山本元柳斎重國 - Genryusai Shigekuni Yamamoto
+Bit4 = Episode 5 - 狛村左陣 - Left side of Komamura
+Bit5 = Episode 5 - 日番谷冬獅郎 - Toushirou Hitsugaya
+Bit6 = Episode 5 - 京楽春水草鹿やちる - Kyoraku and Yachiru
+Bit7 = Episode 5 - 90秒間 - 90 Seconds
+--------------------
+Title
+Episode 4 = 酒饅頭喧騷譚 - Sake Bun Quarrel
+Episode 5 = 秘宝! 懷想石 - Secret Treasure!
+
+0x388261	
+Mission Unlocked - History Mode
+Bit0 = Episode 5 - 朽木白哉 更木剣八 - Byakuya Kuchiki and Kenpachi Zaraki
+Bit1 = Episode 6 - グリムジョー - Grimmjow
+Bit2 = Episode 6 - 綾瀬川弓親・斑目一角・松本乱菊 - Yumichika Ayasegawa, Ikkaku Madarame, and Rangiku Matsumoto
+Bit3 = Episode 6 - 日番谷冬獅郎 浦原喜助 - Toshiro Hitsugaya Kisuke Urahara
+Bit4 = Episode 6 - ルビ - Rubby
+Bit5 = Episode 6 - グリムジョー - Grimmjow
+Bit6 = Episode 7 - 黑崎一護 · 阿散井恋次 - Ichigo Kurosaki Renji Abarai
+Bit7 = Episode 7 - 涅マユリ 吉良イヅル - Mayuri and Izuru Kira
+--------------------
+Title
+Episode 5 = 秘宝! 懷想石 - Secret Treasure!
+Episode 6 = 覇道の行方 - Whereabouts of Conqueror
+Episode 7 = 死神最強ペア決定戦 - Shinigami Strongest Pair Match
+
+0x388262	
+Mission Unlocked - History Mode
+Bit0 = Episode 7 - 綾瀬川弓親 檜佐木修兵 - Yumichika Ayasegawa Shuhei Hisagi
+--------------------
+Title
+Episode 7 = 死神最強ペア決定戦 - Shinigami Strongest Pair Match
+
+0x388263	
+Mission Finished - History Mode
+Bit0 = Episode 1 - 平子真子 - Mako Hirako
+Bit1 = Episode 1 - 黑崎一護 - Kurosaki Ichigo
+Bit2 = Episode 1 - 虚を 15体 - 15 Hollow Count
+Bit3 = Episode 1 - 黑崎一護 Kurosaki Ichigo
+Bit4 = Episode 1 - 黑崎一護を倒せ! - Defeat Hollow Ichigo
+Bit5 = Episode 2 - 吉良イヅル - Izuru Kira
+Bit6 = Episode 2 - 檜佐木修兵 - Hisagi Shuhei
+Bit7 = Episode 2 - 黑崎一護·阿散井恋次 - Ichigo Kurosaki and Renji Abarai
+
+0x388264	
+Mission Finished - History Mode
+Bit0 = Episode 2 = 阿散井恋次 . 吉良 イヅル . 檜佐木修兵 = Renji Abarai - Izuru Kira - Shuhei Hisagi
+Bit1 = Episode 2 = 黑崎一護 - Ichigo Kurosaki
+Bit2 = Episode 3 = 黒崎一護・平子真子 Ichigo Kurosaki and Mako Hirako
+Bit3 = Episode 3 = 黑崎一護 - Ichigo Kurosaki
+Bit4 = Episode 3 = 黑崎一護 - Ichigo Kurosaki
+Bit5 = Episode 3 = 茶渡泰虎・阿散井恋次・紬屋雨 - Yasutora Sado, Renji Abarai, Ame Tsumugiya
+Bit6 = Episode 3 = 平子真子 - Mako Hirako
+Bit7 = Episode 4 = 狛村左陣 - Left side of Komamura
+
+0x388265	
+Mission Finished - History Mode
+Bit0 = Episode 4 - 涅マユリ - Mayuri
+Bit1 = Episode 4 - 朽木白哉 - Byakuya Kuchiki
+Bit2 = Episode 4 - 砕蜂 - Bee Crushing
+Bit3 = Episode 4 - 山本元柳斎重國 - Genryusai Shigekuni Yamamoto
+Bit4 = Episode 5 - 狛村左陣 - Left side of Komamura
+Bit5 = Episode 5 - 日番谷冬獅郎 - Toushirou Hitsugaya
+Bit6 = Episode 5 - 京楽春水草鹿やちる - Kyoraku and Yachiru
+Bit7 = Episode 5 - 90秒間 - 90 Seconds
+
+0x388266	
+Mission Finished - History Mode
+Bit0 = Episode 5 - 朽木白哉 更木剣八 - Byakuya Kuchiki and Kenpachi Zaraki
+Bit1 = Episode 6 - グリムジョー - Grimmjow
+Bit2 = Episode 6 - 綾瀬川弓親・斑目一角・松本乱菊 - Yumichika Ayasegawa, Ikkaku Madarame, and Rangiku Matsumoto
+Bit3 = Episode 6 - 日番谷冬獅郎 浦原喜助 - Toshiro Hitsugaya Kisuke Urahara
+Bit4 = Episode 6 - ルビ - Rubby
+Bit5 = Episode 6 - グリムジョー - Grimmjow
+Bit6 = Episode 7 - 黑崎一護 · 阿散井恋次 - Ichigo Kurosaki Renji Abarai
+Bit7 = Episode 7 - 涅マユリ 吉良イヅル - Mayuri and Izuru Kira
+
+0x388267	
+Mission Finished - History Mode
+Bit0 = Episode 7 - 綾瀬川弓親 檜佐木修兵 - Yumichika Ayasegawa Shuhei Hisagi
+Bit1 = Episode 7 - 狛村左陣 更木剣八 京楽春水 - Left side Komamura Kenpachi Zaraki Kyōraku Shunsui
+Bit2 = Episode 7 - 朽木白哉・浮竹十四郎 - Byakuya Kuchiki and Jushiro Ukitake
+
+0x38826b	
+Training Mode Flag
+Bit6 = Mission 1
+Bit7 = Mission 2
+
+0x38826c	
+Training Mode Flag
+Bit0 = Mission 3
+Bit1 = Mission 4
+Bit2 = Mission 5
+Bit3 = Mission 6
+Bit4 = Mission 7
+Bit5 = Mission 8
+Bit6 = Mission 9
+Bit7 = Mission 10
+
+0x38826d	
+Training Mode Flag
+Bit0 = Mission 11
+Bit1 = Mission 12
+Bit2 = Mission 13
+Bit3 = Mission 14
+Bit4 = Mission 15
+Bit5 = Mission 16
+Bit6 = Mission 17
+Bit7 = Mission 18
+
+0x38826e	
+Bit0 = Mission 19 [The Secret is to press R1 and X at the same time after the connect combo]
+Bit1 = Mission 20
+Bit2 = Mission 21 - Last
+
+0x38826f	
+Shop Bitflags
+Bit4 = 虚となる一護 - Ichigo Becomes Void
+Bit5 = 王の座を懸けて - take the throne
+Bit6 = 副隊長 + 1の日常 - Vice Captain + 1 Daily Life
+Bit7 = ニューひよ里 - New Hiyori
+
+0x388270	
+Shop Bitflag
+Bit0 = キャメルクラッチ! - Camel Clutch!
+Bit1 = 酔いどれイヅル - Drunk Izuru
+Bit2 = 尸魂界炎上 - Soul World Flames
+Bit3 = 兄妹 - Siblings
+Bit4 = 戦いの幕開け - The Beginning of the Battle
+Bit5 = 真っ白によ... - It's All White
+Bit6 = バカンス - Vacance
+Bit7 = メインタイトル - Main Title
+
+0x388271	
+Events Flag - Related with Story Mode
+
+0x388278	
+Event Flag
+Bit0 = Interlinked Cube in Mission Battle Mode
+Bit1 = Interlinked Cube in Mission Battle Mode
+Bit2 = Interlinked Cube in Mission Battle Mode
+Bit3 = Interlinked Cube in Mission Battle Mode
+Bit4 = Interlinked Cube in Mission Battle Mode
+Bit5 = Interlinked Cube in Mission Battle Mode
+Bit6 = Interlinked Cube in Mission Battle Mode
+Bit7 = Interlinked Cube in Mission Battle Mode
+
+0x388279	
+Event Flag
+Bit0 = Interlinked Cube in Mission Battle Mode
+Bit1 = Interlinked Cube in Mission Battle Mode
+Bit2 = Interlinked Cube in Mission Battle Mode
+Bit3 = Interlinked Cube in Mission Battle Mode
+Bit4 = Interlinked Cube in Mission Battle Mode
+Bit5 = Interlinked Cube in Mission Battle Mode
+Bit6 = Interlinked Cube in Mission Battle Mode
+Bit7 = Interlinked Cube in Mission Battle Mode
+
+0x38827a	
+Event Flag
+Bit0 = Interlinked Cube in Mission Battle Mode
+Bit1 = Interlinked Cube in Mission Battle Mode
+Bit2 = Interlinked Cube in Mission Battle Mode
+Bit3 = Interlinked Cube in Mission Battle Mode
+Bit4 = Interlinked Cube in Mission Battle Mode
+Bit5 = Interlinked Cube in Mission Battle Mode
+Bit6 = Interlinked Cube in Mission Battle Mode
+Bit7 = Interlinked Cube in Mission Battle Mode
+
+0x38827b	
+Event Flag
+Bit0 = Interlinked Cube in Mission Battle Mode
+Bit1 = Interlinked Cube in Mission Battle Mode
+Bit2 = Interlinked Cube in Mission Battle Mode
+Bit3 = Interlinked Cube in Mission Battle Mode
+Bit4 = Interlinked Cube in Mission Battle Mode
+Bit5 = Interlinked Cube in Mission Battle Mode
+Bit6 = Interlinked Cube in Mission Battle Mode
+Bit7 = Interlinked Cube in Mission Battle Mode
+
+0x388284	
+Events Flag - Related with Story Mode
+
+0x388285	
+Events Flag - Related with Story Mode
+
+0x388286	
+Radio Golden / Negative Bit Flag - Training Mode
+Bit4 = 1st Radio Golden Unlocked
+Bit5 = 2nd Radio Golden Unlocked
+Bit6 = 3rd Radio Golden Unlocked
+
+0x388287	
+Negative Bit Flag - Training Mode
+
+0x388288	
+Negative Bit Flag - Training Mode
+
+0x38828b	
+Battlers Mode Missions Unlocked
+Bit0 = Mission 1 - Iniciado o modo pela primeira vez
+Bit1 = Mission 1 - Missão 2
+Bit2 = Mission 1 - Missão 3
+Bit3 = Mission 1 - Missão 4
+Bit4 = Mission 1 - Missão 5
+Bit5 = Mission 1 - Missão 6
+Bit6 = Mission 1 - Missão 7
+Bit7 = Mission 1 - Missão 8
+
+0x3882bd	
+Shop Urahara - Customization Bitflag
+
+0x3882be	
+Shop Urahara - Customization Bitflag
+
+0x3882bf	
+Shop Urahara - Customization Bitflag
+
+0x3882c0	
+Shop Urahara - Customization Bitflag
+
+0x3882c1	
+Shop Urahara - Customization Bitflag
+
+0x3882c2	
+Shop Urahara - Customization Bitflag
+
+0x3882c3	
+Shop Urahara - Customization Bitflag
+
+0x3882c4	
+Shop Urahara - Customization Bitflag
+
+0x3882c5	
+Shop Urahara - Customization Bitflag
+
+0x3882c6	
+Shop Urahara - Customization Bitflag
+
+0x3882c7	
+Shop Urahara - Customization Bitflag
+
+0x38835f	
+Mission % in Battlers Mode
+Bit5 = Yes
+Bit7 = Yes
+
+0x388360	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit5 = Yes
+
+0x388364	
+Mission % in Battlers Mode
+Bit5 = Yes
+Bit6 = Yes
+
+0x388365	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit1 = Yes
+Bit2 = Yes
+Bit4 = Yes
+Bit5 = Yes
+
+0x388367	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit7 = Yes
+
+0x388368	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x388369	
+Mission % in Battlers Mode
+Bit5 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x38836a	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit1 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit6 = Yes
+
+0x38836b	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit1 = Yes
+Bit4 = Yes
+Bit6 = Yes
+
+0x38836c	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit6 = Yes
+
+0x38836d	
+Mission % in Battlers Mode
+Bit0 = Yes
+
+0x38836e	
+Mission % in Battlers Mode
+Bit5 = Yes
+
+0x38836f	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit5 = Yes
+
+0x388371	
+Mission % in Battlers Mode
+Bit2 = Yes
+Bit4 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x388372	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit7 = Yes
+
+0x388373	
+Mission % in Battlers Mode
+Bit6 = Yes
+
+0x388374	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit1 = Yes
+Bit2 = Yes
+Bit4 = Yes
+Bit5 = Yes
+
+0x388375	
+Mission % in Battlers Mode
+Bit0 = Yes
+
+0x388376	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x388377	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit7 = Yes
+
+0x38837b	
+Mission % in Battlers Mode
+Bit2 = Yes
+Bit4 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x38837c	
+Mission % in Battlers Mode
+Bit1 = Yes
+
+0x38837d	
+Mission % in Battlers Mode
+Bit4 = Yes
+Bit6 = Yes
+
+0x38837e	
+Mission % in Battlers Mode
+Bit0 = Yes
+
+0x38837f	
+Mission % in Battlers Mode
+Bit0 = Yes
+
+0x388380	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x388381	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit2 = Yes
+Bit3 = Yes
+
+0x388382	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit3 = Yes
+Bit5 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x388383	
+Mission % in Battlers Mode
+Bit7 = Yes
+
+0x388384	
+Mission % in Battlers Mode
+Bit1 = Yes
+
+0x388385	
+Mission % in Battlers Mode
+Bit2 = Yes
+Bit4 = Yes
+Bit6 = Yes
+
+0x388386	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit1 = Yes
+Bit2 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit7 = Yes
+
+0x388387	
+Mission % in Battlers Mode
+Bit2 = Yes
+Bit4 = Yes
+Bit6 = Yes
+
+0x388388	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit6 = Yes
+
+0x388389	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit5 = Yes
+
+0x38838a	
+Mission % in Battlers Mode
+Bit3 = Yes
+Bit7 = Yes
+
+0x38838b	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit7 = Yes
+
+0x38838c	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit7 = Yes
+
+0x38838d	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit7 = Yes
+
+0x38838e	
+Mission % in Battlers Mode
+Bit1 = Yes
+
+0x388390	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit7 = Yes
+
+0x388391	
+Mission % in Battlers Mode
+Bit5 = Yes
+Bit7 = Yes
+
+0x388392	
+Mission % in Battlers Mode
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+
+0x388393	
+Mission % in Battlers Mode
+Bit0 = Yes
+
+0x388394	
+Mission % in Battlers Mode
+Bit3 = Yes
+
+0x388395	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit7 = Yes
+
+0x388396	
+Mission % in Battlers Mode
+Bit6 = Yes
+
+0x388397	
+Mission % in Battlers Mode
+Bit3 = Yes
+Bit5 = Yes
+
+0x388398	
+Mission % in Battlers Mode
+Bit5 = Yes
+
+0x388399	
+Mission % in Battlers Mode
+Bit7 = Yes
+
+0x38839a	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit7 = Yes
+
+0x38839b	
+Mission % in Battlers Mode
+Bit6 = Yes
+
+0x38839d	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit5 = Yes
+
+0x38839e	
+Mission % in Battlers Mode
+Bit2 = Yes
+Bit3 = Yes
+Bit5 = Yes
+Bit7 = Yes
+
+0x38839f	
+Mission % in Battlers Mode
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit7 = Yes
+
+0x3883a0	
+Mission % in Battlers Mode
+Bit0 = Yes
+
+0x3883a1	
+Mission % in Battlers Mode
+Bit4 = Yes
+Bit5 = Yes
+Bit7 = Yes
+
+0x3883a2	
+Mission % in Battlers Mode
+Bit5 = Yes
+
+0x3883a3	
+Mission % in Battlers Mode
+Bit2 = Yes
+Bit4 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x3883a4	
+Mission % in Battlers Mode
+Bit4 = Yes
+Bit6 = Yes
+
+0x3883a5	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x3883a6	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit5 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x3883a7	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit2 = Yes
+Bit4 = Yes
+Bit6 = Yes
+
+0x3883a8	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit7 = Yes
+
+0x3883a9	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x3883aa	
+Mission % in Battlers Mode
+Bit0 = Yes
+
+0x3883ab	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit7 = Yes
+
+0x3883ac	
+Mission % in Battlers Mode
+Bit1 = Yes
+
+0x3883ad	
+Mission % in Battlers Mode
+Bit2 = Yes
+Bit4 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x3883ae	
+Mission % in Battlers Mode
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x3883af	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit6 = Yes
+
+0x3883b0	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit2 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x3883b1	
+Mission % in Battlers Mode
+Bit0 = Yes
+Bit1 = Yes
+
+0x3883b2	
+Mission % in Battlers Mode
+Bit2 = Yes
+Bit3 = Yes
+Bit5 = Yes
+Bit7 = Yes
+
+0x3883b3	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit3 = Yes
+Bit5 = Yes
+Bit7 = Yes
+
+0x3883b4	
+Mission % in Battlers Mode
+Bit0 = Yes
+
+0x3883b5	
+Mission % in Battlers Mode
+Bit2 = Yes
+Bit3 = Yes
+Bit4 = Yes
+Bit5 = Yes
+Bit6 = Yes
+Bit7 = Yes
+
+0x3883b6	
+Mission % in Battlers Mode
+Bit0 = Yes
+
+0x3883b9	
+Mission % in Battlers Mode
+Bit6 = Yes
+Bit7 = Yes
+
+0x3883ba	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit2 = Yes
+Bit3 = Yes
+Bit6 = Yes
+
+0x3883bb	
+Mission % in Battlers Mode
+Bit1 = Yes
+
+0x3883c1	
+Mission % in Battlers Mode
+Bit6 = Yes
+Bit7 = Yes
+
+0x3883c2	
+Mission % in Battlers Mode
+Bit1 = Yes
+Bit3 = Yes
+Bit4 = Yes
+
+0x3883c3	
+Crowns array bitflag 300 bytes
+
+0x814300	
+Game - State [32 bits] [1] - Title Screen Address
+
+0x814304	
+Game - State [32 bits] [2] - Title Screen Address
+0x01 = Opening Game
+0x02 = Title Screen
+0x03 = Menu
+0x04 = Story Mode
+0x05 = Character Select
+0x06 = Stage Select
+0x07 = Option
+0x08 = Tutorial
+0x09 = Battlers Mode
+0x0a = Shop Urahara
+0x0f = Battle / Transition in Story Mode
+0x10 = Demo
+0x7c = Battle - Story Mode (will go crazy if you confirm the money)
+
+0x814308	
+Game - Mode [32 bits] - Title Screen Address
+0x00 = Story Mode
+0x01 = Battlers Mode
+0x02 = Free Battle
+0x03 = Training Mode
+0x04 = Tutorial
+0x05 = Shop
+0x06 = Option
+
+0x814310	
+Money Count in Result Screen 32 bits
+
+0x814318	
+Information Screen?
+00 = No
+01 = Yes
+02 = Kon Coins
+03 = End Kon Coins
+04 to 07 = Transitions
+08 = End
+09 = Finished all Information and will finish the information screen
+
+0x814344	
+Story Mode - State [32 bits] - Title Screen Address
+
+0x07 = Dialogue
+0x13 = Fighting
+
+0x81437c	
+Information Screen?
+00 = No
+01 = Yes
+
+0x814818	
+Free Battle Player 1 - Color Team
+00 = Red
+01 = Blue
+02 = Yellow
+03 = Green
+04 = None Selected
+
+0x814824	
+Free Battle Player 1 - Color Team - Cursor
+
+0x814844	
+Free Battle Player 2 - Color Team
+00 = Red
+01 = Blue
+02 = Yellow
+03 = Green
+04 = None Selected
+
+0x814850	
+Free Battle Player 2 (CPU) - Color Team - Cursor
+
+0x814870	
+Free Battle Player 3 - Color Team
+00 = Red
+01 = Blue
+02 = Yellow
+03 = Green
+04 = None Selected
+
+0x81487c	
+Free Battle Player 3 (CPU) - Color Team - Cursor
+
+0x81489c	
+Free Battle Player 4 - Color Team
+00 = Red
+01 = Blue
+02 = Yellow
+03 = Green
+04 = None Selected
+
+0x8148a8	
+Free Battle Player 4 (CPU) - Color Team - Cursor
+
+0x814f7d	
+Free Battle Lives - Player A
+
+0x814f7e	
+Free Battle Lives - Player B
+
+0x814f7f	
+Free Battle Lives - Player C
+
+0x814f80	
+Free Battle Lives - Player D
+
+0x814fb8	
+Finished Free Battle Flag?
+
+0x814fd8	
+Clock 16 bits
+
+0x81510e	
+Combo P1 - not editable addreses
+
+0x815179	
+Char ID?
+
+0x815188	
+Clock 32 bits
+
+0x815198	
+Moths Count 16 bits
+
+0x815458	
+Player Pointer 32 bits
++C8 = Player Health
++230 = Combo P1
+
+0x815d44	
+Player Pointer 32 bits - 2
++128 = Player Health
++270 = Combo P1
+
+0x815dbd	
+Char ID
+00 = Ichigo
+01 = Byakuya
+02 = Ichimaru
+03 = Kenpachi
+04 = Tosen
+05 = Renji
+06 = Urahara
+07 = Komamura
+08 = Yoruichi
+09 = Soi Fon
+0a = Ikkaku
+0b = Kon
+0c = Hitsugaya
+0d = Rukia
+0e = Chad
+0f = Orihime
+10 = Ishida
+11 = Aizen
+12 = Kurotsuchi
+13 = Matsumoto
+14 = Ururu
+15 = Hinamori
+16 = Hollow Ichigo
+24 = Ulquiora
+25 = Grimmjow
+26 = Yammi
+27 = Luppi
+28 = Shinji
+29 = Hyori
+2a = Yamamoto
+2b = Ukitake
+2c = Yachiru
+2d = Hiragi
+2e = Kira
+2f = Yumichika
+30 = Kyoraku
+
+0x815dca	
+Reiatsu - Normal 16 bits
+
+0x815dcc	
+Reiatsu - Special 16 bits - Will work better in History Mode
+
+0x815ea0	
+Player Coord X 32 bits Float
+
+0x815ea8	
+Player Coord Y Coord 32 bits Float
+
+0x815ec0	
+Player Camera 32 bits Float
+
+0x816248	
+Bankai Activated
+
+0x816928	
+P1 Health - 2
+
+0x816930	
+Reiatsu
+
+0x816948	
+P1 Health - 1
+
+0x816a90	
+Combo P1 - Real Address - Rukia
+
+0x816ab0	
+Combo P1 - Real Address - Ichigo
+
+0x816b6c	
+Counter - Mission
