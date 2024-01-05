@@ -1,0 +1,1573 @@
+0xa42210	
+Current Frames 32 bits
+
+0xa42218	
+Gender 32 bits
+00 = Male
+01 = Female
+ff = Tutorial
+
+0xa42220	
+New Game Plus Flag? 32 bits
+
+0xa42224	
+Message Speed 32 bits
+00 = Slow
+01 = Normal
+02 = Fast
+
+0xa42228	
+Event Voices 32 bits
+00 = Off
+01 = On
+
+0xa4222c	
+Background Music 32 bits
+
+0xa42230	
+Sound Effects/Voices 32 bits
+
+0xa42234	
+Camera Controls 32 bits
+00 = Inverted
+01 = Normal
+
+0xa42238	
+Difficulty ID 32 bits - Crazy Address, change a lot of times in game
+00 = Normal - Start Only
+>00 = Easy - Start Only
+
+Stupid address can change with different values in game
+
+0xa4223c	
+Weeks 32 bits
+
+0xa42240	
+Map ID 32 bits
+
+0xa42244	
+Game/Week Progress 32 bits
+
+0xa42248	
+Day Type 32 bits
+01 = Morning
+02 = Morning
+03 = Midday
+04 = Evening
+05 = Evening
+06 = Night
+
+0xa4224c	
+PPT 32 bits 32 bits
+
+0xa42258	
+Name Letter 1
+
+0xa42259	
+Name Letter 2
+
+0xa4225a	
+Name Letter 3
+
+0xa4225b	
+Name Letter 4
+
+0xa4225c	
+Name Letter 5
+
+0xa4225d	
+Name Letter 6
+
+0xa4225e	
+Name Letter 7
+
+0xa4225f	
+Name Letter 8
+
+0xa42264	
+Last Name Letter 1
+
+0xa42265	
+Last Name Letter 2
+
+0xa42266	
+Last Name Letter 3
+
+0xa42267	
+Last Name Letter 4
+
+0xa42268	
+Last Name Letter 5
+
+0xa42269	
+Last Name Letter 6
+
+0xa4226a	
+Last Name Letter 7
+
+0xa4226b	
+Last Name Letter 8
+
+0xa42270	
+Nick Name Letter 1
+
+0xa42271	
+Nick Name Letter 2
+
+0xa42272	
+Nick Name Letter 3
+
+0xa42273	
+Nick Name Letter 4
+
+0xa42274	
+Nick Name Letter 5
+
+0xa42275	
+Nick Name Letter 6
+
+0xa42276	
+Nick Name Letter 7
+
+0xa42277	
+Nick Name Letter 8
+
+0xa42278	
+Nick Name Letter 9
+
+0xa42279	
+Nick Name Letter 10
+
+0xa4227a	
+Nick Name Letter 11
+
+0xa4227b	
+Nick Name Letter 12
+
+0xa4227c	
+Nick Name Letter 13
+
+0xa4227d	
+Nick Name Letter 14
+
+0xa4227e	
+Nick Name Letter 15
+
+0xa4227f	
+Nick Name Letter 16
+
+0xa42280	
+Nick Name Letter 17
+
+0xa42281	
+Nick Name Letter 18
+
+0xa42282	
+Nick Name Letter 19
+
+0xa42283	
+Nick Name Letter 20
+
+0xa4228c	
+Alteration of the Soul - Strength - Level 32 bits
+0x78 = Saber - Ex Rank
+0x8d = Archer - Ex Rank
+0xa1 = Caster - Ex Rank
+
+0xa42290	
+Alteration of the Soul - Defense 32 bits
+0x78 = Saber - Ex Rank
+0x79 = Archer - Ex Rank
+0xa1 = Caster - Ex Rank
+
+0xa42294	
+Alteration of the Soul - Agility 32 bits
+0x78 = Saber - Ex Rank
+0x78 = Archer - Ex Rank
+0x6b = Caster - Ex Rank
+
+0xa42298	
+Alteration of the Soul - Magic 32 bits
+0x78 = Saber - Ex Rank
+0x6a = Archer - Ex Rank
+5b = Caster - Ex Rank
+
+0xa4229c	
+Alteration of the Soul - Luck 32 bits
+0x78 = Saber - Ex Rank
+0xa9 = Archer - Ex Rank
+64 = Caster - Ex Rank
+
+0xa422a4	
+Inventory Flag - Yakisoba Bread (All Address is 32 bits)
+
+0xa422ac	
+Inventory Flag - Curry Bread
+
+0xa422cc	
+Inventory Flag - Ether Powder
+
+0xa422d4	
+Inventory Flag - Ether Shard
+
+0xa422f4	
+Inventory Flag - Magic Crystal Shard
+
+0xa42324	
+Inventory Flag - Return Crystal
+
+0xa4243c	
+Inventory Flag - Portable Terminal
+
+0xa42444	
+Inventory Flag - Private Room Password
+
+0xa4244c	
+Inventory Flag - Faded Journal
+
+0xa42454	
+Inventory Flag - Pirate Booty
+
+0xa42494	
+Inventory Flag
+Sakura's Lunch Ver. 0
+
+0xa424a4	
+Inventory Flag - Kendo Sword
+
+0xa4251c	
+Inventory Flag - Trigger Code Alpha / Tangerine
+
+0xa42524	
+Inventory Flag - Trigger Code Beta
+
+0xa425ac	
+Inventory Flag - Taiga's Lamp
+
+0xa426b4	
+Inventory Flag - Durable Gym Clothes
+
+0xa426cc	
+Inventory Flag - Exorcist Blade
+
+0xa426d4	
+Inventory Flag - Phoenix Scarf
+
+0xa426e4	
+Inventory Flag - Saint's Monocle
+
+0xa42aa4	
+Master Level
+
+0xa42ab0	
+Skill Points
+
+0xa42ad0	
+XP Needed for next level 32 bits
+
+0xa42b40	
+Attack Target - Arena Level 24
+
+0xa42b78	
+Nephilim Counter?
+
+0xa42bec	
+Alteration of the Soul - Strength - Value 32 bits
+
+0xa42c68	
+Servant HP 32 bits
+
+0xa42c6c	
+Servant Magic 32 bits
+
+0xa4f4f8	
+Battle State?
+
+0xa4f584	
+Alteration of the Soul - Strength 32 bits - Clone
+
+0xa4f588	
+Alteration of the Soul - Defense 32 bits - Clone
+
+0xa4f58c	
+Alteration of the Soul - Agility 32 bits - Clone
+
+0xa4f590	
+Alteration of the Soul - Magic 32 bits - Clone
+
+0xa4f594	
+Alteration of the Soul - Luck 32 bits - Clone
+
+0xa4f5c2	
+Event Flag
+Bit7 = Julius and Assassin defeated? (maybe indicate end battle/transition - Rin and Lancer too
+
+0xa4f5c3	
+Event Flag
+02 = Choose Rescue Rani [Bit1]
+19 = Choose Rescue Rin [Bit3,4]
+Bit7 = Tutorial - Noble Phantasm or Ally Info
+
+0xa4f5c4	
+Event Flag - Interaction Events
+
+0xa4f5cc	
+Event Flag - Temporary Address
+Bit5 = Tutorial - System Menu - First Time
+Bit7 = Found the Kuzuki - School Building 1F
+
+0xa4f5cd	
+Event Flag
+Bit0 = Classroom 2-A - 1st cutscene
+Bit1 = Cutscene in School Building 2F - After Classroom 2-A 2nd cutscene
+Bit2 = Answer - Rin Tohsaka - Rooftop
+
+0xa4f5ce	
+Event Flag
+Bit0 = Classroom 2-A - 2nd cutscene
+Bit2 = Classroom 2-A - 3rd cutscene
+
+0xa4f5cf	
+Event Flag
+Bit2 = Midday - Classroom 2-A - 4th Cutscene
+Bit7 = Started Event at Classroom 2-A - After 4th Cutscene
+
+0xa4f5d0	
+Event Flag
+Bit0 = Leo on corridor of School Building - 1F
+
+0xa4f5d4	
+Bit6 = After the cutscene in Classroom 2-A First Time
+
+0xa4f5d5	
+Event Flag
+Bit0 = Classroom 2-A - After 3rd cutscene
+Bit2 = After the cutscene in Classroom 2-A First Time
+Bit7 = Entered on Classroom 2-A - First Time
+
+0xa4f5d6	
+Event Flag
+Bit6 = Talking to Editor - School Building 2F - 1st
+
+0xa4f5d7	
+Event Flag
+Bit0 = Talking to Editor - School Building 2F - 2nd
+Bit1 = Talking to Editor - School Building 2F - 3rd
+Bit4 = Talking to Editor - School Building 2F - 4th
+Bit7 = Meet with Leo on corridor of School Building - 1F
+
+0xa4f5d8	
+Event Flag
+Bit1 = Finished the Tutorial
+Bit2 = Found Leo Again After Partner
+Bit3 = Found Leo Again After Partner II
+
+0xa4f5d9	
+Event Flag
+Bit2 = You go to classroom 2-A after talking with Rin on rooftop
+Bit3 = Cutscene - School Building 2F
+Bit4 = Cutscene in Scholl Building 2F (Issei)
+Bit6 = Coliseum - Issei
+
+0xa4f5da	
+Event Flag
+Bit2 = Shinji has lost in coliseum - triggers when you return to the school
+Bit3,4 = Cutscene after Shinji and Rider defeated
+Bit5 = Cutscene in Classroom 2-A - After Servant Cutscene for battle result
+
+0xa4f5dd	
+Event Flag
+Bit0 = Water Fountain Text
+Bit4 = Cutscene in Chapel
+
+0xa4f5de	
+Event Flag
+Bit0 = Tutorial in Chapel
+Bit2 = Tried to enther the arena (cutscene, Saber and Shinji) - School Building 1F (disappear after remove both seals)
+Bit3 = Seals Removed
+Bit4 = Removed the Seal - Nurse's Office
+Bit5 = Removed the Seal - Classroom 2-A
+Bit7 = Shinji after Seals removed
+
+0xa4f5df	
+Event Flag
+Bit1 = Received the Private Room Password - School Building 1F
+Bit3 = Meet with Dan - 2 week
+Bit4 = Leo and friends - 2 Week
+Bit5 = Leon on Coliseum - 2 week
+
+0xa4f5e0	
+Event Flag
+Bit5 = Message Read - Started Week 2
+Bit6 = Message - Starting Week 2
+
+0xa4f5e3	
+Event Flag
+Bit5 = Meet with Rin - 2 week
+Bit4 = Meet with Servant - Classroom 2-A - 2 Week
+Bit6 = Meet with Servant - School Building 1F - 2 week
+Bit7 = Meet with Servant - Classroom 2-A - 2 week
+
+0xa4f5e4	
+Event Flag
+Bit1 = Cutscene with Rani - School Building 1F - 2 week
+Bit2 = Cutscene with Dan - School Building 1F - 2 week
+Bit4 = Servant Appear - School Building 1F - 2 week
+Bit6 = Cutscene with Rani - School Building 3F - 2 week
+
+0xa4f5e5	
+Event Flag
+Bit2 = Cutscene to enter in arena level 10 - first time - 2 week (isso indica que está na arena, semana 2
+Bit5 = Alice Cutscene - 3 week
+Bit6 = Reached on Coliseum - 3 week
+
+0xa4f5e6	
+Event Flag
+Bit1,2 = Finished 3 week battle, go to school building - text event
+Bit5 = Cutscene in Classroom 2-A (Phone) - 3 week
+
+0xa4f5ef	
+Event Flag
+Bit4,5,6 = Beaten 4 week?
+
+0xa4f5f2	
+Event Flag
+Bit1 = Julius - School Building 2F - 5 week (same as 0x00a4f6da)
+Bit3 = Assassin Event in Coliseum - 5 week
+Bit6 = Julius and Assassin defeated?
+Bit7 = Julius and Assassin defeated?
+
+0xa4f5f8	
+Event Flag
+Bit4 = Rin and Lancer Defeated?
+Bit7 = Rin and Lancer Defeated?
+
+0xa4f5f9	
+Event Flag
+Bit0 = Rin and Lancer Defeated?
+
+0xa4f5fb	
+Event Flag
+Bit2 = Cutscene - Started 6 week
+Bit5 = Started Coliseum - 6 week
+
+0xa4f5fc	
+Event Flag
+Bit0 = Rani and Berserker defeated?
+Bit1 = Rani and Berserker defeated?
+
+0xa4f5ff	
+Event Flag?
+Bit2,3 = Defeated Saber - 7 week
+
+0xa4f605	
+Event Flag
+Bit0,1 = Game Beaten?
+
+0xa4f60b	
+Event Flag
+Bit7 = Enemy Program - Tutorial 2
+
+0xa4f60c	
+Event Flag
+Bit0 = Enemy Program - Tutorial 2
+Bit1 = Enemy Program - Tutorial 2
+
+0xa4f60f	
+Event Flag
+Bit5 = Cutscene in School Building 1F
+
+0xa4f610	
+Event Flag
+Bit0 = Classroom 2-A - 1st cutscene (evening)
+Bit1 = Answer - Archery Range - First Time
+Bit2 = Classroom 2-A - 2nd cutscene end - new npcs
+Bit5 = Answer - Garden - 1st Cutsceme
+Bit6 = Pressed ok - Classroom 2-A - After 4th Cutscene
+Bit7 = Found the book on the library
+
+0xa4f611	
+Event Flag
+Bit0 = Reached on Soul Society (maybe?)
+Bit2 = Accepted Kendo Quest
+Bit4 = Talked with Taiga on School Building 1F
+Bit6 = Talked with Taiga on School Building 1F - 2 week
+
+0xa4f612	
+Event Flag
+Bit2 = Taiga - School Building 1F - 3 week
+
+0xa4f613	
+Event Flag
+Bit0 = Taiga - School Building 1F - 4 week
+Bit6 = Taiga - School Building 1F - 5 week
+Bit7 = Taiga - School Building 1F - 5 week
+
+0xa4f614	
+Event Flag
+Bit0 = Taiga - School Building 1F - 5 week
+Bit1 = Taiga - School Building 1F - 5 week (received Taiga's Tea Service)
+Bit2 = Taiga - School Building 1F - 6 week
+Bit3 = Taiga - School Building 1F - 6 week
+Bit5 = Comic Book - Student Girl - School Building 3F - 6 week
+Bit6 = Taiga - School Building 1F - 6 week
+Bit7 = Received Taiga's Goldfish - School Building 1F - 6 week
+
+0xa4f615	
+Event Flag
+Bit0 = Taiga - School Building 1F - 7 week
+Bit1 = Taiga - School Building 1F - 7 week
+Bit2 = Taiga - School Building 1F - 7 week
+Bit3 = Taiga - School Building 1F - 7 week (Taiga's Stuffed Animal)
+
+0xa4f618	
+Event Flag?
+Bit6 = Elixir - Servant Room - 6 week
+
+0xa4f61a	
+Event Flag
+Bit1 = Elixir - Servant's Room - 5 week
+
+0xa4f61b	
+Event Flag
+Bit6 = Caster Update your Mantra Skill - Classroom 2-B or Servant's Room
+
+0xa4f625	
+Event Flag
+Bit2 = Tutorial - Tsukumihara Commissary
+Bit3 = Tutorial - Revival Fountains
+Bit5 = Tutorial - System Menu - First Time (pressed ok)
+
+0xa4f62e	
+Event Flag
+Bit0 = Rin on Nurse's Office - Cutscene after Multimedia Room
+
+0xa4f62f	
+Event Flag
+Bit3 = Transported to the Coliseum - 3 week
+Bit4 = Cutscene in Classroom 2-A - 3 week
+Bit6 = Cutscene in School Building 3F - 3 week
+
+0xa4f630	
+Event Flag
+Bit0 = Cutscene after defeat caster in School Building 1F - 3 week
+Bit1 = Cutscene after defeat caster in Classroom 1F - 3 week
+Bit2 = Cutscene after defeat caster in sala de video 1F - 3 week
+Bit3 = After watching Rin x Rani battle
+Bit7 = Cutscene video, Rin vs Rani
+
+0xa4f631	
+Event Flag
+Bit2 = After choose a girl to rescue - Cutscene
+Bit3 = Back to the Multimedia Room - Cutscene, trigger for any girl
+
+0xa4f639	
+Event Flag
+Bit5 = Tutorial - Information Matrix 02
+Bit6 = Elimination Battle - Kotomine - Classroom 2-A
+
+0xa4f63a	
+Event Flag
+Bit0 = Kotomine - Classroom 2-A - Last Day
+Bit1 = Kotomine - Classroom 2-A - Last Day - 5 week
+Bit2 = Kotomine - Classroom 2-A - Last Day - 6 week
+Bit3 = Kotomine - Classroom 2-A - Last Day - 7 week
+
+0xa4f64d	
+Event Flag
+Bit2 = Alice Cutscene - Arena Level 18 - 1 week
+
+0xa4f651	
+Event Flag
+Bit0 = Enemy Servant Info - 5 week (same as 0x00a4f6cf)
+
+0xa4f658	
+Event Flag
+Bit3 = Talked with Female Student - School Building 2F
+
+0xa4f65c	
+Event Flag
+Bit6 = Shinji - School Building 1F
+
+0xa4f65d	
+Event Flag
+Bit3 = Found Leo on Library
+Bit4 = Found Shinji on Library
+Bit5 = Found Shinji on Garden
+
+0xa4f677	
+Event Flag
+Bit0 = Meet with Dan - Same as 0x00a4f5df
+Bit4 = Cutscene - 6 week - same as 0x00a4f6ca
+
+0xa4f679	
+Event Flag
+Bit0 = Father Kotomine Cutscene - School Building 2F
+Bit2 = Cutscene - School Building 2F
+Bit3 = Cutscene - School Building 2F - Rin
+Bit4 = Servant Info - Arena Level 33 (disappear after end battle)
+Bit5 = Secret Boss - Battle Start
+
+0xa4f68a	
+Event Flag
+Bit5 Entering the opposite gender's bathroom
+
+0xa4f68b	
+Event Flag
+Bit1 = Events on the Schoolyard, new NPCS after the first cutscene with Kuzuki in School Building 1F
+Bit4 = Events on the School Building 2F, new NPCS after the first cutscene in Classroom 2-A
+Bit5 = Events on the School Building 2F, new NPCS after the first cutscene in Library
+Bit7 = Events on the School Building 1F, new NPCS after the first cutscene in Nurse's Office
+
+0xa4f68c	
+Event Flag
+Bit0 = Rin and Shinji - School Building 2F
+Bit1 = Reached on Classroom 2-A after choose a partner
+Bit2 = Cutscene in Classroom 2-A after get scarf and trigger
+Bit4 = Servant Alert - School Building 1F
+
+0xa4f693	
+Event Flag
+Bit2 = Received Ether Powder - Nurse's Office
+Bit3 = Received Ether Shard - Nurse's Office
+Bit4 = Received Magic Crystal Shard - Nurse's Office
+Bit5 = Received Sakura's Special Lunch - Nurse's Office
+Bit6 = Received Magic Crystal Sphere - Nurse's Office (Rin)
+Bit7 = Received Ether Crystal - Nurse's Office
+
+0xa4f694	
+Event Flag
+Bit0 = Received Sakura's Amazing Lunch - Nurse's Office
+Bit1 = Received Sakura's Supreme Lunch - Nurse's Office
+Bit3 = Taiga Text - Last week
+
+0xa4f695	
+Event Flag
+BIt3 = Secret Boss Killed
+
+0xa4f6a0	
+Item Cubo Flag - Temporary Address
+Bit5 = Ether Shard - Mundo das almas?
+
+0xa4f6a1	
+Item Cubo Flag - Temporary Address
+Bit6 = Ether Shard - Arena Level 04
+
+0xa4f6a2	
+Item Cubo Flag - Temporary Address
+
+0xa4f6a3	
+Item Cubo Flag - Temporary Address
+Bit2 = 300PPT - Arena Level 04
+
+0xa4f6a4	
+Item Cubo Flag - Temporary Address
+Bit4 = 2000 PPT - Arena Level 14
+
+0xa4f6a5	
+Item Cubo Flag - Temporary Address
+
+0xa4f6a6	
+Item Cubo Flag - Temporary Address
+Bit3 = Ether Fragment - Arena Level 14
+
+0xa4f6a7	
+Item Cubo Flag - Temporary Address
+
+0xa4f6a8	
+Item Cubo Flag - Temporary Address
+
+0xa4f6ab	
+Event Flag - Temporary?
+Bit4 = Garden - 1st Cutscene
+
+0xa4f6ac	
+Event Flag
+Bit2 = Found Shinji on Library (same as 0x00a4f65d)
+
+0xa4f6ad	
+Event Flag
+Bit4 = Alice Mini Game - Arena 16
+Bit5 = Alice Mini Game - Arena 16
+Bit6 = Alice Mini Game - Arena 16
+Bit7 = Alice Mini Game - Arena 16 - Last (will dissapear when you meet with berserker battle
+
+0xa4f6ae	
+Event Flag
+Bit0 = Battle Encounter with Vorpal Blade - Berserker Arena Level 16
+Bit6 = Cautch Alice - Arena Level 18
+Bit6 = Cautch Alice 2 - Arena Level 18
+
+0xa4f6af	
+Event Flag
+Bit0,1 = Finished the mini game with Alice - Arena level 18
+Bit3 = Cutscene - Rani/Rin - School Building 1F - 4 week
+Bit6,7 = Choose Approach. - Arena Level 21 - 4 week - Rani Route
+
+0xa4f6b0	
+Event Flag
+Bit0 = Win the fight on arena level 24 - Second Encounter
+Bit1 = Cutscene on Rooftop (Rin) - 5 week
+Bit2 = Reach on the last substance - arena level 25
+
+0xa4f6b1	
+Event Flag
+Bit1 = First cutscene in Arena Level 25 (same as 0x00a4f6b4)
+Bit2 = Switch - Arena Level 28
+Bit3 = Switch - Arena Level 28
+Bit4 = Switch - Arena Level 28
+Bit5 = Battle Test - Assassin - Arena Level 28
+
+0xa4f6b3	
+Event Flag
+Bit1 = Effigy - Arena Level 32
+
+0xa4f6b4	
+Event Flag
+Bit0 = Cutscene after kill Assassin in Arena Level 33
+Bit1 = Cutscene after kill Se.Re.Ph in Arena Level 33
+Bit6 = First cutscene in Arena Level 25
+
+0xa4f6b8	
+Event Flag
+Bit5 = Cutscene after reach on arena level 10 - Virus
+
+0xa4f6b9	
+Event Flag
+Bit4 = Alice Mini Game - Arena Level 18 - 3 Week
+Bit6 = Tutorial Arena Level 24 - 4 week
+
+0xa4f6ba	
+Event Flag
+Bit0 = Tutorial Arena Level 28
+
+0xa4f6bb	
+Event Flag
+Bit0 = The Second Key Has Ben Created
+Bit6 = Phone Cutscene - 3 week
+
+0xa4f6bc	
+Event Flag
+Bit4 = Phone - Kotomine - School Building 1F - 4 week
+
+0xa4f6be	
+Event Flag
+Bit0 = Phone Cutscene - Classroom 2-A
+Bit3 = Cutscene - Reach Arena Level 14
+
+0xa4f6bf	
+Event Flag
+Bit4 = Tutorial - Predicting Actions 2
+
+0xa4f6c0	
+Event Flag
+Bit0 = Meet with Archer - Arena Level 14
+
+0xa4f6c4	
+Event Flag
+Bit4 = Cutscene to kill the plant in Arena Level 10
+
+0xa4f6c6	
+Event Flag
+Bit1 = Servant Dialogue - Arena Level 35
+
+0xa4f6c9	
+Event Flag
+Bit5 = Jabberwock Information - Library - 3 week (same as 0x00a4f6cd)
+Bit6 = Cutscene - School Building 2F - 4 week
+
+0xa4f6ca	
+Event Flag
+Bit6 = Cutscene - 6 week
+
+0xa4f6cb	
+Event Flag
+Bit2 = Cutscene - School Building 2F - 7 week
+Bit7 = Cutscene - School Building 2F
+
+0xa4f6cd	
+Event Flag
+Bit3 = Alice Cutscene - Arena Level 18 - 1 week (same as 0x00a4f64d)
+Bit4 = Jabberwock Information - Library - 3 week
+Bit6 = Returned to Rooftop after get the trigger from arena level 18
+
+0xa4f6ce	
+Event Flag
+Bit2 = Enemy Servant Info Obtained - 4 week - 1 remaining evening
+Bit0 = Lil' Ronnie - School Building 1F - 4 week
+Bi6 = Matou Gatou - School Building 1F - 4 week - Rani Route
+
+0xa4f6cf	
+Event Flag
+Bit0 = Enemy Servant Info - 4 week - Rani Route
+Bit4 = Enemy Servant Info - 5 week
+Bit5 = Enemy Servant Info 2 - 5 week
+Bit6 = Enemy Servant Info 3 - 5 week
+
+0xa4f6d0	
+Event Flag
+Bit0 = Invisible Servant - Text Dialogue - Classroom 2-A - 5 week
+
+0xa4f6d1	
+Event Flag
+Bit0 = Enemy Servant Info - 6 week
+Bit1 = Enemy Servant Info 2 - 6 week
+Bit2 = Enemy Servant Info 3 - 6 week
+Bit7 = Enemy Servant Info 3 - 7 week
+
+0xa4f6d2	
+Bit7 = Enemy Servant Info 4 - 7 week
+
+0xa4f6d4	
+Event Flag
+Bit1 = Returned to Servant's Room - Week 2 - Arena Level 10 for the first time
+Bit5 = Cutscene - Rin - School Building 2F - 5 week
+
+0xa4f6d5	
+Event Flag
+Bit3 = Enemy Servant Info Obtained - Rider - E Rank
+Bit4 = Enemy Servant Info Obtained - Archer - E Rank
+Bit5 = Enemy Servant Info Obtained - Caster - E Rank
+Bit6 = Enemy Servant Info Obtained - Lancer - E Rank [Rin Route]
+Bit7 = Enemy Servant Info Obtained - Berserker - E Rank [Rani Route]
+
+0xa4f6d6	
+Event Flag
+Bit0 = Enemy Servant Info Obtained - Assassin - E Rank [Any Route]
+Bit1 = Enemy Servant Info Obtained - Lancer - E Rank [Rani Route]
+Bit2 = Enemy Servant Info Obtained - Berserker - E Rank [Rin Route]
+Bit3 = Enemy Servant Info Obtained - Saber - E Rank [Rin Route]
+
+0xa4f6d8	
+Event Flag
+Bit2 = Restrain Servant (action in arena level 10)
+Bit3 = Jabberwock Information - Library - 3 week (same as 0x00a4f6cd)
+Bit4 = Cutscene - Arena Level 21, Lil - 4 week - Rin Route
+Bit5 = Cutscene - Arena Level 21, Gatou - 4 week - Rani Route
+
+0xa4f6d9	
+Event Flag
+Bit0 = Enemy Servant Info 4 - 6 week (same as 0x00a4f6d6)
+
+0xa4f6da	
+Event Flag
+Bit1 = Julius - School Building 2F - 5 week
+Bit3 = Enemy Servant Info 4 - 6 week (same as 0x00a4f6d6)
+
+0xa4f6db	
+Event Flag
+Bit0 = Servant Info Obtained - 5 week
+Bit2 = Ally Servant Info Obtained - Saber - E Rank
+
+0xa4f6dc	
+Event Flag
+Bit2 = Ally Servant Info Obtained - Archer - E Rank
+
+0xa4f6dd	
+Event Flag
+Bit2 = Ally Servant Info Obtained - Caster - E Rank
+
+0xa4f6de	
+Event Flag
+Bit4 = Tutorial Arena Menu
+
+0xa4f6e3	
+Item Cubo Flag
+Bit2 = Phoenix Scarf - Arena Level 04
+Bit3 = Exorcist Blade - Arena Level 08
+Bit4 = Saint's Monocle - Arena Level 08
+Bit5 = Faded Journal - Arena Level 08
+Bit6 = Trigger Obtained - Arena Level 04
+Bit7 = Trigger Obtained - Arena Level 08
+
+0xa4f6e4	
+Item Cubo Flag
+Bit0 = Kendo Sword - Arena Level 04
+Bit2 = Tangerine - Arena Level 08
+Bit4 = Fortune Key - Arena Level 14
+Bit6 = Durable Gym Clothes - Arena Level 10
+
+0xa4f6e5	
+Item Cubo Flag
+Bit0 = Trigger Obtained - Arena Level 10
+Bit1 = Trigger Obtained - Arena Level 14
+Bit4 = Box of Persimmons - Arena Level 10
+Bit5 = Demonic Eye Blockers - Arena Level 14
+Bit6 = Trigger Obtained - Arena Level 16
+Bit7 = Trigger Obtained - Arena Level 18
+
+0xa4f6e6	
+Item Cubo Flag
+Bit2 = Cauldron - Arena Level 16
+Bit3 = Imp's Belt - Arena Level 18
+
+0xa4f6e7	
+Item Cubo Flag
+Bit0 = Trigger Obtained - Arena Level 21
+Bit1 = Trigger Obtained - Arena Level 24
+Bit2 = Shockwave-2nd Strike - Arena Level 21
+Bit6 = Crab Omelet - Arena Level 21
+
+0xa4f6e8	
+Item Cubo Flag
+Bit1 = Shark's Fin - Arena Level 24
+Bit2 = Trigger Obtained - Arena Level 25
+Bit3 = Trigger Obtained - Arena Level 28
+Bit4 = Maleficient Garments - Arena Level 28
+Bit5 = Babylonian Coin - Arena Level 25
+Bit6 = Staff of Fortitude - Arena Level 25
+
+0xa4f6e9	
+Item Cubo Flag
+Bit3 = Spiny Lobster - Arena Level 28
+Bit4 = Trigger Obtained - Arena Level 30
+Bit5 = Trigger Obtained - Arena Level 32
+Bit6 = Schockwave-3rd Strike - Arena Level 30
+Bit7 = Seer's Crystal Ball - Arena Level 32
+
+0xa4f6ea	
+Item Cubo Flag
+Bit0 = Student Council Badge - Arena Level 30
+Bit3 = Spring Roll - Arena Level 32
+Bit5 = Kofta Kebab - Arena Level 32
+Bit6 = Trigger Obtained - Arena Level 33
+Bit7 = Trigger Obtained - Arena Level 35
+
+0xa4f6eb	
+Item Cubo Flag
+Bit1 = Teacher's Emblem - Arena Level 35
+Bit4 = Tiger Thermos - Arena Level 35
+Bit7 = Staff of Rebuke - Arena Level 35
+
+0xa4f6ec	
+Event Flag - Temporary Address
+Bit0 = Enemy Program - After Item Cube
+Bit1 = Item Cube Tutorial
+
+Last Arena - 8 week
+Bit0 = First Event
+Bit0 = Second Event
+Bit0 = Third Event
+Bit5 = Servant Dialogue
+
+0xa4f6ee	
+Event Flag
+Bit4 = Rin on Phone outside Arena - 5 week
+Bit4 = Rin on Phone outside Arena - 5 week
+Bit4 = Rin on Phone outside Arena - 5 week
+Bit4 = Rin on Phone outside Arena - 5 week
+
+0xa4f6ef	
+Event Flag
+Bit0 = Rin on Phone outside Arena - 5 week
+Bit1 = Substance - Arena Level 25 - 5 week
+Bit2 = Substance - Arena Level 25 - 5 week
+Bit3 = Substance - Arena Level 25 - 5 week
+Bit4 = Substance - Arena Level 25 - 5 week
+Bit5 = Substance - Arena Level 25 - 5 week
+Bit6 = Substance - Arena Level 25 - 5 week
+Bit7 = Rin on Phone outside Arena - 5 week
+
+0xa4f6f0	
+Event Flag
+Bit0 = Rin on Phone outside Arena - 5 week
+
+0xa4f6f2	
+Event Flag
+Bit2 = Finished Attack Target - Arena Level 24
+Bit5 = Julius - Arena Level 28
+Bit6 = Julius - Arena Level 28
+Bit7 = Julius - Arena Level 28
+
+0xa4f6f3	
+Event Flag
+Bit0 = Julius - Arena Level 28
+
+0xa4f6f4	
+Item Cubo Flag - Temporary Address
+Bit5 = Ether Shard - Mundo das almas?
+
+0xa4f6f8	
+Event Flag
+Bit2 = Game Event Effects
+
+0xa4f6fd	
+Item Cubo Flag
+Bit6 = Ether Shard - Arena Level 04 - Same as 0x00a4f6fd
+
+0xa4f6ff	
+Item Cubo Flag
+Bit2 = 300PPT - Arena Level 04 - Same as 0x00a4f6a3
+
+0xa4f701	
+Item Cubo Flag
+Bit5 = Return Crystal - Arena Level 08
+
+0xa4f702	
+Item Cubo Flag
+Bit0 = 1000PPT - Arena Level 08
+Bit1 = Pirate Booty - Arena Level 08 (Mini Game)
+Bit2 = Pirate Booty - Arena Level 08 (Mini Game) NG+
+Bit4 = Pirate Booty - Arena Level 08 (Mini Game)
+Bit5 = Pirate Booty - Arena Level 08 (Mini Game)
+
+0xa4f705	
+Item Cubo Flag
+Bit3 = Remedy - Arena Level 10
+
+0xa4f708	
+Item Cubo Flag
+Bit4 = 2000 PPT - Arena Level 14
+Bit6 = Ether Shard - Arena Level 14
+
+0xa4f70a	
+Item Cubo Flag
+Bit3 = Ether Fragment - Arena Level 14
+
+0xa4f70c	
+Item Cubo Flag
+Bit7 = Return Crystal - Arena Level 16
+
+0xa4f70d	
+Item Cubo Flag
+Bit3 = Pure Ether - Arena Level 16
+Bit6 = Remedy - Arena Level 16
+
+0xa4f70e	
+Item Cubo Flag
+Bit6 = Magic Crystal Shard - Arena Level 16
+Bit7 = Ether Fragment - Arena Level 16
+
+0xa4f70f	
+Bit0 = 5000 PPT - Arena Level 16
+
+0xa4f710	
+Item Cubo Flag
+Bit6 = Magic Crystal Shard - Arena Level 18
+Bit7 = Return Crystal - Arena Level 18
+
+0xa4f711	
+Item Cubo Flag
+Bit0 = Magic Crystal Shard - Arena Level 18
+Bit5 = Ether Fragment - Arena Level 18
+
+0xa4f713	
+Item Cubo Flag
+Bit0 = 5000 PPT - Arena Level 18
+
+0xa4f714	
+Item Cubo Flag
+Bit4 = Ether Fragment - Arena Level 21
+
+0xa4f716	
+Item Cubo Flag
+Bit4 = Magic Crystal Fragment - Arena Level 21
+
+0xa4f718	
+Item Cubo Flag
+Bit6 = Return Crystal - Arena Level 24
+
+0xa4f719	
+Item Cubo Flag
+Bit1 = 6000 PPT - Arena Level 24
+
+0xa4f71a	
+Item Cubo Flag
+Bit3 = Ether Fragment - Arena Level 24
+Bit7 = Pure Ether - Arena Level 24
+
+0xa4f71b	
+Item Cubo Flag
+Bit6 = 7000 PPT - Arena Level 24
+Bit7 = 6000 PPT - Arena Level 24
+
+0xa4f71c	
+Item Cubo Flag
+Bit0 = Ether Crystal - Arena Level 24
+Bit5 = Ether Crystal - Arena Level 25
+Bit6 = Magic Crystal Sphere - Arena Level 25
+
+0xa4f71e	
+Item Cubo Flag
+Bit1 = Magic Crystal Fragment - Arena Level 25
+
+0xa4f71f	
+Item Cubo Flag
+Bit1 = 7000 PPT - Arena Level 25
+
+0xa4f721	
+Item Cubo Flag
+Bit1 = Pure Ether - Arena Level 28
+Bit7 = Elixir - Arena Level 28
+
+0xa4f723	
+Item Cubo Flag
+Bit2 = 8000 PPT - Arena Level 28
+Bit3 = Return Crystal - Arena Level 28
+Bit4 = Ether Crystal - Arena Level 28
+
+0xa4f725	
+Item Cubo Flag
+Bit1 = 10000 PPT - Arena Level 30
+
+0xa4f726	
+Item Cubo Flag
+Bit1 = Return Crystal - Arena Level 30
+Bit3 = 10000 PPT - Arena Level 30
+
+0xa4f727	
+Item Cubo Flag
+Bit3 = Elixir - Arena Level 30
+Bit5 = Magic Crystal Sphere - Arena Level 30
+Bit6 = Ether Crystal - Arena Level 30
+
+0xa4f728	
+Item Cubo Flag
+Bit6 = Ether Crystal - Arena Level 32
+
+0xa4f729	
+Item Cubo Flag
+Bit0 = Magic Crystal Sphere - Arena Level 32
+
+0xa4f72b	
+Item Cubo Flag
+Bit7 = Pure Ether - Arena Level 32
+
+0xa4f72c	
+Item Cubo Flag
+Bit4 = Elixir - Arena Level 33
+
+0xa4f72f	
+Item Cubo Flag
+Bit2 = Magic Crystal Sphere - Arena Level 33
+Bit3 = Ether Crystal - Arena Level 33
+
+0xa4f730	
+Item Cubo Flag
+Bit6 = Magic Crystal Sphere - Arena Level 35
+
+0xa4f731	
+Item Cubo Flag
+Bit0 = 20000 PPT - Arena Level 35
+Bit1 = Elixir - Arena Level 35
+
+0xa4f732	
+Item Cubo Flag
+Bit2 = Pure Ether - Arena Level 35
+
+0xa4f775	
+Event Flag?
+Bit5 = Servant's Room after beat Archer
+Bit7 = Meet with Rin on Rooftop - 3 week
+
+0xa4f776	
+Event Flag
+Bit2 = Cutscene, Alice Game - School Building 1F
+
+0xa4f777	
+Event Flag
+Bit0 = Meet with Alice on School Building 2F - 3 week
+Bit4 = Meet with Alice on School Building 2F - 3 week
+Bit7 = Meet with Rin on Rooftop - 3 week
+
+0xa4f778	
+Event Flag
+Bit0 = Meet with Rani on School Building 3F - 3 week
+Bit2 = Meet with Alice on School Building 1F - 3 week
+Bit3 = After the second mini game with alice and you returned to classroom 2-A - 3 week
+Bit6 = Meet with Alice on library - 3 week (same as 0x00a4f77c)
+
+0xa4f779	
+Event Flag
+Bit6 = Talked with Touko Aozaki - 3 week
+
+0xa4f77a	
+Event Flag
+Bit6 = Returned to Classroom - 3 week - 1 remaining evening
+
+0xa4f77c	
+Event Flag
+Bit1 = Rin on the rooftop - 3 week - "You firmly wrote your name no your hand"
+Bit2 = Meet with Alice on library - 3 week
+Bit3 = Finished the cutscene with Rin on the rooftop - 3 week
+Bit4 = Finished event with Touko and Alice on Chapel - 3 week
+Bit5 = Mirror on the Boys' Bathroom
+Bit7 = Meet with Alice and Caster - 3 week, 1 remaining evening
+
+0xa4f77d	
+Event Flag
+Bit3 = Rani Cutscene - Vorpal Blade - 3 week
+Bit4 = Rani Cutscene - Received Vorpal Blade - 3 week
+
+0xa4f77e	
+Event Flag
+Bit0 = Returned to Classroom 2-A - 3 week
+Bit1 = Meet with Rin on School Building 1F - 3 week
+Bit2 = Meet with Servant on Classroom 2-A - 3 week
+Bit3 = Meet with both Alices on Garden - 3 week
+Bit4 = Meet with Rin on School Building 1F - 3 week
+Bit5 = Ruby Event Starts - 3 week
+Bit6 = Requested - Received Sakura's Lunch Ver. 0 - Nurse's Office
+Bit7 = Received Ruby
+
+0xa4f77f	
+Event Flag
+Bit0 = Received Malachite from Rin
+Bit2 = Talked with Rani after the second mini game with Alice
+
+0xa4f782	
+Event Flag
+Bit1 = Next Combatants - Phone - 4 week start here - Rin Route
+Bit4 = Next Combatants - Phone - 4 week start here - Rani Route
+Bit5 = Cutscene with Rani on Nurse's Office - 4 week - Rani Route
+Bit6 = Cutscene with Rin - Nurse's Office - 4 week
+
+0xa4f783	
+Event Flag
+Bit7 = Rani - School Building 3F - 4 week (same as 0x00a4f78b)
+
+0xa4f784	
+Event Flag
+Bit1 = Rin - Nurse's Office - 4 week (same as 0x00a4f789)
+Bit5 = Cutscene in Classroom 2-A - 4 week
+Bit6 = Cutscene in Classroom 2-A - 4 week
+
+0xa4f786	
+Event Flag
+Bit4 = Cutscene - Classroom 2-A - 4 week
+
+0xa4f788	
+Event Flag
+Bit3 = Rin and Servant - Classroom 2-A - 5 week
+
+0xa4f789	
+Event Flag
+Bit5 = Rin - Nurse's Office - 4 week
+Bit6 = Rin - Nurse's Office - 4 week (same as 0x00a4f78b)
+Bit7 = Rin - Nurse's Office - 4 week (same as 0x00a4f78a)
+
+0xa4f78a	
+Event Flag
+Bit0 = Rin - Cutscene in Nurse's Office - after get trigger
+Bit2 = Cutscene after leave arena level 21 for the first time
+Bit3 = Second cutscene in classroom 2-A
+Bit4 = Rin - Nurse's Office - 4 week
+Bit5 = Rin - Cutscene in Nurse's Office - after get trigger (same as bit0)
+Bit7 = Kotomine - Week 4 - School Building 1F
+
+0xa4f78b	
+Event Flag
+Bit0 = Rin - Nurse's Office - 4 week - 1 remaining evening
+Bit1 = Rin - Nurse's Office - 4 week
+Bit4 = Rani - School Building 3F - 4 week
+Bit5 = School Building 1F - Cutscene - 4 week
+Bit7 = Leo - Library - 4 week - 1 remaining evening
+
+0xa4f78f	
+Event Flag
+Bit1 = Rin - Nurse's Office - 5 week
+
+0xa4f790	
+Event Flag
+Bit0 = Cutscene - School Building 2F - 5 week
+Bit2 = Cutscene - Rooftop - 5 week
+
+0xa4f791	
+Event Flag
+Bit0 = Leo in Library
+Bit5 = Phone - Cutscene - Classroom 2-A - 5 week
+
+0xa4f794	
+Event Flag
+Bit3 = Cutscene in Classroom 2A - 5 Week
+
+0xa4f796	
+Event Flag
+Bit5 = Servant - 5 Week
+Bit6 = Rin - Servant Room - 5 week
+Bit7 = Rin - Servant Room - 5 week
+
+0xa4f797	
+Event Flag
+Bit0 = Rin on Nurse's Office
+Bit1 = Easter Egg - Rin/Rani on Nurse Office :)
+Bit3 = Rin on Rooftop - 5 week
+Bit6 = Rin and Servant - Classroom 2-A - 5 week
+
+0xa4f798	
+Event Flag
+Bit2 = Cutscene (rin) rooftop - 5 week
+Bit3 = Cutscene (rin) School Building 1F - 5 week
+
+0xa4f79c	
+Event Flag
+Bit6 = Leo - Library - 6 week
+Bit7 = Phone - School Building 1F - 6 week
+
+0xa4f79d	
+Event Flag
+Bit0 = Lapel Badge - Garden - 6 week
+Bit1 = Text Cutsecne - Classroom 2-A - 6 week
+Bit3 = Rin - Rooftop - 6 week
+Bit4 = Servant - School Building 1F - 6 week
+Bit6 = Cutscene - Classroom 2-A - 6 week
+
+0xa4f79e	
+Event Flag
+Bit0 = Rin, Rani and you on classroom 2-A - 6 week
+Bit2 = Rin on Rooftop - 6 week
+Bit3 = Cutscene - School Building 1F - 6 week
+Bit6 = Cutscene - Received Scarlet Formal Wear from Rin - 6 week
+
+0xa4f79f	
+Event Flag
+Bit0 = Rin on Rooftop - 6 week
+Bit2 = Rin on Rooftop - 6 week
+
+0xa4f7a0	
+Event Flag
+Bit0 = Rin, Rani and you on classroom 2-A ,2nd event - 6 week
+Bit5 = Cutscene - Nurse's Office - Rin 6 week
+
+0xa4f7a1	
+Event Flag
+Bit3 = Cutscene - Classroom 2-A - 6 week
+Bit4 = Cutscene - Rin on School Comissary - 6 week
+Bit5 = Rin, Rani and you on classroom 2-A, 3rd event - 6 week
+Bit6 = Text Event - Classroom 2-A - 6 week
+
+0xa4f7a2	
+Event Flag
+Bit0 = Text Event - Classroom 2-A - 6 week
+
+0xa4f7a7	
+Event Flag
+Bit6 = Cutscene - Classroom 2-A - Servant - 7 week starts
+
+0xa4f7a8	
+Event Flag
+Bit1 = Cutscene - Kotomine in School Building 2F - 7 week
+Bit3 = Cutscene - Servant in School Building 1F - 7 week
+Bit4 = Cutscene - Servant in School Building 1F - 7 week
+Bit6 = Rin on Rooftop - 7 week
+Bit7 = Kotomine - Classroom 2-A - 7 week
+
+0xa4f7a9	
+Event Flag
+Bit1 = Rin on Rooftop - Diferent Spot Cutscene - 7 week
+Bit6 = Rin and Leo - School Building 2F - 7 week
+
+0xa4f7aa	
+Event Flag
+Bit5 = Servant - Classroom 2-A - 7 week
+Bit6 = Leo - School Building 1F - 7 week
+
+0xa4f7ab	
+Event Flag
+Bit0 = Cutscene - Classroom 2-A - 7 week
+Bit2,3 = Rin on Rooftop - 7 week
+Bit4 = Cutscene School Building 3F - Multimedia Room - 7 week
+Bit5,7 = Rin on Rooftop - 7 week
+Bit6 = Rin on School Building 3F - 7 week (Multimedia Room Event)
+
+0xa4f7ac	
+Event Flag
+Bit0 = Leo - School Building 1F - 7 week
+Bit3 = Rin - Rooftop - 7 week
+
+0xa4f7b1	
+Event Flag
+Bit1 = Servant - School Building 1F - 7 week
+
+0xa4f7b4	
+Event Flag
+Bit1 = Classroom 2-A - 8 week
+Bit2 = Kotomine - School Building 1F - 8 week
+
+0xa4f7b6	
+Event Flag
+Bit4 = Switch - Arena Level 08
+Bit5 = Switch - Arena Level 08
+
+0xa4f7b7	
+Event Flag
+Bit6 = Switch - Arena Level 10
+Bit7 = Switch - Arena Level 10
+
+0xa4f7b8	
+Event Flag
+Bit0 = Switch - Arena Level 10
+
+0xa4f7b9	
+Event Flag
+Bit0 = Switch - Arena Level 14
+
+0xa4f7bb	
+Event Flag
+Bit4 = Switch - Arena Level 18
+
+0xa4f7c3	
+Event Flag
+Bit0 = Switch - Arena Level 32
+
+0xa4f7ca	
+Event Flag
+Bit4 = Switch - Arena Level 08 (same as 0x00a4f7b6)
+Bit5 = Switch - Arena Level 08 (same as 0x00a4f7b6)
+
+0xa4f7cb	
+Event Flag
+Bit6 = Switch - Arena Level 10 - Same as 0x00a4f7b7
+Bit7 = Switch - Arena Level 10 - Same as 0x00a4f7b7
+
+0xa4f7cc	
+Event Flag
+Bit0 = Switch - Arena Level 10 - Same as 0x00a4f7b8
+
+0xa4f7cd	
+Event Flag
+Bit0 = Switch - Arena Level 14 - Same as 0x00a4f7b9
+
+0xa4f7cf	
+Event Flag
+Bit4 = Switch - Arena Level 18 - Same as 0x00a4f7bb
+
+0xa4f7d7	
+Event Flag
+Bit0 = Switch - Arena Level 32 (same as 0x00a4f7c3)
+
+0xa4f7d8	
+Event Flag
+Bit2 = Door Unlocked - Arena Level 33
+Bit3 = Door Unlocked - Arena Level 33
+Bit4 = Door Unlocked - Arena Level 33
+Bit5 = Door Unlocked - Arena Level 33
+Bit6 = Door Unlocked - Arena Level 33
+Bit7 = Door Unlocked - Arena Level 33
+
+0xa4f7d9	
+Event Flag
+Bit0 = Door Unlocked - Arena Level 33
+
+0xa4f7dd	
+Event Flag
+Bit3 = Save option after talked with Archer - 1 week
+
+0xa4f7de	
+Event Flag
+Bit6 = Talked with Archer - 1 week
+
+0xa4f7df	
+Event Flag
+Bit0 = Talked with Archer - Classroom 2-B - 2 week
+Bit0 = Talked with Archer - Classroom 2-B - 3 week
+Bit5 = Talked with Servant - Classroom 2-B
+
+0xa4f7e0	
+Event Flag
+Bit2 = Speak with Servant - 6 week
+Bit5 = Speak with Servant - 7 week
+
+0xa4f7e1	
+Event Flag
+Bit1 = Found Issei and his Servant on Arena Level 04
+
+0xa4f7e8	
+Event Flag
+Bit6 = Defeated Gatou in Arena Level 21 - Passage Opened - Hard Fight
+
+0xa4f7ec	
+Event Flag
+Bit0 = Found Julius - Arena Level 25
+
+0xa4f7ed	
+Event Flag
+Bit5 = Cutscene in arena level 30
+Bit6 = Cutscene in arena level 30
+Bit7 = Cutscene in arena level 30
+
+0xa4f7ee	
+Event Flag
+Bit1 = Cutscene in arena level 30 (unlocking door cutscene)
+Bit1 = Cutscene in arena level 30
+Bit2 = Cutscene in arena level 30
+Bit3 = Cutscene in arena level 30
+Bit7 = Cutscene in arena level 32
+
+0xa4f7ef	
+Event Flag
+Bit0 = Cutscene with switch - Arena Level 32
+Bit5 = Phone - Arena Level 32
+Bit6 = Moby Dick defeated - Arena Level 32
+
+0xa4f7f0	
+Event Flag
+Bit1 = Arena Level 33 Starts
+Bit2 = Dark Distortion 4 - Arena Level 33
+Bit3 = Found Julius - Arena Level 33
+Bit4 = Cutscene - Arena Level 33
+Bit5 = Dark Distortion 1 - Arena Level 33
+Bit6 = Dark Distortion 2 - Arena Level 33
+Bit7 = Dark Distortion 3 - Arena Level 33
+
+0xa4f7f1	
+Event Flag
+Bit0 = Starting Events in Arena Level 33
+Bit1 = Starting Events in Arena Level 33
+Bit2 = Found Obsidian Feather in Arena Level 33
+Bit3 = Starting Events in Arena Level 35
+Bit4 = Found Leo in Arena Level 35
+Bit5 = Found Leo in Arena Level 35
+Bit6 = Battle vs Leo end in Arena Level 35
+Bit7 = Starting Events in Arena Level 33
+
+0xa4f9c4	
+Event Flag
+0e = Partner Saber
+0f = Partner Archer
+10 = Partner Caster
+
+0xa4f9c8	
+Events?
+Bit0,1 = reached on deposit
+
+0xa4f9d0	
+Event Flag
+Bit0,1 = Master Emblem
+
+0xa4f9d4	
+Event Flag
+Bit0 = Started the Game
+
+0xa4fa04	
+Attack Target - Arena Level 24
+
+0xa4fa0c	
+Nephilim Counter
+
+0xa4fa24	
+Item Cubo Flag
+Bit0 = Ether Shard - Mundo das almas?
+
+0xa4fa28	
+Steps done on another world 32 bits
+
+0xa4fa30	
+PPT - Clone
+
+0xa4ffc0	
+Weeks?
+
+0xa4ffc4	
+Weeks?
+
+0xa5de14	
+Player Control
+00 = Has Control
+01 = No Control
+
+0xbe74dc	
+Related to text 32 bits
+
+0x165e4c8	
+Enemy HP 16 bits Pointer
