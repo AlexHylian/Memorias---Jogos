@@ -1,0 +1,750 @@
+0x363b48	
+Opening Flag
+00 = No
+01 = Yes
+
+0x363b4c	
+Opening Status
+00 = Menu
+01 = Starting
+02 = Opening
+03 = Finishing the Opening
+
+0x369dc8	
+Screen ID? 32 bits
+
+0x369e04	
+Screen ID? 32 bits
+
+0x369e38	
+Screen ID? 32 bits
+
+0x37539c	
+Screen ID? 32 bits
+35f = Mission Failed
+e1 = Mission Clear
+e23 = in game
+4fe = Character Select
+612 = Mission Select
+6cd = Option
+868 = Title Screen
+88c = Result Screen
+959 = Urahara Gallery
+eae = Urahara Menu
+
+0x3753b8	
+Screen ID? 32 bits
+
+0x4b00ac	
+Tutorial Lesson Number
+
+0x4d03a1	
+Cheat Flag
+Bit1 = Hard Mode
+Bit2 = Maximum Reiatsu
+
+0x4d03a4	
+Static Pointer will works with Map ID 32 bits
+6d1e40 = EP1 - Map 1
+6d1400 = EP1 - Map 2
+6d14c0 = EP1 - Map 3
+6dd440 = EP2 - Map 1
+6d9040 = EP2 - Map 2
+6d2780 = EP2 - Map 3
+6d8580 = EP3 - Map 1
+6d1e00 = EP3 - Map 2
+6d09c0 = EP3 - Map 3
+6dd5c0 = EP4 - Map 1
+
+0x4d03b0	
+Enemy Counter 32 bits
+
+0x4d03b4	
+Stage IGT 32 bits
+
+0x4d03c8	
+Max Combo 32 bits
+
+0x4d03cc	
+Damage Taken 32 bits
+
+0x4d03d0	
+butterflies 32 bits
+
+0x4d03d4	
+Stage Points 32 bits
+
+0x4df928	
+Timer 32 bits - Mission 21, 25
+
+0x4df938	
+Timer 32 bits - Mission 10
+
+0x4df99c	
+In Game Flag?
+00 = Yes
+01 = No
+
+0x4df9a0	
+Menus?
+
+0x4dfb30	
+Game Mode
+00 = New Game
+01 = Load Game
+02 = Option
+03 = Urahara Gallery
+
+0x4dfbbc	
+Episode
+00 = None
+01 = Episode 01
+02 = Episode 02
+03 = Episode 03
+04 = Episode 04
+05 = Episode 05
+06 = Episode 06
+07 = Episode 07
+08 = Episode 08
+09 = Episode 09
+0a = Episode 10
+0b = Episode 11
+0c = Episode 12
+0d = Episode 13
+0e = Episode 14
+0f = Episode 15
+10 = Episode 16
+11 = Episode 17
+12 = Episode 18
+13 = Episode 19
+14 = Episode 20
+15 = Episode 21
+16 = Episode 22
+17 = Episode 23
+18 = Episode 24
+19 = Episode 25
+1a = Episode 26
+1b = Episode 27
+1c = Episode 28
+1d = Episode 29
+1e = Episode 30
+1f = Episode 31
+
+0x4dfbc8	
+Game State
+00 = In Game
+01 = Result Screen
+
+0x4e253c	
+Character ID
+00 = Rukia
+01 = Orihime
+02 = Ichigo
+03 = Chad
+04 = Uryu
+05 = Renji
+06 = Byakuya
+07 = Toushiro
+08 = Rangiku
+09 = Gin
+0a = Izuru
+0b = Yoruichi
+0c = Kisuke
+FF = No Char
+
+0x4e2540	
+Character ID P2
+00 = Rukia
+01 = Orihime
+02 = Ichigo
+03 = Chad
+04 = Uryu
+05 = Renji
+06 = Byakuya
+07 = Toushiro
+08 = Rangiku
+09 = Gin
+0a = Izuru
+0b = Yoruichi
+0c = Kisuke
+FF = No Char
+
+0x4e2720	
+Static Pointer - Items on stage - Negative address 32 bits
+6e6300 = Life Recovery - Episode 1 - Map 1
+6e75c0 = Life Recovery - Episode 1 - Map 2
+6eb7c0 = Life Recovery - Episode 1 - Map 3
+6e1640 = Attack - Episode 2 - Map 1
+6d3540 = Life Recovery - Episode 2 - Map 2
+6d7b80 = Life Recobery - Episode 2 - Map 3
+6d33c0 = Life Recobery - Episode 2 - Map 3/2
+6d9b80 = Defense - Episode 3 - Map 1
+6dabc0 = Life Recovery - Episode 3 - Map 2
+6d84c0 = Life Recovery - Episode 3 - Map 3
+6deec0 = Life Recovery - Episode 4 - Map 1
+6d3900 = Life Recovery - Episode 4 - Map 2
+6d5a40 = Life Recovery - Episode 4 - Map 3
+6d2dc0 = Attack - Episode 4 - Map 4
+6cf2c0 = Life Recovery - Episode 4 - Map 5
+6e1500 = Life Recovery - Episode 5 - Map 1
+6e37c0 = Defense - Episode 6 - Map 1
+6e6180 = Life Recovery - Episode 6 - Map 2
+6e4980 = Combination - Episode 6 - Map 3
+6e3b00 = Life Recovery - Episode 6 - Map 4
+6e20c0 = Attack - Episode 7 - Map 1
+6f0000 = Defense - Episode 7 - Map 2
+6e6200 = Life Recovery - Episode 7 - Map 3
+6e6140 = Life Recovery - Episode 7 - Map 4
+6e1400 = Life Recovery - Episode 8 - Map 1
+6de3c0 = Combination - Episode 9 - Map 1
+6d8a80 = Life Recovery - Episode 9 - Map 2
+6d9780 = Life Recovery - Episode 10 - Map 1
+6da800 = Attack - Episode 10 - Map 2
+6e2140 = Life Recovery - Episode 11 - Map 1
+6de000 = Life Recovery - Episode 12 - Map 1
+6d2b40 = Life Recovery - Episode 12 - Map 2
+6d2c00 = Life Recovery - Episode 12 - Map 3
+6d2200 = Life Recovery - Episode 12 - Map 4
+6e12c0 = Life Recovery - Episode 13 - Map 1
+6e3200 = Life Recovery - Episode 14 - Map 1
+6e8a80 = Attack - Episode 14 - Map 2
+6e3480 = Defense - Episode 15 - Map 1
+6e37c0 = Defense - Episode 15 - Map 2
+6e3640 = Combination - Episode 15 - Map 3
+6ddb40 = Life Recovery - Episode 16 - Map 1
+6e0500 = Life Recovery - Episode 16 - Map 2
+6e3b00 = Attack - Episode 16 - Map 3
+6e03c0 = Attack - Episode 16 - Map 4
+6e0500 = Life Recovery - Episode 16 - Map 5
+6e1b40 = Life Recovery - Episode 17 - Map 1
+6dea80 = Life Recovery - Episode 18 - Map 1
+6d34c0 = Life Recovery - Episode 18 - Map 2
+6d3400 = Combination - Episode 18 - Map 3
+6d85c0 = Life Recovery - Episode 18 - Map 4
+6e46c0 = Life Recovery - Episode 19 - Map 1
+6e21c0 = Life Recovery - Episode 20 - Map 1
+6d71c0 = Collection - Episode 21 - Map 1
+6e36c0 = Collection - Episode 21 - Map 2
+6d7a00 = Life Recovery - Episode 21 - Map 2 - Back to 1
+6e6280 = Collection - Episode 21 - Map 3
+6e9400 = Collection - Episode 21 - Map 4
+6e1c00 = Life Recovery - Episode 21 - Map Final (boss)
+6d33c0 = Life Recovery - Episode 22 - Map 1
+6dd800 = Life Recovery - Episode 23 - Map 1
+6ea9c0 = Life Recovery - Episode 23 - Map 2
+6df340 = Life Recovery - Episode 23 - Map 2
+6e73c0 = Life Recovery - Episode 24 - Map 1
+6e2ac0 = Life Recovery - Episode 25 - Map 1
+6dc180 = Life Recovery - Episode 25 - Map 2
+6dc000 = Life Recovery - Episode 25 - Map 3
+6df8c0 = Life Recovery - Episode 26 - Map 1
+6d5700 = Life Recovery - Episode 26 - Map 2
+6de8c0 = Life Recovery - Episode 26 - Map 3
+6cf280 = Life Recovery - Episode 26 - Map 4
+6e38c0 = Life Recovery - Episode 27 - Map 1
+6e3100 = Life Recovery - Episode 27 - Map 2
+6e14c0 = Life Recovery - Episode 27 - Map 3
+6d8240 = Life Recovery - Episode 28 - Map 1
+6e2800 = Life Recovery - Episode 28 - Map 2
+6e2100 = Life Recovery - Episode 29 - Map 1
+6e3500 = Attack - Episode 30 - Map 1
+6d7b40 = Life Recovery - Episode 30 - Map 2
+6e37c0 = Life Recovery - Episode 30 - Map 3
+6e1c80 = Life Recovery - Episode 31 - Map 1
+
+0x4e2724	
+Static Pointer - Items on stage - Negative address 32 bits
+6e7740 = Defense - Episode 1 - Map 2
+6eb7c0 = Attack - Episode 1 - Map 3
+6e17c0 = Combination - Episode 2 - Map 1
+6d36c0 = Life Recovery - Episode 2 - Map 2
+6d7d00 = Combination - Episode 2 - Map 3
+6d3540 = Defense - Episode 2 - Map 3/2
+6d9d00 = Life Recovery - Episode 3 - Map 1
+6d8640 = Attack - Episode 3 - Map 3
+6dc980 = Attack - Episode 3 - Map 3
+6df040 = Defense - Episode 4 - Map 1
+6d5bc0 = Life Recovery - Episode 4 - Map 3
+6cf440 = Life Recovery - Episode 4 - Map 5
+6e3f80 = Life Recovery - Episode 5 - Map 1
+6e4b00 = Attack - Episode 6 - Map 3
+6e3c80 = Attack - Episode 6 - Map 4
+6e2240 = Life Recovery - Episode 7 - Map 1
+6f0180 = Life Recovery - Episode 7 - Map 2
+6e6380 = Life Recovery - Episode 7 - Map 3
+6e62c0 = Attack - Episode 7 - Map 4
+6de540 = Life Recovery - Episode 9 - Map 1
+6d8c00 = Defense - Episode 9 - Map 2
+6da980 = Life Recovery - Episode 10 - Map 2
+6d2d80 = Defense - Episode 12 - Map 3
+6d2380 = Life Recovery - Episode 12 - Map 4
+6e8c00 = Life Recovery - Episode 14 - Map 2
+6e37c0 = Attack - Episode 15 - Map 3
+6ddcc0 = Life Recovery - Episode 16 - Map 1
+6e0540 = Life Recovery - Episode 16 - Map 4
+6e0680 = Defense - Episode 16 - Map 5
+6d8740 = Life Recovery - Episode 18 - Map 4
+6e4840 = Life Recovery - Episode 19 - Map 1
+6e2340 = Defense - Episode 20 - Map 1
+6d7340 = Collection - Episode 21 - Map 1
+6e3840 = Collection - Episode 21 - Map 2
+6e3000 = Life Recovery - Episode 21 - Map 2 - Back to 1
+6e9600 = Collection - Episode 21 - Map 3
+6ea280 = Collection - Episode 21 - Map 4
+6e1d80 = Life Recovery - Episode 21 - Map Final (boss)
+6e2400 = Life Recovery - Episode 22 - Map 1
+6dd980 = Combination - Episode 23 - Map 1
+6e3b00 = Combination - Episode 25 - Map 2
+6e3bc0 = Attack - Episode 25 - Map 3
+6e3280 = Combination - Episode 27 - Map 2
+6e1640 = Defense - Episode 27 - Map 3
+6e4c80 = Life Recovery - Episode 28 - Map 2
+6e2280 = Combination - Episode 29 - Map 1
+6db380 = Defense - Episode 30 - Map 2
+6e46c0 = Attack - Episode 30 - Map 3
+
+0x4e2728	
+Static Pointer - Items on stage - Negative address 32 bits
+6e24c0 = Combination - Episode 20 - Map 1
+6d74c0 = Life Recovery - Episode 21 - Map 1
+6e6400 = Collection - Episode 21 - Map 2
+6e9780 = Life Recovery - Episode 21 - Map 3
+6ea400 = Collection - Episode 21 - Map 4
+
+0x4e272c	
+Static Pointer - Items on stage - Negative address 32 bits
+6d7640 = Life Recovery - Episode 21 - Map 1
+6e6580 = Life Recovery - Episode 21 - Map 2
+6ea580 = Collection - Episode 21 - Map 4
+
+0x4e2730	
+Static Pointer - Items on stage - Negative address 32 bits
+6e6700 = Life Recovery - Episode 21 - Map 2
+6ea700 = Life Recovery - Episode 21 - Map 4
+
+0x4e2798	
+Static Pointer - Items on stage - Negative address 32 bits
+6e6480 = Butterfly - Episode 1 - Map 1
+6e75c0 = Butterfly - Episode 1 - Map 2
+6e1940 = Butterfly - Episode 2 - Map 1
+6d7e80 = Butterfly - Episode 2 - Map 3
+6d36c0 = Butterfly - Episode 2 - Map 3/2
+6d9e80 = Butterfly - Episode 3 - Map 1
+6db180 = Butterfly - Episode 3 - Map 2
+6d5d40 = Butterfly - Episode 4 - Map 3
+6d2f40 = Butterfly - Episode 4 - Map 4
+6cf5c0 = Butterfly - Episode 4 - Map 5
+6e1680 = Butterfly - Episode 5 - Map 1
+6e6300 = Butterfly - Episode 6 - Map 2
+6e4c80 = Butterfly - Episode 6 - Map 3
+6e23c0 = Butterfly - Episode 7 - Map 1
+6e23c0 = Butterfly - Episode 7 - Map 2
+6e6500 = Butterfly - Episode 7 - Map 3
+6e1580 = Butterfly - Episode 8 - Map 1
+6de6c0 = Butterfly - Episode 9 - Map 1
+6d8d80 = Butterfly - Episode 9 - Map 2
+6d9900 = Butterfly - Episode 10 - Map 1
+6dab00 = Butterfly - Episode 10 - Map 2 (has two more butterflies with two big hollows)
+6e22c0 = Butterfly - Episode 11 - Map 1
+6de180 = Butterfly - Episode 12 - Map 1
+6d2cc0 = Butterfly - Episode 12 - Map 2
+6d2f00 = Butterfly - Episode 12 - Map 3
+6e1440 = Butterfly - Episode 13 - Map 1
+6e3380 = Butterfly - Episode 14 - Map 1
+6e8d80 = Butterfly - Episode 14 - Map 2
+6e3600 = Butterfly - Episode 15 - Map 1
+6e7d00 = Butterfly - Episode 15 - Map 2 (has more 4 with enemies in map 3)
+6dde40 = Butterfly - Episode 16 - Map 1
+6e0680 = Butterfly - Episode 16 - Map 2
+6e3800 = Butterfly - Episode 16 - Map 5
+6e1cc0 = Butterfly - Episode 17 - Map 1 (has more 9 with kira)
+6dec00 = Butterfly - Episode 18 - Map 1
+6d3640 = Butterfly - Episode 18 - Map 2
+6d3580 = Butterfly - Episode 18 - Map 3 (has more 4 with ichimaru)
+6e49c0 = Butterfly - Episode 19 - Map 1
+6e2640 = Butterfly - Episode 20 - Map 1
+6d77c0 = Butterfly - Episode 21 - Map 1
+6e3180 = Butterfly - Episode 21 - Map 2 - Back to 1
+6e9900 = Butterfly - Episode 21 - Map 3
+6e1f00 = Butterfly - Episode 21 - Map Final (boss)
+6e2580 = Butterfly - Episode 22 - Map 1
+6eab40 = Butterfly - Episode 23 - Map 2
+6df4c0 = Butterfly - Episode 23 - Map 3
+6e7540 = Butterfly - Episode 24 - Map 1
+6e3c80 = Butterfly - Episode 25 - Map 2
+6e3d40 = Butterfly - Episode 25 - Map 3
+6dfa40 = Butterfly - Episode 26 - Map 1
+6d5880 = Butterfly - Episode 26 - Map 2
+6cf400 = Butterfly - Episode 26 - Map 4
+6e7800 = Butterfly - Episode 27 - Map 1
+6e3400 = Butterfly - Episode 27 - Map 2
+6e17c0 = Butterfly - Episode 27 - Map 3
+6d8240 = Butterfly - Episode 28 - Map 1
+6e4e00 = Butterfly - Episode 28 - Map 2
+6e2400 = Butterfly - Episode 29 - Map 1
+6e3680 = Butterfly - Episode 30 - Map 1
+6dcb00 = Butterfly - Episode 30 - Map 2
+6e4840 = Butterfly - Episode 30 - Map 3
+
+0x4e279c	
+Static Pointer - Items on stage - Negative address 32 bits
+6cf740 = Butterfly - Episode 4 - Map 5
+6de840 = Butterfly - Episode 9 - Map 1 (has another special butterfly with red boss enemy)
+6de300 = Butterfly - Episode 12 - Map 1
+6e3500 = Butterfly - Episode 14 - Map 1
+6ded80 = Butterfly - Episode 18 - Map 1
+6e4b40 = Butterfly - Episode 19 - Map 1
+6e2700 = Butterfly - Episode 22 - Map 1
+6dfbc0 = Butterfly - Episode 26 - Map 1
+6d5a00 = Butterfly - Episode 26 - Map 2
+6cf580 = Butterfly - Episode 26 - Map 4
+6e3580 = Butterfly - Episode 27 - Map 2
+6e49c0 = Butterfly - Episode 30 - Map 3
+
+0x4e51bc	
+Game Content - Memory Card Address
+Bit0 = Urahara Record
+
+0x4e51bd	
+Character Flag - Memory Card Address
+Bit6 = Byakuya
+Bit7 = Renji
+
+0x4e51be	
+Character Flag - Memory Card Address
+Bit0 = Hitsugaya
+Bit1 = Matsumoto
+Bit2 = Ichimaru
+Bit3 = Kira
+Bit4 = Yoruichi
+Bit5 = Urahara
+
+0x4e51c0	
+Episode Clear - Memory Card Address
+Bit0 = Episode 1 墓地~南地区
+Bit1 = Episode 2 墓地~本堂前
+Bit2 = Episode 3 サンモール空座
+Bit3 = Episode 4 空座本町住宅街
+Bit4 = Episode 5 繁華街ビル屋上
+Bit5 = Episode 6 空座本町住宅街
+Bit6 = Episode 7 南川瀬ミルキーウェイ
+Bit7 = Episode 8 ソウル・ソサエティ~流魂街
+
+0x4e51c1	
+Episode Clear - Memory Card Address
+Bit0 = Episode 9 墓地~本堂裏山
+Bit1 = Episode 10 サンモール空座
+Bit2 = Episode 11 ソウル・ソサエティ~厳罪
+Bit3 = Episode 12 空座第一高等学校~校門
+Bit4 = Episode 13 ソウル・ソサエティ~ 厳罪宮
+Bit5 = Episode 14 空座第一高等学校~屋上
+Bit6 = Episode 15 サンモール空座
+Bit7 = Episode 16 空座本町住宅街
+
+0x4e51c2	
+Episode Clear - Memory Card Address
+Bit0 = Episode 17 椿台墓地~広場
+Bit1 = Episode 18 空座第一高等学校~校門
+Bit2 = Episode 19 墓地~北地区
+Bit3 = Episode 20 ソウル・ソサエティ~流魂街
+Bit4 = Episode 21 墓地~本堂前
+Bit5 = Episode 22 桜橋公園~中央広場
+Bit6 = Episode 23 南川瀬ミルキーウェイ
+Bit7 = Episode 24 墓地~西地区
+
+0x4e51c3	
+Episode Clear - Memory Card Address
+Bit0 = Episode 25 墓地~南地区
+Bit1 = Episode 26 ウェコムンド
+Bit2 = Episode 27 学校屋上~繁華街
+Bit3 = Episode 28 サンモール空座
+Bit4 = Episode 29 ソウル・ソサエティ~ 職罪宮
+Bit5 = Episode 30 空座第一高等学校~校門
+Bit6 = Episode 31 空座第一高等学校~中庭
+
+0x4e51cc	
+Points 32 bits - Memory Card Address
+
+0x4e51d0	
+Total Time Spent 32 bits - Memory Card Address
+
+0x4e51d4	
+Number of Appearances 32 bits - Memory Card Address
+
+0x4e51d8	
+Number of Enemies Killed 32 bits - Memory Card Address
+
+0x4e51dc	
+Number of Special Moves 32 bits - Memory Card Address
+
+0x4e51e0	
+Number of Chain Combo Activations 32 bits - Memory Card Address
+
+0x4e51e4	
+Number of Combined Attacks 32 bits - Memory Card Address
+
+0x4e51e8	
+Number of Hell Butterflies Acquired 32 bits - Memory Card Address
+
+0x4e5270	
+Number of Retry - Clone
+
+0x4e5280	
+Mission 1 Points 32 bits
+
+0x4e5284	
+Mission 2 Points 32 bits
+
+0x4e5288	
+Mission 3 Points 32 bits
+
+0x4e528c	
+Mission 4 Points 32 bits
+
+0x4e5290	
+Mission 5 Points 32 bits
+
+0x4e5294	
+Mission 6 Points 32 bits
+
+0x4e5298	
+Mission 7 Points 32 bits
+
+0x4e529c	
+Mission 8 Points 32 bits
+
+0x4e52a0	
+Mission 9 Points 32 bits
+
+0x4e52a4	
+Mission 10 Points 32 bits
+
+0x4e52a8	
+Mission 11 Points 32 bits
+
+0x4e52ac	
+Mission 12 Points 32 bits
+
+0x4e52b0	
+Mission 13 Points 32 bits
+
+0x4e52b4	
+Mission 14 Points 32 bits
+
+0x4e52b8	
+Mission 15 Points 32 bits
+
+0x4e52bc	
+Mission 16 Points 32 bits
+
+0x4e52c0	
+Mission 17 Points 32 bits
+
+0x4e52c4	
+Mission 18 Points 32 bits
+
+0x4e52c8	
+Mission 19 Points 32 bits
+
+0x4e52cc	
+Mission 20 Points 32 bits
+
+0x4e52d0	
+Mission 21 Points 32 bits
+
+0x4e52d4	
+Mission 22 Points 32 bits
+
+0x4e52d8	
+Mission 23 Points 32 bits
+
+0x4e52dc	
+Mission 24 Points 32 bits
+
+0x4e52e0	
+Mission 25 Points 32 bits
+
+0x4e52e4	
+Mission 26 Points 32 bits
+
+0x4e52e8	
+Mission 27 Points 32 bits
+
+0x4e52ec	
+Mission 28 Points 32 bits
+
+0x4e52f0	
+Mission 29 Points 32 bits
+
+0x4e52f4	
+Mission 30 Points 32 bits
+
+0x4e52f8	
+Mission 31 Points 32 bits
+
+0x4e533b	
+Number of Retry - Memory Card Address
+
+0x4e53a4	
+Urahara Gallery - Kon Loading...
+Bit0 = No.01 ルキアの暗号文
+Bit1 = No.02 ベッドに隠れるコン
+Bit2 = No.03 リュックから出されるコン
+Bit3 = No.04 けだるい一護
+Bit4 = No.05 股間を押さえる一護
+Bit5 = No.06 半ギレのコンさん
+Bit6 = No.07 電柱にもたれかかるコン
+Bit7 = No.08 ソウルキャンディ勢ぞろい
+
+0x4e53a5	
+Urahara Gallery - Kon Loading...
+Bit0 = No.09 お弁当を食べる織姫
+Bit1 = No.10 机に突っ伏す織姫
+Bit2 = No.11 裁縫上手の石田
+Bit3 = No.12 お皿を拭く遊子
+Bit4 = No.13 びっくりする遊子
+Bit5 = No.14 素敵好衣装刀一心
+Bit6 = No.15 笛を選ぶ一
+Bit7 = No.16 喜助の後る姿
+
+0x4e53a6	
+Urahara Gallery - Kon Loading...
+Bit0 = No.17 ウルルのお掃除
+Bit1 = No.18 ケイゴと姉貴
+
+Urahara Gallery - Movies Maximum Tension
+Bit2 = No.01 黑崎一護&朽木儿牛卫
+Bit3 = No.02 井上織姫&茶渡泰虎
+Bit4 = No.03
+Bit5 = No.04
+Bit6 = No.05
+Bit7 = No.06
+
+0x4e53a7	
+Urahara Gallery - Movies Maximum Tension
+Bit0 = No.07
+Bit1 = No.08
+Bit2 = No.09
+Bit3 = No.10
+
+Urahara Gallery - Special
+Bit4 = No.05
+Bit5 = No.06
+Bit6 = No.01
+Bit7 = No.02
+
+0x4e53a8	
+Urahara Gallery - Special
+Bit0 = No.03
+
+Urahara Gallery - Event
+Bit1 = No.01
+Bit2 = No.02
+Bit3 = No.03
+Bit4 = No.04
+Bit5 = No.05
+Bit6 = No.06
+Bit7 = No.07
+
+0x4e53a9	
+Urahara Gallery - Event
+Bit0 = No.08
+Bit1 = No.09
+Bit2 = No.10
+Bit3 = No.11
+Bit4 = No.12
+Bit5 = No.13
+Bit6 = No.14
+Bit7 = No.15
+
+0x4e53aa	
+Urahara Gallery - Event
+Bit0 = No.16
+Bit1 = No.17
+Bit2 = No.18
+Bit3 = No.19
+Bit4 = No.20
+Bit5 = No.21
+Bit6 = No.22
+Bit7 = No.23
+
+0x4e53ab	
+Urahara Gallery - Event
+Bit0 = No.24
+Bit1 = No.25
+Bit2 = No.26
+Bit3 = No.27
+Bit4 = No.28
+Bit5 = No.29
+Bit6 = No.30
+Bit7 = No.31
+
+0x4e53ac	
+Urahara Gallery - Event
+Bit0 = No.32
+Bit1 = No.33
+Bit2 = No.34
+Bit3 = No.35
+Bit4 = No.36
+Bit5 = No.37
+Bit6 = No.38
+Bit7 = No.39
+
+0x4e53ad	
+Urahara Gallery - Event
+Bit0 = No.40
+Bit1 = No.41
+Bit2 = No.42
+Bit3 = No.43
+Bit4 = No.44
+Bit5 = No.45
+Bit6 = No.46
+Bit7 = No.47
+
+0x6c9134	
+Hollows Count - Mission 10
+
+0x6c9148	
+Collection Count - Mission 21
+
+0x6c961c	
+Episode?
+
+0x6ce09c	
+Player Pointer
++404 = P1 Health
++40c = Player Reiatsu
++E84 = P2 Health
+
+0x6ce244	
+Cursor ID - Title Screen
+
+0x6ce248	
+Cursor ID - Sub Menu
+
+0x6ce254	
+Cursor ID - Sub Menu
+
+0x6cecec	
+Character Cursor - Only in Character Select
+
+0x6d0504	
+P1 Health 32 bits 2
+
+0x6d0f84	
+P2 Health 32 bits 2
+
+0x6d2344	
+P1 Health 32 bits
+
+0x6d234c	
+Reiatsu 32 bits
+
+0x6d2dc4	
+P2 Health 32 bits
+
+0x6d2dcc	
+Reiatsu sprite 32 bits
+
+0x6d7fc8	
+Points in result screen 32 bits
