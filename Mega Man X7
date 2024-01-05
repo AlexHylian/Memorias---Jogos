@@ -1,0 +1,660 @@
+0x4637a0	
+Lives
+
+0x4637a4	
+Pointer? - General Game Data (bitflags, timers)
+
+0x4e6050	
+Inputs only d-pad
+Bit0 = D-Select
+Bit1 = D-L3
+Bit2 = D-R3
+Bit3 = D-Start
+Bit4 = D-Up
+Bit5 = D-Right
+Bit6 = D-Down
+Bit7 = D-Left
+
+0x4e6051	
+Inputs
+Bit0 = L2
+Bit1 = R2
+Bit2 = L1
+Bit3 = R1
+Bit4 = Triangle
+Bit5 = Circle
+Bit6 = X
+Bit7 = Square
+
+0x4e6052	
+Inputs Clone 4e6050
+
+0x4e6053	
+Inputs Clone 4e6051
+
+0x4e60a0	
+Inputs d-pad/analogic - Left
+Bit0 = D-Select
+Bit1 = D-L3
+Bit2 = D-R3
+Bit3 = D-Start
+Bit4 = D-Up
+Bit5 = D-Right
+Bit6 = D-Down
+Bit7 = D-Left
+
+0x4e60a2	
+Inputs Clone 4e60a0
+
+0x4e60ba	
+Inputs analogic - Right
+Bit4 = D-Up
+Bit5 = D-Right
+Bit6 = D-Down
+Bit7 = D-Left
+
+0x4e60bc	
+Inputs Clone 4e60ba
+
+0x4ec6b0	
+Current Character [1]
+0x00 = X
+0x01 = Zero
+0x02 = Axl
+
+0x4ec6d4	
+X Frames 16 bits
+
+0x4ec6d6	
+X damaged16 bits
+ffff = hit
+
+0x4ec720	
+Weapons Flag - Duplicated but works only in Stage
+
+0x4ec721	
+Weapons Flag - Duplicated but works only in Stage
+
+0x4ec72e	
+Max Energy
+
+0x4ec730	
+Max Energy
+
+0x4ec73c	
+Weapons
+12 = Gaea Shield
+
+0x4eceb5	
+Scene Transition?
+00 = No
+01 = Yes
+
+0x4ecf24	
+Max Health - X
+
+0x4ecf30	
+Max Energy - X
+
+0x4ed124	
+Zero Frames 16 bits
+
+0x4ed126	
+Zero damaged 16 bits
+ffff = hit
+
+0x4edb74	
+Axl Frames 16 bits
+
+0x4edb76	
+Axl damaged 16 bits
+ffff = hit
+
+0x4ee3e1	
+dialogue p save 1
+
+0x4ee4b0	
+Axl Transformed - Energy 16 bits
+Chibi Metall
+
+0x4ee5b0	
+Player State 16 bits - X
+3960 = Stopped
+4220 = Death
+3f80 = Victory Pose
+41c0 = Lying Down
+4280 = Preparing the Victory Pose
+44b0 = No Control
+
+0x4ee5b4	
+Player State 16 bits - Zero
+
+0x4ee5b8	
+Player State 16 bits - Axl
+3f20 = no char
+
+0x4ee5bd	
+Scene Transition?
+00 = No
+01 = Yes
+
+0x4ee5c0	
+Axl Transformations
+00 = Normal
+01 = Air Forces / Lava Factory
+02 = Cyber Field
+04 = Tunnel Base
+08 = Radio Tower
+10 = Deep Forest
+
+0x4f659a	
+Position Y 16 bits - 3d camera - Axl
+
+0x8e50d4	
+Axl Transformed Flag?
+
+0x8e5808	
+Position X 32 bits - 2d camera
+
+0x8e580a	
+Position X 16 Bits - 2d Camera
+
+0x8e59e2	
+Position X 16 Bits - 3d camera
+
+0x8e59e6	
+Position Y 16 Bits - 2d Camera
+
+0x8e59ea	
+Position Y 16 bits - 3d camera - Zero
+
+0xb0aa78	
+1st Character
+
+0xb0b4b4	
+1st Character [2]
+
+0xb0b4b8	
+2nd Character [2]
+
+0xe09638	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe09640	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe09648	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe09650	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe09658	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe09660	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe09668	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe09670	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe09678	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe09680	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe09688	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe09690	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe09698	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe096a0	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe096a8	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe096b0	
+Reploid Data only in stages, 01 = Rescued - 02 = Dead
+
+0xe098f4	
+Entity HP Sprite
+Sigma 1st Form
+
+0xe09930	
+Alia Dialogue Flag - Intro Stage - Act 2 - Parte 2
+00 = Unlocked
+01 = Alia Call You
+
+0xe09d20	
+Entity total Health bar
+Ride Boarski
+
+0xe09d24	
+Entity HP Sprite
+Ride Boarski
+Red
+Flame Hyenaro
+Snipe Anteator
+Wind Crowrang
+Sigma Final Form
+Scorpion Mechaniloid
+
+0xe09d28	
+Entity Level
+
+0xe09d2c	
+Boss HP Bar Display Flag [Bit7]
+
+0xe09d60	
+Alia Dialogue Flag - Intro Stage - Act 1
+00 = Unlocked
+01 = Alia Call You
+
+2 dialogue deep forest - save 1
+
+0xe09d61	
+Alia Dialogue Flag - Intro Stage
+00 = Unlocked
+01 = Alia Call You
+
+0xe09d62	
+Alia Dialogue Flag - Intro Stage
+00 = Unlocked
+01 = Alia Call You
+
+0xe09d63	
+Alia Dialogue Flag - Intro Stage
+00 = Unlocked
+01 = Alia Call You
+
+0xe0a154	
+Entity HP Sprite
+Splash Warfly
+
+0xe0a190	
+Alia Dialogue Flag - Intro Stage - Act 2 - Parte 1
+00 = Unlocked
+01 = Alia Call You
+
+0xe0a191	
+Alia Dialogue Flag - Intro Stage - Act 2
+00 = Unlocked
+01 = Alia Call You
+
+0xe0ade4	
+Entity HP Sprite
+Vanishing Gungaroo
+
+0xe0b680	
+teste alia dialogue - deep forest 8 bits
+01 = Dialogue
+00 = Unlocked
+
+0xe0bea0	
+Entity Total HP
+Splash Warfly
+
+0xe0bea4	
+Entity HP Sprite
+Splash Warfly
+Soldier Stonekong
+
+0xe0bea8	
+Entity Level
+
+0xe0c2d0	
+Entity Total Health bar
+Soldier Stonekong
+
+0xe0c2d4	
+Entity HP Sprite
+Soldier Stonekong
+
+0xe0c2d8	
+Entity Level
+
+0xe42f45	
+Main Menu State
+
+0x05 = Press Start Button
+0x07 = Navigating
+0x08 = Playing
+
+0xe42fb8	
+Main Menu Option Selected
+
+0x00 = Game Start
+0x01 = Continue
+0x02 = Options
+
+0xe43040	
+Game State?
+
+0x08 = Menu
+0x09 = Loading
+0x0b = Iinside Game
+0x0c = Loading (Inside Game)
+0x0e = Playing, Stage Start
+
+0xe43080	
+Game Screen
+
+0x07 = Main Menu
+0x0a = Load Game screen?
+0x0d = Playing
+
+0xe430d1	
+Stage ID
+00 = Intro Stage
+01 = Intro Stage
+02 = Lava Factory
+03 = Tunnel Base
+04 = Radio Tower
+05 = Battleship Field
+06 = Deep Forest
+07 = Air Forces
+08 = Cyber Field
+09 = Central Circuit
+0a = Palace Road
+0b = Crimson Palace
+0c = Crimson Palace
+0c e act 00 boss rush
+0d = Crimson Palace
+ff = Stage Select
+
+0xe430d2	
+Stage Acts
+
+0xe430d5	
+Checkpoints
+
+0xe430ea	
+Bosses defeated and events
+Bit0 = X obtained
+Bit1 = Intro Stage
+Bit2 = Lava Factory
+Bit3 = Tunnel Base
+Bit4 = Radio Tower
+Bit5 = BattleShip
+Bit6 = Deep Forest
+Bit7 = Air Forces
+
+0xe430eb	
+Bosses defeated and Events
+Bit0 = Cyber Field
+Bit1 = Central Circuit
+Bit2 = Palace Road
+Bit6 = Glide Armor obtained
+Bit7 = End Game (trigger after credits)
+
+0xe430ec	
+IGT Total Time 32 bits
+1c1f = 1:59:59
+
+0xe430f0	
+IGT Stage Time 32 bits
+
+0xe4313c	
+Reploid Data, 01 = Rescued - 02 = Dead [128 bytes]
+
+0xe431c0	
+Weapons Flag
+Bit0 = Intro Stage
+Bit1 = Circle Blaze
+Bit2 = Explosion
+Bit3 = Volt Tornado
+Bit4 = Splash Laser
+Bit5 = Gaea Shield
+Bit6 = Wind Cutter
+Bit7 = Sniper
+
+0xe431c1	
+Bit0 = Moving Wheel
+
+0xe431c2	
+Weapons Flag II
+Bit1 = Body Upgrade - Air Forces
+Bit2 = Boots Upgrade - Deep Forest
+
+0xe431c4	
+X Heart Bar
+
+0xe431c5	
+Zero Heart Bar
+
+0xe431c6	
+Axl Heart Bar
+
+0xe431c7	
+X Energy Bar
+
+0xe431c8	
+Zero Energy Bar
+
+0xe431c9	
+Axl Energy Bar
+
+0xe431ca	
+Heart Tanks and sub tanks
+Bit1 = Sub Tank Tunnel Base
+Bit2 = Sub Tank - Battleship
+Bit4 = Sub Tank - Deep Forest
+Bit5 = Heart Tank - Flame Hyenard
+Bit7 = Heart Tank - Tornado Tonion
+
+0xe431cb	
+Hearts?
+Bit0 = Battleship Field
+Bit1 = Deep Forest
+Bit2 = Air Forces
+Bit3 = Cyber Field
+Bit4 = Central Circuit
+Bit6 = Tunnel Base
+
+0xe431cc	
+Sub Tanks?
+Bit0 = Battleship stage
+
+0xe431cd	
+Item flag?
+Bit5 = Gold Orb in Air Force Stages
+
+0xe431e0	
+X Rank
+00 = D
+01 = C
+02 = B
+03 = A
+04 = SA
+05 = GA
+06 = PA
+07 = UH
+
+0xe431e1	
+Zero Rank
+00 = D
+01 = C
+02 = B
+03 = A
+04 = SA
+05 = GA
+06 = PA
+07 = UH
+
+0xe431e2	
+Axl Rank
+00 = D
+01 = C
+02 = B
+03 = A
+04 = SA
+05 = GA
+06 = PA
+07 = UH
+
+0xe43244	
+Char Select
+
+0xe43248	
+Characters - 1 Player
+01 = X Unarmored
+02 = Zero
+03 = Axl
+04 = X Glide Armor
+
+0xe444a4	
+Axl Transformed - Energy 16 bits
+reploid with air upgrade
+reploid with rocks
+
+0xe50d60	
+teste alia dialogue - deep forest 16 bits
+0101 = Dialogue
+0000 = Unlocked
+
+save 1
+
+0xe51314	
+Entity Frames
+00 = Normal
+01 = Frames
+
+0xe5131c	
+Player HP - Axl
+
+0xe51368	
+Entity 1 ID?
+
+0xe51394	
+Entity Frames
+00 = Normal
+01 = Frames
+
+0xe5139c	
+Player HP - Zero
+
+0xe51414	
+Entity Frames
+00 = Normal
+01 = Frames
+
+0xe5141c	
+Player HP
+X
+Ride Chaser
+enemy Ride Armor
+Snipe Anteator
+Red
+Wind Crowrang
+Sigma 1st form
+
+0xe51494	
+Entity Frames
+00 = Normal
+01 = Frames
+
+0xe5149c	
+Entity HP
+Tornado Tonion
+Ride Armor
+Red
+sv1
+
+0xe51514	
+Entity Frames
+00 = Normal
+01 = Frames
+
+0xe5151c	
+Entity HP
+Ride Boarski
+Splash Warfly
+Vanishing Gungaroo
+Sigma Final Form
+sv2
+
+0xe51594	
+Entity Frames
+00 = Normal
+01 = Frames
+
+0xe5159c	
+Entity HP
+Scorpion Mechaniloid
+
+0xe51614	
+Entity Frames
+00 = Normal
+01 = Frames
+
+0xe5161c	
+Entity HP
+Flame Hyenaro
+
+0xe51694	
+Entity Frames
+00 = Normal
+01 = Frames
+
+0xe5169c	
+Entity HP
+Flame Hyenaro
+Sigma Final Form
+
+0xe51714	
+Entity Frames
+00 = Normal
+01 = Frames
+
+0xe5171c	
+Entity HP
+
+0xe5189c	
+Entity HP
+Soldier Stonekong - Boss Rush
+
+0xe5191c	
+Entity HP
+Soldier Stonekong
+
+0xe51a9c	
+Entity HP
+Scorpion Mechaniloid Tail
+
+0xe51b1c	
+Entity HP
+Scorpion Mechaniloid Claws
+
+0xe698e4	
+Bombs remaining - race stage
+Enemy remaining - tunnel stage
+
+0xe69970	
+Timer until explosion - race stage 16 bits
+1554 = one frame before 1:31
+1555 = 1:31
+19c9 = one frame before 1:50 ends
+1c21 = one frame before 1:59 ends
+
+0xe6ed3c	
+test parts
+
+0x116c398	
+Game Level?
+00 = Normal
+01 = Hard
+
+0x1fe7da0	
+Current Character [2]
+0x00 = X
+0x01 = Zero
+0x02 = Axl
