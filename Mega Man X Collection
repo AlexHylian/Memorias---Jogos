@@ -1,0 +1,1796 @@
+0x4f049c	
+Gallery Mode
+Bit0 = Staff and Hint 1
+Bit1 = Hint 2
+Bit2 = Music 4 and Hint 3
+Bit3 = Music 3
+Bit4 = Music 1
+Bit5 = Images 1
+
+0x4f049e	
+Gallery Mode
+Bit0 = Images 8
+Bit1 = Images 7
+Bit2 = Music 2
+Bit3 = Music 7
+Bit4 = Images 6
+Bit5 = Music 5
+Bit7 = Music 8
+
+0x4f049f	
+Gallery Mode
+Bit0 = Images 5
+Bit1 = Images 2
+Bit2 = Images 4
+
+0x608a38	
+[MMXS] Game Flag
+00 = Main Menu
+01 = MMX1
+02 = MMX2
+03 = MMX3
+04 = MMX4
+05 = MMX5
+06 = MMX6
+07 = MMXBC
+
+0x70c541	
+[MMXBC] IGT 24 bits
+
+0x70c554	
+[MMXBC] Position Cup
+
+0x70c556	
+[MMXBC] Current Lap
+Finished lap is the same as total
+
+0x714589	
+[MMXBC] Character Playable
+00 = Mega Man
+01 = Roll
+02 = Protoman
+03 = Bass
+04 = Gutsman
+05 = Quickman
+06 = Iceman
+07 = Shadow Man
+08 = Napalmman
+09 = Springman
+0a = Dr. Willy
+
+0x72d2f0	
+[MMXBC] Maps
+00 = Street
+01 = Mountain
+02 = Crystal
+03 = Sunset
+04 = Toy Factory
+05 = South Pole
+06 = Ridge
+07 = Arms Factory
+08 = City
+09 = Base
+0a = Fortress
+0b = Space
+0c = Sky Circuit
+0d = Sky Circuit 2
+0e = Sky Circuit 3
+
+0x72d2f1	
+[MMXBC] Game Mode
+
+0x72d2f2	
+Related with timer 16 bits
+
+0x72dccd	
+[MMXBC] VS Mode Level
+00 = 01
+01 = 02
+02 = 03
+03 = 04
+
+0x72dcf6	
+[MMXBC] Secret Races Beated
+
+0x72dcfc	
+[MMXBC] Started Cups Flag
+
+0x72dcfd	
+[MMXBC] Started Cups Flag
+
+0x72dcfe	
+[MMXBC] Finished Cups Flag
+
+0x72dcff	
+[MMXBC] Finished Cups Flag
+
+0x72dd00	
+[MMXBC] Letter 1
+
+0x72dd01	
+[MMXBC] Letter 2
+
+0x72dd02	
+[MMXBC] Letter 3
+
+0x72dd03	
+[MMXBC] Letter 4
+
+0x72dd04	
+[MMXBC] Letter 5
+
+0x72dd05	
+[MMXBC] Letter 6
+
+0x72dd06	
+[MMXBC] Letter 7
+
+0x72dd07	
+[MMXBC] Letter 8
+
+0x72dd08	
+[MMXBC] Letter 9
+
+0x72dd09	
+[MMXBC] Letter 10
+
+0x72dd0a	
+[MMXBC] Letter 11
+
+0x72dd0b	
+[MMXBC] Letter 12
+
+0x72dd0c	
+[MMXBC] Letter 13
+
+0x72dd0d	
+[MMXBC] Letter 14
+
+0x72dd0e	
+[MMXBC] Letter 15
+
+0x72dd14	
+[MMXBC] Parts
+Mega Man Parts
+Bit0 = Body
+Bit1 = Engine
+Bit2 = Wing
+Bit3 = Tire
+
+0x72dd15	
+[MMXBC] Parts
+Roll Parts
+Bit0 = Body
+Bit1 = Engine
+Bit2 = Wing
+Bit3 = Tire
+
+0x72dd16	
+[MMXBC] Parts
+Protoman Parts
+Bit0 = Body
+Bit1 = Engine
+Bit2 = Wing
+Bit3 = Tire
+
+0x72dd17	
+[MMXBC] Parts
+Bass Parts
+Bit0 = Body
+Bit1 = Engine
+Bit2 = Wing
+Bit3 = Tire
+
+0x72dd18	
+[MMXBC] Parts
+Gutsman Parts
+Bit0 = Body
+Bit1 = Engine
+Bit2 = Wing
+Bit3 = Tire
+
+0x72dd19	
+[MMXBC] Parts
+Quickman Parts
+Bit0 = Body
+Bit1 = Engine
+Bit2 = Wing
+Bit3 = Tire
+
+0x72dd1a	
+[MMXBC] Parts
+Iceman Parts
+Bit0 = Body
+Bit1 = Engine
+Bit2 = Wing
+Bit3 = Tire
+
+0x72dd1b	
+[MMXBC] Parts
+Shadowman Parts
+Bit0 = Body
+Bit1 = Engine
+Bit2 = Wing
+Bit3 = Tire
+
+0x72dd1c	
+[MMXBC] Parts
+Napalmman Parts
+Bit0 = Body
+Bit1 = Engine
+Bit2 = Wing
+Bit3 = Tire
+
+0x72dd1d	
+[MMXBC] Parts
+Springman Parts
+Bit0 = Body
+Bit1 = Engine
+Bit2 = Wing
+Bit3 = Tire
+
+0x72dd1e	
+[MMXBC] Parts
+DR. Willy Parts
+Bit0 = Body
+Bit1 = Engine
+Bit2 = Wing
+Bit3 = Tire
+
+0x72dd1f	
+[MMXBC] Secret Parts
+Bit0 = Body
+Bit1 = Engine
+Bit2 = Wing
+Bit3 = Tire
+
+0x72dd80	
+[MMXBC] Inputs
+
+0x72dd81	
+[MMXBC] Inputs
+
+0x73aff0	
+[MMXBC] Chars Cups
+00 = Roll Pop'n Beat
+01 = Mega Man Rush Roadstar
+02 = Protoman Red Striker
+03 = Bass Treble Darkstar
+04 = Gutsman Wild Arms
+05 = Quickman Sonic Formula
+06 = Iceman Coll Mobile
+07 = Shadowman Shinobi Master
+08 = Napalmman Patriot Bomber
+09 = Springman Surprise Boxer
+
+0x73aff1	
+[MMXBC] Boards/Tracks
+00 = City
+01 = Street
+02 = Sunset
+03 = Base
+04 = Mountain
+06 = South Pole
+07 = Crystal
+08 = Arms Factory
+09 = Toy Factory
+0a = Fortress
+
+0x764c60	
+[MMX4] Related with Music ID
+50 = ? antes de sigma last battle
+38 = Sigma Last Battle
+70 - Stage - Frost Walrus
+78 = End Battle (Magma Dragoon)
+80 = Stage - Final Weapon 1
+88 = Boss Battle (Double)
+b8 = Stage - Magma Dragoon
+c8 = Boss Battle (Magma Dragoon)
+f8 = Stage - Frost Walrus 02
+
+0x7d6d98	
+[MMX5] Game Level
+
+0x80948c	
+[MMX5] can be used as music id?
+01 = Boss Victory
+04 = Crescent Grizzly Stage
+0e = Boss Battle
+
+0x820668	
+[MMX6] Game Level - Option Menu
+00 = Easy
+01 = Normal
+02 = Xtreme
+
+0x87eeac	
+[MMX3] Music ID
+00 = Zero Theme?
+0b = Blizzard Buffalo
+0e = Doppler Fight/ theme for bad ending
+0f = Doppler - Boss Rush Stage
+13 = Intro Stage
+15 = Boss Battle
+1a = Sigma last Stage
+1c = Boss Preparation
+
+0x87f960	
+[MMX3] Menus
+00 = New Game
+01 = Continue
+02 = Password
+
+0x87fb21	
+[MMX3] Effects
+00 = Normal
+01 = Destroyed
+
+0x87fb4d	
+[MMX3] Stage ID
+00 = Intro Stage
+01 = Blast Hornet
+02 = Blizzard Buffalo
+03 = Gravity Beetle
+04 = Toxic Seahorse
+05 = Volt Catfish
+06 = Crush Crawfish
+07 = Tunnel Rhino
+08 = Neon Tiger
+09 = Vile Factory
+10 = Weapon Demonstration
+0a = Doppler lvl 1
+0b = Doppler lvl 2 (Vile Defeated)
+0e = Doppler lvl 2 (Vile Alive)
+0c = Doppler lvl 3
+0d = Doppler lvl 4
+11 = Logo Animation in Title Screen
+
+0x87fb4e	
+[MMX3] Doppler Progress
+00 = None
+01 = Beat the First Stage
+02 = Beat the Second Stage
+03 = Beat the third Stage
+04 = End Game
+
+0x87fb51	
+[MMX3] Upgrades
+Bit7 = Saber
+
+0x87fb70	
+[MMX3] Upgrades and Sub-Tanks
+Bit0 = Helmet Upgrade
+Bit1 = Buster Upgrade
+Bit2 = Armor Upgrade
+Bit3 = Boots Upgrade
+Bit4 = Blizzard Buffalo Sub-Tanks
+Bit5 = Volt catfish Sub Tank
+Bit6 = Tunnel Rhino Sub-Tanks
+Bit7 = Neon Tiger Sub-Tanks
+
+0x87fb72	
+[MMX3] Intro Stage Finished?
+
+0x87fb73	
+[MMX3] Heart Tanks
+Bit0 = Blast Hornet
+Bit1 = Blizzard Buffalo
+Bit2 = Gravity Beetle
+Bit3 = Toxic Seahorse
+Bit4 = Volt Catfish
+Bit5 = Crush Crawfish
+Bit6 = Tunnel Rhino
+Bit7 = Neon Tiger
+
+0x87fb76	
+[MMX3] Modules and Chips
+Bit0 = Blast Hornet Stage [Chimera Armor]
+Bit1 = Toxic Seahorse Stage [Kangaroo Armor]
+Bit2 = Crush Crawfish Stage [Hawk Armor]
+Bit3 = Gravity Beetle Stage [Frog Armor]
+Bit4 = Blast Hornet [Helmet Chip Enhanced]
+Bit5 = Gravity Beetle [Buster Chip Enhanced]
+Bit6 = Toxic Seahorse [Boots Chip Enhanced]
+Bit7 = Crush Crawfish [Body Chip Enhanced]
+
+0x87fb77	
+[MMX3] Antagonist
+Bit0 = Bit is defeated.
+Bit1 = Bit is destroyed.
+Bit2 = Byte is defeated.
+Bit3 = Byte is destroyed.
+Bit4 = Vile destroyed in the factory level.
+Bit5 = Vile defeated but he retreats.
+
+0x87fb79	
+[MMX3] Boss Rush Flag
+Bit0 = Blast Hornet
+Bit1 = Blizzard Buffalo
+Bit2 = Toxic Seahorse
+Bit3 = Neon Tiger
+Bit4 = Volt Catfish
+Bit5 = Gravity Beetle
+Bit6 = Tunnel Rhino
+Bit7 = Crush Crawfish
+
+0x87fb81	
+[MMX3] Characters
+00 = X
+02 = Zero
+
+0x87fb82	
+[MMX3] Flag when you teleporting after beat the stage?
+
+0x880476	
+[MMX3] Player Animations
+06 = Death
+07 = Hit
+0c = Door Transition
+0e = Door Transition
+0f = No Control
+11 = Teleport
+2d = No Control
+2e = Saber
+33 = No Control
+34 = Dash Upward
+
+0x88047a	
+[MMX3] Position X 16 bits
+
+0x88047b	
+[MMX3] Position X 8 bits
+
+0x88047e	
+[MMX3] Position Y 16 bits
+
+0x88047f	
+[MMX3] Position Y 8 bits
+
+0x8804b6	
+[MMX3] Shoots on Screen
+
+0x880950	
+[MMX3] Last Shot ID
+00 = None / Yellow Buster
+01 = Green Buster
+02 = Sword
+03 = Pink Buster
+06 = Lemon Dash
+1d = Charged Max Buster
+
+0x881114	
+[MMX3] Entity State
+01 = Alive
+80 = Exploding for a moment
+
+0x881120	
+[MMX3 Entity ID
+0x27 = Sub Boss Neon Tiger
+0x30 = Sub Boss Tunnel Rhino
+0x31 = Vile's Elevator
+0x42 = Sub Boss Acid Seahorse
+0x46 = Bit
+0x47 = Byte
+0x48 = Dr. Doppler
+0x49 = Vile Armor
+0x4a = Volt Kurageil
+0x4f = Sub Boss Blast Hornet
+0x50 = Maoh the Giant
+0x51 = REX-2000
+0x52 = Blizzard Buffalo
+0x53 = Blast Hornet
+0x54 = Crush Crawfish - Use the Entity 3 in alt
+0x55 = Tunnel Rhino
+0x56 = Neon Tiger
+0x57 = Toxic Seahorse - Use the entity 4 in alt
+0x58 = Volt Catfish
+0x59 = Gravity Beetle - Use the Entity 2 in alt
+0x5a = Press Disposer
+0x5b = Mosquitus
+0x5d = Godkarmachine
+0x5e = Sigma 1st Form
+0x5f = Kaiser Sigma
+0x61 = Vile MK-II
+0x62 = Mac
+0x63 = Goliath Vile MK-II
+0x65 = Boss Rush Object for Storage
+
+0x881141	
+[MMX3] Entity HP
+
+0x881184	
+[MMX3] Entity State
+
+0x881190	
+[MMX3] Entity ID
+
+0x8811b1	
+[MMX3] Entity HP
+Bit
+
+0x8811f4	
+[MMX3] Entity State
+
+0x881200	
+[MMX3] Entity ID
+
+0x881221	
+[MMX3] Entity HP
+
+0x881264	
+[MMX3] Entity State
+
+0x881270	
+[MMX3] Entity ID
+
+0x881291	
+Entity HP
+
+0x98e40c	
+Ride Armor HP
+
+0x98f1d6	
+[MMX4] Rank Cyber Peacock stage
+00 = S
+01 = A
+02 = B
+
+0x994ce1	
+[MMX4] Entity ID
+00 = Eregion 1st act
+08 = Eregion
+12 = Eyezard - Frost Walrus sub boss
+21 = Tentoroid - Split Mushroom sub boss
+2b = Web Spider
+2d = DG-42L - Slash Beast sub boss
+36 = Slash Beast
+38 = Jet Stigray
+39 = Frost Walrus
+3c = Storm Owl
+3d = Split Mushroom
+3e = Magma Dragoon - enemy before magma dragoon at his stage
+40 = Cyber Peacock
+41 = Magman Dragon
+42 = Iris
+44 = Sigma and Ghost Sigma
+45 = Colonel - Memorial / Spaceport
+46 = Generaid Core - Storm Owl sub boss
+49 = Double
+4a = Sigma Last Battle
+4b = General
+
+0x994ce2	
+[MMX4] Entity Phrases
+00 = Sigma Ghost
+01 = Sigma 1st form
+
+0x994ce4	
+[MMX4] Entity State
+02 = Killed
+
+0x994d3c	
+[MMX4] Entity HP
+Ereigon - 1 and 2 of sky lagoon
+
+0x994d3d	
+[MMX4] Entity HP with red bar
+
+0x994d60	
+[MMX4] Platforms sub boss split mushroom
+starting in 7f, each platform destroyed remove 1 bit
+
+0x994d63	
+[MMX4] HP Sigma Trash
+
+0x994d71	
+[MMX4] Sigma on screen
+
+0x994d72	
+[MMX4] HP Sigma Laser
+
+0x994d7d	
+Entity ID
+
+0x994d80	
+Entity State
+02 = boss explosion
+
+0x994dd8	
+[MMX4] Entity HP
+Related with Iris
+Slash Beast
+
+0x994f51	
+[MMX4] Entity ID
+
+0x994f54	
+[MMX4] Entity State
+
+0x994fac	
+[MMX4] Entity HP
+
+0x994fad	
+[MMX4] Entity HP with red bar
+
+0x996cd4	
+[MMX4] Player Alive
+00 = No
+01 = Yes
+02 = Dying
+03 = Dying
+
+0x996cd5	
+[MMX4] Player Animations
+11 = Hit
+12 = Ride Armor
+13 = Door transition
+14 = No Control
+19 = Victory Pose?
+
+0x996cda	
+[MMX4] Position X 16 bits
+
+0x996cdb	
+[MMX4] Position X 8 bits
+
+0x996cde	
+[MMX4] Position Y 16 bits
+
+0x996cdf	
+[MMX4] Position Y 8 bits
+
+0x996ce7	
+[MMX4] Player Animations too?
+02 = Teleporting
+03,04 = Parece ser interessante quando você termina o jogo
+05 = Stopped
+21 = Death
+23 = Hit
+5f = Zero skill spider
+61 = Zero skill gelo
+66 = Zero skill de fogo
+
+0x996d04	
+[MMX4] Player Animations 16 bits
+
+0x996d2c	
+[MMX4] Player HP
+
+0x996d2d	
+[MMX4] Player HP with red bar
+
+0x996d67	
+[MMX4] Last Shot ID
+00 = None / Lemon
+09 = Charge lvl 1
+12 = Charged Buster without upgrades
+13 = Charge Plasma
+14 = Ultimate Buster
+
+0x996d68	
+[MMX4] Shoots on screen
+
+0x996d69	
+effects on screen?
+some boss id
+
+0x996d6d	
+[MMX4] Time charging the buster
+
+0x996d77	
+[MMX4] Upgrades Flag
+Bit0 = Helmet
+Bit1 = Armor
+Bit2 = Buster
+Bit3 = Boots
+
+0x996d88	
+[MMX4] Buster Type Upgrade
+01 = Plasma Shot
+02 = Ultimate Buster
+
+0x996dcc	
+[MMX4] Stage ID
+0000 - Intro Stage
+0100 - Intro Stage 2
+0001 - Web Spider
+0101 - Web Spider 2
+0002 - Frost Walrus
+0102 - Frost Walrus 2
+0003 - Split Mushroom
+0103 - Split Mushroom 2
+0004 - Magma Dragoon
+0104 - Magma Dragoon 2
+0005 - Jet Stingray
+0105 - Jet Stingray 2
+0006 - Cyber Peacok
+0106 - Cyber Peacok 2
+0007 - Storm Owl
+0107 - Storm Owl 2
+0008 - Slash Beast
+0108 - Slash Beast 2
+0009 - Colonel First (with X)
+0208 - Colonel First (with Zero)
+000A - Colonel Second (Space Port)
+000B - Final Weapon 1-1
+010B - Final Weapon 1-2
+000C - Final Weapon 2-1
+010C - Final Weapon 2-2 (Next to sigma's room)
+000d - stage select
+010d - boss intro
+000e - char screen
+
+0x996ddc	
+[MMX4] Checkpoints only in transitions Cyber Peacock stage
+
+0x996ddd	
+[MMX4] Checkpoints Cyber Peacok stage
+00 = first
+06 = last checkpoint (all rank s) into transition to area 2
+
+0x996dee	
+[MMX4] Boss Rush Flag - Magma Dragoon
+
+0x996def	
+[MMX4] Boss Rush Flag - Cyber Peacock
+
+0x996df0	
+[MMX4] Boss Rush Flag - Split Mushroom
+
+0x996df1	
+[MMX4] Boss Rush Flag - Jet Stingray
+
+0x996df2	
+[MMX4] Boss Rush Flag - Storm Owl
+
+0x996df3	
+[MMX4] Boss Rush Flag - Web Spider
+
+0x996df4	
+[MMX4] Boss Rush Flag - Slash Beast
+
+0x996df5	
+[MMX4] Boss Rush Flag - Frost Walrus
+
+0x996df7	
+[MMX4] Cheats
+00 = No
+01 = Yes
+
+0x996e03	
+[MMX4] Character ID
+00 = X
+01 = Zero
+
+0x996e04	
+[MMX4] Lives
+
+0x996e06	
+[MMX4] Max Health Bar
+20 = Normal
+30 = Max - Full Hearts?
+
+0x996e1a	
+[MMX4] Hearts Clone
+Bit0 - Web Spider
+Bit1 - Frost Walrus
+Bit2 - Split Mushroom
+Bit3 - Magma Dragon
+Bit4 - Jet Stingray
+Bit5 - Cyber Peacock
+Bit6 - Storm Owl
+Bit7 - Slash Beast
+
+0x996e1b	
+[MMX4] Tanks Flag
+Bit4 = Sub Tank
+Bit5 = Sub Tank
+Bit6 = Weapon Tank
+Bit7 = Ex Tank
+
+0x996e40	
+[MMX4] Frames 32 bits
+
+0xb60845	
+[MMX6] Zero Skill Frames
+
+0xb61ba0	
+[MMX6] Entity ID 16 bits
+3141 = Commander Yammark
+3241 = Ground Scaravich
+3341 = Shield Sheldon
+3441 = Blaze Heatnix
+3541 = Awakened Zero
+3641 = Blizzard Wolfang
+3741 = High Max
+3841 = Metal Shark Player
+3941 = Rainy Turtloid
+3a41 = Infinity Mijinion
+3b41 = Gate
+3c41 = Nightmare Mother
+3d41 = Sigma 1st Form
+3e41 = Sigma 2nd Form
+3f41 = Dynamo
+
+0xb61ba4	
+[MMX6] Boss State
+
+0xb61bfc	
+[MMX6] Entity HP
+
+0xb61bfd	
+[MMX6] Entity HP with red bar
+
+0xb61dd0	
+[MMX6] Entity HP - Nightmare Mother 1
+
+0xb61e6c	
+[MMX6] Entity HP - Nightmare Mother 2
+
+0xb6225f	
+[MMX6] Entity Animations block?
+
+0xb63afa	
+[MMX6] Position X 16 bits
+
+0xb63afb	
+[MMX6] Position X 8 bits
+
+0xb63afe	
+[MMX6] Position Y 16 bits
+
+0xb63aff	
+[MMX6] Position Y 8 bits
+
+0xb63b07	
+[MMX6] Player State
+
+0xb63b24	
+[MMX6] Player Animations 16 bits
+
+0xb63b36	
+[MMX6] Player State Alternate 24 bits
+
+0xb63b4c	
+[MMX6] Player HP
+
+0xb63b4d	
+[MMX6] Player HP with red bar
+
+0xb63b87	
+[MMX6] Last Shoot ID
+00 = None / Lemon Buster
+01 = Yammar Option
+02 = Ice Burst
+03 = Magma Blade
+04 = Metal Anchor
+05 = Ground Dash
+06 = Meteor Rain
+07 = Guard Shell
+08 = Ray Arrow
+09 = Buster level 1
+12 = Buster level 2
+
+0xb63b88	
+[MMX6] Shoots on Screen
+X = Normal
+Zero = Some Weapons
+
+0xb63c54	
+[MMX6] Frames Transition?
+
+0xb63c5a	
+[MMX6] How many text left to end
+
+0xb63c5c	
+[MMX6] Stage ID
+00 = intro stage
+01 = Commander Yammark
+02 = Blizzard Wolfang
+03 = Blaze Heatnix
+04 = Metal Shark Player
+05 = Ground Scaravich
+06 = Rainy Turtloid
+07 = Shield Sheldon
+08 = Infinity Mijinion
+0b = FMV scenes
+0e = Title screen
+0d = Stage Select
+0f = Result Screen
+10 = Gate's Laboratory 1
+11 = Gate's Laboratory 2A
+12 = Gate's Laboratory 2B
+13 = Alternate Path - Commander Yammark / Blizzard Wolfang
+14 = Alternate Path - Metal Shark Player / Blaze Heatnix
+15 = Alternate Path - Rainy Turtloid / Ground Scaravich
+16 = Alternate Path - Shield Sheldon / Infinity Mijinion
+
+0xb63c5d	
+[MMX6] Act ID
+
+0xb63c5f	
+[MMX6] Stage Finished Flag - Triggers when you get the gem = 10
+
+0xb63c6d	
+[MMX6] FMVs ID
+02 = Zero rescued
+03 = Investigator report
+04 = High Max beaten
+06 = Gate Appear after beat High Max - X
+07 = Gate Appear after beating mavericks - zero
+08 = Gate Appear after beating nightmare mother - zero
+09 = Gate Defeated - Zero
+0a = X's ending without Zero
+0b = X's ending with Zero rescued
+0c = Zero's ending
+
+0xb63c88	
+[MMX6] Character Playable
+00 = X
+01 = Zero
+
+0xb63c89	
+[MMX6] Lives
+
+0xb63cae	
+[MMX6] Char ID - will work with 0xb63c88
+00 = Unarmored X
+01 = Falcon Armor
+02 = Shadow Armor
+03 = Blade Armor
+04 = Ultimate Armor
+05 = Zero
+
+0xb63caf	
+[MMX6] Unlocked Chars
+Bit0 = Falcon Armor
+Bit1 = Shadow Armor
+Bit2 = Blade Armor
+Bit3 = Ultimate Armor
+Bit4 = Zero
+Bit5 = Black Zero
+
+0xb63cb0	
+[MMX6] Boss Flag - Stages
+
+0xb63cb8	
+Real Diff? Save File
+00 = Easy
+01 = Normal
+02 = Xtreme
+
+0xb63cb9	
+[MMX6] Armors Parts
+
+0xb63cbb	
+[MMX6] Sub Tanks
+Bit4 = Sub Tank - Commander Yammark
+Bit5 = Sub Tank - Blaze Heatnix
+Bit6 = Weapon Tank - Shield Sheldon
+Bit7 = Ex Tank - Blizzard Wolfang
+
+0xb63cbc	
+[MMX6] Heart Tanks
+
+0xb63cc4	
+[MMX6] X Parts Equipped
+Bit0 =
+Bit1 =
+Bit2 =
+Bit3 = Jumper
+Bit4 =
+Bit5 =
+Bit6 =
+Bit7 =
+
+0xb63cc6	
+[MMX6] X Parts Equipped
+Bit0 =
+Bit1 =
+Bit2 = Rapid 5
+Bit3 = Ultimate Buster
+Bit4 = Quick Charge
+Bit5 = Weapon Plus
+Bit6 = Super Recover
+Bit7 = Buster Plus
+
+0xb63cc8	
+[MMX6] Zero Parts
+Bit0 =
+Bit1 =
+Bit2 = Speedster
+Bit3 = Jumper
+Bit4 = Hyper Dash
+Bit5 = Energy Saver
+Bit6 = Super Recover
+Bit7 = Buster Plus
+
+0xb63cc9	
+[MMX6] Zero Parts
+Bit0 = Speed Shot
+Bit1 = Shock Buffer
+Bit2 = D-Barrier
+Bit3 = D-Converter
+Bit4 = Hyperdrive
+Bit5 = Life Recover
+Bit6 = Weapon Drive
+Bit7 = Life Recover
+
+0xb63cca	
+[MMX6] Zero Parts
+Bit0 = Weapon Recover
+Bit1 =
+Bit2 =
+Bit3 =
+Bit4 =
+Bit5 =
+Bit6 = Saber Plus
+Bit7 = Saber Extend
+
+0xb63ccb	
+[MMX6] Zero Parts
+Bit0 = Shot Eraser
+Bit1 = Master Saber
+Bit2 =
+Bit3 =
+Bit4 =
+Bit5 =
+Bit6 =
+Bit7 =
+
+0xb63ce0	
+[MMX6] IGT - Stage 32 bits
+
+0xb63ce4	
+[MMX6] Mavericks Defeated 32 bits
+
+0xb63ce8	
+[MMX6] Damage Received 32 bits
+
+0xb63d1c	
+[MMX6] IGT - Total 32 bits
+
+0xb63d22	
+[MMX6] Nightmare Souls obtained 16 bits - X?
+
+0xb63d24	
+[MMX6] Souls obtained 32 bits
+
+0xb63d28	
+Reploid Data - Amazon Area 8 bytes
+
+0xb63d30	
+[MMX6] Reploid Data - North Pole Area 8 bytes
+
+0xb63d38	
+[MMX6] Reploid Data - Magma Area 8 bytes
+
+0xb63d40	
+[MMX6] Reploid Data - Recycle Lab 8 bytes
+
+0xb63d48	
+[MMX6] Reploid Data - Central Museum 8 bytes
+
+Bit1 = Obtained
+Bit2 = Infected
+Bit0,1 = Destroyed
+
+Bit5 = Obtained
+Bit6 = Infected
+Bit4,5 = Destroyed
+
+0xb63d50	
+[MMX6] Reploid Data - Inami Temple 8 bytes
+
+0xb63d58	
+[MMX6] Reploid Data - Laser Institute 8 bytes
+
+0xb63d60	
+[MMX6] Reploid Data - Weapon Center 8 bytes
+
+0xb63d68	
+[MMX6] Reploid Data Save Block Area 64 bytes
+
+0xb65240	
+[MMX6] Infinite Mijinion Bubbles
+
+0xb65248	
+[MMX6] Infinite Mijinion Clones
+
+0xb65b28	
+[MMX6] Infinite Mijinion Bubbles II
+
+0xb65b30	
+[MMX6] Infinite Mijinion Clones II
+
+0xc08161	
+[MMX5] Entity ID
+31 = Sigma Eurasia
+32 = Volt Kraken
+33 = Spike Rosered
+34 = Mattrex
+35 = Izzy Glow
+36 = Crescent Grizzly
+37 = Spiral Pegasus
+38 = Tidal Whale
+39 = Dark Necrobat
+3a = Shadow Devil
+3b = Dynamo
+3c = Rangda Bangda
+40 = Ultimate Armor
+41 = Zero without virus (other address)
+42 = Sigma 1st Form
+43 = Sigma Final Form
+
+0xc08164	
+[MMX5] Entity State
+02 = Boss Explosion
+
+0xc081bc	
+[MMX5] Entity HP
+
+0xc081bd	
+[MMX5] Entity HP with red bar
+
+0xc081fd	
+[MMX5] Entity ID
+
+0xc081fe	
+Entity Type Status
+
+0xc08200	
+[MMX5] Entity State
+
+0xc08258	
+[MMX5] Entity HP
+
+0xc08259	
+[MMX5] Entity HP with red bar
+
+0xc090f8	
+[MMX5] Izzy Glow parts?
+
+0xc0a10a	
+[MMX5] Position X 16 bits
+
+0xc0a10b	
+[MMX5] Position X 8 bits
+
+0xc0a10e	
+[MMX5] Position Y 16 bits
+
+0xc0a10f	
+[MMX5] Position Y 8 bits
+
+0xc0a117	
+[MMX5] Player Animations
+05 = Stand
+0a = Jump
+0b = Falling
+0e = Jumping on wall
+0f = Slide wall
+10 = Dash
+11 = Dashing
+12 = Air Dash
+13 = Dashing on Air
+14 = Finish the Air Dash
+23 = hit
+58 = Shooting
+
+0xc0a15c	
+[MMX5] Player HP
+
+0xc0a15d	
+[MMX5] Player HP with red bar
+
+0xc0a197	
+[MMX5] Last Shot ID
+00 = None / Lemon
+09 = Green Buster Charge
+12 = Normal charged Buster - Unarmored X
+13 = Normal charged Buster - Falcon Armor
+14 = Normal charged Buster - Ultimate Armor
+2d = Lemon Gaea Armor Shot
+2e = Charged Buster Gaea Armor
+
+0xc0a198	
+[MMX5] Shoots on screen
+
+0xc0a1fb	
+[MMX5] Virus Status
+00 = Normal
+08 = Normal (A little infected)
+10 = Caution
+18 = Danger
+
+0xc0a250	
+[MMX5] Stage IGT 16 bits
+
+0xc0a26c	
+[MMX5] Stage ID
+00 = Intro
+01 = Crescent Grizzly
+02 = Dark Necrobat
+03 = Tidal Whale
+04 = Burn Dinorex
+05 = Volt Kraken
+06 = Shining Firefly
+07 = Spike Rosered
+08 = Spiral Pegasus
+09 = Dynamo First
+0a = Dynamo Second
+0b = Cutscene
+0c = Sigma Virus Stage
+0d = Stage Select
+0e = Character Select
+0f = Mission Complete
+10 = Zero Virus Stage 1
+11 = Zero Virus Stage 2
+12 = Zero Virus Stage 3
+13 = ???
+14 = ???
+15 = ???
+16 = Traning Mode
+
+0xc0a27d	
+[MMX5] Cutscene ID
+0e = X defeats Awakened Zero, but Soul Body still hit X
+10 = Good Ending with X
+11 = Bad Ending with X
+12 = Zero Ending
+
+0xc0a28e	
+[MMX5] Boss Rush Flag 8 bytes
+
+0xc0a2a4	
+[MMX5] Character
+00 = Unarmored X
+01 = Zero
+
+0xc0a2a5	
+[MMX5] Lives
+
+0xc0a2a9	
+[MMX5] Character ID
+00 = Unarmored X
+01 = Fouth Armor
+02 = Falcon Armor
+03 = Gaea Armor
+04 = Ultimate Armor
+05 = Zero
+
+0xc0a2aa	
+[MMX5] Armors Obtained
+Bit0 = Fourth Armor
+Bit1 = Falcon Armor
+Bit2 = Gaea Armor
+Bit3 = Ultimate Armor
+Bit4 = Black Zero
+
+0xc0a2ac	
+[MMX5] Boss Stage Flag
+Bit0 = Crescent Grizzly
+
+0xc0a2d9	
+[MMX5] Enigma Events
+06 = Sigma Virus started
+09 = Sigma Rave started
+
+0xc0a2df	
+[MMX5] Tanks
+Bit4 = Sub Tank - Crescent Grizzly
+Bit6 = Weapon Tank - Spiral Pegasus
+Bit7 = Ex Tank - Shining Firefly
+
+0xc0a2e0	
+[MMX5] Heart Tanks
+Bit1 = Crescent Grizzly
+
+0xc0a2e1	
+[MMX5] Parts
+Bit4 = Life Up - Volt (Quick Charge)
+Bit7 = Life Up
+
+0xc0a2e3	
+[MMX5] Parts Obtained
+Bit0 = Energy Up
+
+0xc0a2e4	
+[MMX5] Parts obtained
+Bit3 = Jumper
+
+0xc0a2e5	
+[MMX5] Parts Obtained
+Bit5 = Quick Charge
+
+0xc0a2e8	
+[MMX5] Parts Equipped - X
+Bit3 = Jumper
+
+0xc0a2e9	
+[MMX5] Parts Equipped - X
+Bit5 = Quick Charge
+
+0xc0a2f1	
+[MMX5] Parts - Falcon
+
+0xc0a2f8	
+[MMX5] Parts - Ultimate Armor
+
+0xc0a2f9	
+[MMX5] Parts - Ultimate Armor
+
+0xc0a2fc	
+[MMX5] Parts Equipped - Zero
+Bit3 = Jumper
+
+0xc0a2fd	
+[MMX5] Parts - Zero
+
+0xc0a2fe	
+[MMX5] Parts - Zero
+
+0xc0a301	
+[MMX5] Character Parts Obtained
+Bit0 = Falcon Armor Helmet
+Bit1 = Falcon Armor Arm
+Bit2 = Falcon Armor Body
+Bit3 = Falcon Armor Leg
+Bit4 = Gaea Armor Helmet
+Bit5 = Gaea Armor Arms
+Bit6 = Gaea Armor Body
+Bit7 = Gaea Armor Legs
+
+0xc0a30b	
+[MMX5] Boss Type
+=> 8 = boss lvl 96
+3 = boss lvl 3
+other number = lvl 1
+
+0xc0a314	
+[MMX5] Mavericks Defeated
+
+0xc0a318	
+[MMX5] Damage Received
+
+0xc0a320	
+[MMX5] Boss Level
+
+0xc0a414	
+[MMX5] IGT 32 bits
+
+0xc0a421	
+[MMX5] Demo State?
+01 = Main Menu
+02 = In Game / Demo
+03 = Main Menu
+05 = Intro
+
+0xc0a424	
+[MMX5] Demo Frames to end
+
+0xc9e458	
+[MMX] Music ID - Clone
+
+0xc9e49c	
+[MMX] Music ID
+01 = Intro Stage
+02 = Sting Chameleon
+0e = Boss Battle
+10 = Stage Select
+11 = Boss Victory
+12 = Boss Apresentation
+13 = Sigma Fortress Preparation Battle
+14 = Boss Battle Sigma Fortress
+17 = Weapons got
+18 = Password
+19 = Sigma Stage Select
+1e = Boss Preparation
+
+0xde0b20	
+[MMX2] Music ID Clone
+
+0xde0b5c	
+[MMX2] Music ID
+03 = Wire Sponge
+0c = Stage Select
+08 = Magna Centipede
+10 = Zero Theme sigma final battle
+13 = Boss Victory
+15 = Boss Preparation Hunter Stage
+16 = Boss preparation
+17 = Weapons Got
+21 = Zero after you defeat him
+
+0xfe127c	
+[MMX2] Menus
+00 = New Game
+01 = Password
+02 = Options
+
+0xfe127d	
+[MMX] Menu
+00 = Start Game
+01 = Password
+02 = Opitons
+
+0xfe1c1a	
+[MMX2] X Animations
+0c = Death
+0e = Hit
+14 = Dashing
+1c = Door transition
+1e = unplayable
+22 = Teleport
+42 = Shoryuken
+
+0xfe1c3a	
+[MMX2] X Cordinates 16 bits
+
+0xfe1c3b	
+[MMX2] X Cordinates 8 bits
+
+0xfe1c3c	
+[MMX2] Y Cordinates 16 bits
+
+0xfe1c3d	
+[MMX2] Y Cordinates 8 bits
+
+0xfe1c3f	
+[MMX2] Player Health
+
+0xfe1c4d	
+[MMX2] Shoots on screen
+
+0xfe1dea	
+[MMX] Player State
+0c = Death
+0e = Hit
+18 = Teleport
+1a = Prepare to teleport
+1c = Door Transition
+1e = no control
+2e = Captured
+30 = Captured
+32 = Captured
+
+0xfe1e0a	
+[MMX] X Cordinates 16 bits
+
+0xfe1e0b	
+[MMX] X Cordinates 8 bits
+
+0xfe1e0c	
+[MMX] Y Cordinates 16 bits
+
+0xfe1e0d	
+[MMX] Y Cordinates 8 bits
+
+0xfe1e0f	
+[MMX] Player Health
+
+0xfe1e1d	
+[MMX] Shoots on screen
+
+0xfe1e75	
+[MMX] Hadouken
+
+0xfe1f58	
+[MMX2] Entity state
+00 = None
+01 = Alive
+80 = Exploding for a moment
+
+0xfe1f62	
+Entity ID
+1d = Crytal Snail
+1e = Bubble Crabby
+23 = Wire Sponge
+34 = Centpide
+35 = Overdrive Ostrich
+36 = Violen
+5a = Violen hunter stage
+38 = Flame Stag
+3b = Morph
+4b = Morph Second phrase go to alt with Entity ID 2
+45 = Well Gator
+68 = Zero
+
+0xfe1f7f	
+[MMX2] Entity HP
+
+0xfe1f98	
+Entity State
+
+0xfe1fa2	
+Entity ID
+
+0xfe1fbf	
+Entity HP
+
+0xfe1fe2	
+Entity ID
+56 serges
+
+0xfe1fff	
+[MMX2] Entity HP
+
+0xfe2022	
+Entity ID
+
+0xfe203f	
+Entity HP
+
+0xfe2062	
+Entity ID
+
+0xfe207f	
+Entity HP
+
+0xfe20a8	
+[MMX] Entity State
+00 = No
+01 = Alive
+ff = Boss Explosion
+
+0xfe20a9	
+Entity State Backup
+06 = Hadouken
+
+0xfe20b2	
+MMX Entity ID
+02 = Chill Penguin
+03 = Sub Boss Spark Mandrill
+05 = Boomer Kuwanger
+07 = Launch Octopus
+0a = Sting Chameleon
+0c = Flame Mammoth
+14 = Armored Armadillo
+26 = Velguarder
+31 = Spark Mandril
+52 = Storm Eagle
+5d = Rangda Bangda
+5e = Rangda Bangda Eye
+63 = BO Spider
+65 = Sigma 1st form
+69 = Vile (use Entity ID 3)
+
+0xfe20cf	
+[MMX] Entity HP 1
+
+0xfe20e2	
+[MMX2] Entity ID
+
+0xfe20e8	
+[MMX] Entity State
+00 = No
+01 = Alive
+ff = Boss Explosion
+
+0xfe20e9	
+Entity State Backup - 2
+06 = Hadouken
+
+0xfe20f2	
+MMX Entity ID 2
+Storm Eagle can appear here
+Sub Boss - Sting Chameleon
+Rangda Bangda Eye
+velguarder
+
+0xfe20ff	
+[MMX2] Entity HP
+
+0xfe210f	
+[MMX] Entity HP 2
+rangda bangda eye go to 80 after destroy with hadouken
+
+0xfe2128	
+[MMX] Entity State 3
+
+0xfe2129	
+Entity State Backup - 3
+06 = Hadouken
+
+0xfe2132	
+MMX Entity ID 3
+Vile
+Rangda Bangda Eye
+
+0xfe214f	
+[MMX] Entity HP 3
+rangda bangda eye go to 80 after destroy with hadouken
+
+0xfe2322	
+[MMX2] Last shot id
+00 = Pellet
+01 = Half Charge
+02 = I.Tracer
+03 = Full Charge
+04 = Shoryuken
+06 = Dash Lemmon
+07 = Crystal.H
+08 = Bubble.S
+0a = S.Wheel
+0b = S.Slicer
+0c = S.Chain
+0d = Magnet.M
+0e = S.Burner
+0f = G.Crush
+1b = Silk.S
+1d = Pink Charge Second Shot
+
+0xfe2472	
+[MMX] Last Shot ID
+00 = Normal / Yellow Buster
+01 = Charge Shot L1
+02 = Charge Shoit L3
+03 = Charge Shot L2
+04 = Hadouken
+06 = Lemon Dash
+07 = Homing Torpedo
+08 = Chameleon Sting
+09 = Rolling Shield
+0A = Fire W.
+0B = Storm Tornado
+0C = Electric Spark
+0D = Boomerang Cutter
+0E = Shotgun Ice
+10 = H. Torpedo Charged
+11 = C. Sting Charged
+12 = R. Shield Charged
+13 = Fire W. Charged
+14 = Storm T. Charged
+15 = E. Spark Charged
+16 = B. Cutter Charged
+17 = S. Ice Charged
+
+0xfe3199	
+[MMX2] can be used as phrases in raid killer
+
+0xfe31ba	
+[MMX] Stage ID
+00 = Highway Intro
+01 = Octopus
+02 = Chameleon
+03 = Armadillo
+04 = Mammoth
+05 = Eagle
+06 = Mandrill
+07 = Kuwanger
+08 = Penguin
+09 = Sigma 1
+0A = Sigma 2
+0B = Sigma 3
+0C = Sigma 4
+
+0xfe31bb	
+[MMX] Sigma's Fortress Progress
+
+0xfe31bd	
+[MMX] Checkpoints in MMX will never appear again
+Bit0 = Zero/Vile in Sigma Fortress I
+
+0xfe31be	
+[MMX] Upgrades and??
+Bit7 = Secret Technique
+
+0xfe31c0	
+[MMX] Lives
+
+0xfe31c3	
+[MMX] Sub Tank Value 1
+
+0xfe31c4	
+[MMX] Sub Tank Value 2
+
+0xfe31c5	
+[MMX] Sub Tank Value 3
+
+0xfe31c6	
+[MMX] Sub Tank Value 4
+
+0xfe31ce	
+[MMX] Flame Mammoth Ammo - Bit6 = Boss Flag
+
+0xfe31d0	
+[MMX] Storm Eagle Ammo - Bit6 = Boss Flag
+
+0xfe31d6	
+[MMX] Chill Penguin Ammo - Bit6 = Boss Flag
+
+0xfe31d9	
+[MMX] Upgrades and Sub Tanks
+Bit0 = Helmet
+Bit1 = Buster
+Bit2 = Body
+Bit3 = Leg
+Bit4 = Sub Tank Storm Eagle
+Bit5 = Sub Tank Armored Armadillo
+Bit6 = Sub Tank Spark Mandrill
+Bit7 = Sub Tank Flame Mammoth
+
+0xfe31da	
+[MMX] Total Health
+
+0xfe31dc	
+[MMX] Hearts
+Bit0 = Chill Penguin
+Bit1 = Armored Armadillo
+Bit2 = Storm Eagle
+Bit3 = Sting Chameleon
+Bit4 = Flame Mammoth
+Bit5 = Boomer Kuwanger
+Bit6 = Spark Mandrill
+Bit7 = Launch Octopus
+
+0xfe31ed	
+[MMX2] Stage ID
+00 = Reploid Factory
+01 = Robot Junkyard
+02 = Weather Control
+03 = Deep-Sea Base
+04 = Volcano Zone
+05 = Central Computer
+06 = Energen Crystal
+07 = Desert Base
+08 = Dinosaur Tank
+09 = Counter Hunter Base
+0a = Counter Hunter Base 2
+0b = Counter Hunter Base 3
+0c = Counter Hunter Base 4
+0d = Counter Hunter Base 5
+0e = Weapons Got
+
+0xfe31ee	
+[MMX2] Hunter Progress
+
+0xfe31f1	
+[MMX2] Upgrades
+Bit7 = Shoryuken
+
+0xfe31f6	
+[MMX2] Sub Tank Value 1
+
+0xfe31f7	
+[MMX2] Sub Tank Value 2
+
+0xfe31f8	
+[MMX2] Sub Tank Value 3
+
+0xfe31f9	
+[MMX2] Sub Tank Value 4
+
+0xfe3210	
+[MMX2] Sub tanks and upgrades
+Bit1 = Buster
+Bit3 = Leg
+Bit6 = Wire Sponge Sub Tank
+
+0xfe3212	
+[MMX2] Intro Stage finished?
+00 = No
+01 = Yes
+
+0xfe3213	
+[MMX2] Hearth tanks
+bit0 = morph
+bit1 = stag
+bit2 = ostrich
+bit3 = centipede
+bit4 = snail
+bit5 = gator
+bit6 = crab
+bit7 = sponge
+
+0xfe3216	
+[MMX2] Zero Leg
+Bit7 = Yes
+
+0xfe3217	
+[MMX2] Zero Head
+Bit7 = Yes
+
+0xfe3218	
+[MMX2] Zero Buster
+Bit7 = Yes
