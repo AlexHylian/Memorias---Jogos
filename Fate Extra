@@ -8,7 +8,7 @@ Gender 32 bits
 ff = Tutorial
 
 0xa42220	
-New Game Plus Flag? 32 bits
+New Game Plus Flag? 32 bits (Não tenho certeza)
 
 0xa42224	
 Message Speed 32 bits
