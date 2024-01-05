@@ -1,0 +1,958 @@
+0x268128	
+Score Screen?
+
+0x27dbe0	
+Game Mode
+00 = Story Mode
+01 = Mission Mode - Normal List
+02 = Customizing Battle
+03 = Training Mode
+04 = Demo
+05 = Mission Mode - Sword List
+06 = Title Screen ?
+
+0x27de8c	
+Specials?
+01e = Ichigo Normal
+01f = Byakuya Normal
+020 = Ichimaru Normal
+021 = Urahara Normal
+022 = Kenpachi Normal
+023 = Renji Normal
+024 = Yoruichi Normal
+025 = Soi Fon Normal
+026 = Komamura Normal
+027 = Tousen Normal
+028 = Rukia Normal
+029 = Hitsugaya Normal
+02a = Orihime Normal
+02b = Ishida Normal
+02c = Chad Normal but 100 hits
+02d = Kon Normal
+02e = Hinamori Normal
+02f = Hollow Ichigo Normal
+030 = Ururu Normal
+031 = Aizen Normal
+032 = Ikkaku Normal
+033 = Matsumoto Normal
+034 = Kurotsuchi Normal
+35e = Ichigo - Sword Hunting
+35f = Rukia - Sword Hunting
+360 = Orihime - Sword Hunting
+361 = Chad - Sword Hunting
+362 = Ishida - Sword Hunting
+363 = Urahara - Sword Hunting
+365 = Soi Fon - Sword Hunting
+366 = Ichimaru - Sword Hunting
+367 = Aizen - Sword Hunting
+364 = Yoruichi - Sword Hunting
+368 = Byakuya - Sword Hunting
+369 = Renji Sword Hunting
+36a = Komamura - Sword Hunting
+36b = Tousen - Sword Hunting
+36c = Hitsugaya - Sword Hunting
+36d = Matsumoto - Sword Hunting
+36e = Kenpachi - Sword Hunting
+36f = Kurotsuchi - Sword Hunting
+370 = Ikkaku - Sword Hunting
+371 = Kon - Sword Hunting
+372 = Hinamori - Sword Hunting
+373 = Ururu - Sword Hunting
+374 = Hollow Ichigo - Sword Hunting
+34a = Transition betewen char select and stage arena
+34e = Transition betewen char select and stage arena
+34f = Transition betewen char select and stage arena
+
+0x27e044	
+Background?
+
+0x2c56d4	
+Money in Shop 32 bits
+
+0x2c5b48	
+Rank Mission No.1
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5b54	
+Rank Mission No.2
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5b60	
+Rank Mission No.3
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5b6c	
+Rank Mission No.4
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5b78	
+Rank Mission No.5
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5b84	
+Rank Mission No.6
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5b90	
+Rank Mission No.7
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5b9c	
+Rank Mission No.8
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5ba8	
+Rank Mission No.9
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5bb4	
+Rank Mission No.10
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5bc0	
+Rank Mission No.11
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5bcc	
+Rank Mission No.12
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5bd8	
+Rank Mission No.13
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5be4	
+Rank Mission No.14
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5bf0	
+Rank Mission No.15
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5bfc	
+Rank Mission No.16
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5c08	
+Rank Mission No.17
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5c14	
+Rank Mission No.18
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5c20	
+Rank Mission No.19
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5c2c	
+Rank Mission No.20
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5c38	
+Rank Mission No.21
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5c44	
+Rank Mission No.22
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5c50	
+Rank Mission No.23
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5c5c	
+Rank Mission No.24
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5c68	
+Rank Mission No.25
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5c74	
+Rank Mission No.26
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5c80	
+Rank Mission No.27
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5c8c	
+Rank Mission No.28
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5c98	
+Rank Mission No.29
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5ca4	
+Rank Mission No.30
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5cb0	
+Rank Mission No.31
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5cbc	
+Rank Mission No.32
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5cc8	
+Rank Mission No.33
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5cd4	
+Rank Mission No.34
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5ce0	
+Rank Mission No.35
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5cec	
+Rank Mission No.36
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5cf8	
+Rank Mission No.37
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5d04	
+Rank Mission No.38
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5d10	
+Rank Mission No.39
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5d1c	
+Rank Mission No.40
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5d28	
+Rank Mission No.41
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5d34	
+Rank Mission No.42
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5d40	
+Rank Mission No.43
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5d4c	
+Rank Mission No.44
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5d58	
+Rank Mission No.45
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5d64	
+Rank Mission No.46
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5d70	
+Rank Mission No.47
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5d7c	
+Rank Mission No.48
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5d88	
+Rank Mission No.49
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5d94	
+Rank Mission No.50
+FF = Previous Battle is not started
+05 = S
+04 = A
+03 = B
+02 = C
+01 = D
+00 = No Rank
+
+0x2c5da6	
+Character Flag
+Bit2 = Ichigo
+Bit3 = Byakuya
+Bit4 = Ichimaru
+Bit5 = Kenpachi
+Bit6 = Tosen
+Bit7 = Renji
+
+0x2c5da7	
+Character Flag
+Bit0 = Urahara
+Bit1 = Komamura
+Bit2 = Yoruichi
+Bit3 = Soi Fon
+Bit4 = Ikkaku
+Bit5 = Kon
+Bit6 = Hitsugaya
+Bit7 = Rukia
+
+0x2c5da8	
+Character Flag
+Bit0 = Chad
+Bit1 = Orihime
+Bit2 = Ishida
+Bit3 = Aizen
+Bit4 = Kurotsuchi
+Bit5 = Matsumoto
+Bit6 = Ururu
+Bit7 = Hinamori
+
+0x2c5da9	
+Character Flag
+Bit0 = Hollow Ichigo
+
+0x2c5daa	
+Shop Bit Flag - Figures - Kon
+Bit0 = Ichigo
+Bit1 = Byakuya
+Bit2 = Ichimaru
+Bit3 = Kenpachi
+Bit4 = Tousen
+Bit5 = Renji
+Bit6 = Urahara
+Bit7 = Komamura
+
+0x2c5dab	
+Shop Bit Flag - Figures - Kon
+Bit0 = Yoruichi
+Bit1 = Soi Fon
+Bit2 = Ikkaku
+Bit3 = Kon
+Bit4 = Hitsugaya
+Bit5 = Rukia
+Bit6 = Chad
+Bit7 = Orihime
+
+0x2c5dac	
+Shop Bit Flag - Figures - Kon
+Bit0 = Ishida
+Bit1 = Aizen
+Bit2 = Kurotsuchi
+Bit3 = Matsumoto
+Bit4 = Ururu
+Bit5 = Hinamori
+Bit6 = Hollow Ichigo
+
+0x2c5db2	
+Figures Flag - 1
+Bit6 = Hollows
+Bit7 = Shinigamis
+
+0x2c5db3	
+Figures Flag - 1
+Bit0 = Rukia and Kon
+Bit1 = Soi Fon and Yoruichi
+Bit2 = Tousen, Komamura and Kenpachi
+Bit3 = Ichigo and Byakuya Bankai
+Bit4 = Komamura and Kurotsuchi Bankai
+Bit5 = Byakuya and Renji Bankai
+Bit6 = Hitsugaya and Aizen Bankai
+
+0x2c5db4	
+Story Mode - Mission Unlocked
+Bit0 = Episode 1
+Bit1 = Episode 2
+Bit2 = Episode 3
+Bit3 = Episode 4
+Bit4 = Episode 5
+
+0x2c5db5	
+Story Mode - Mission Finished
+Bit2 = Episode 1
+Bit3 = Episode 2
+Bit4 = Episode 3
+Bit5 = Episode 4
+Bit6 = Episode 5
+
+0x2c5db6	
+Missions List Unlocked
+Bit4 = 1
+Bit5 = 2
+Bit6 = 3
+Bit7 = 4
+
+0x2c5db7	
+Missions List Unlocked
+Bit0 = 5
+Bit1 = 6
+Bit2 = 7
+Bit3 = 8
+Bit4 = 9
+Bit5 = 10
+Bit6 = 11
+Bit7 = 12
+
+0x2c5db8	
+Missions List Unlocked
+Bit0 = 13
+Bit1 = 14
+Bit2 = 15
+Bit3 = 16
+Bit4 = 17
+Bit5 = 18
+Bit6 = 19
+Bit7 = 20
+
+0x2c5db9	
+Missions List Unlocked
+Bit0 = 21
+Bit1 = 22
+Bit2 = 23
+Bit3 = 24
+Bit4 = 25
+Bit5 = 26
+Bit6 = 27
+Bit7 = 28
+
+0x2c5dba	
+Missions List Unlocked
+Bit0 = 29
+Bit1 = 30
+Bit2 = 31
+Bit3 = 32
+Bit4 = 33
+Bit5 = 34
+Bit6 = 35
+Bit7 = 36
+
+0x2c5dbb	
+Missions List Unlocked
+Bit0 = 37
+Bit1 = 38
+Bit2 = 39
+Bit3 = 40
+Bit4 = 41
+Bit5 = 42
+Bit6 = 43
+Bit7 = 44
+
+0x2c5dbc	
+Missions List Unlocked
+Bit0 = 46
+Bit1 = 47
+Bit2 = 48
+Bit3 = 49
+Bit4 = 50
+
+0x2c5dc5	
+Story Images Flag
+Bit4 = 1
+Bit5 = 2
+Bit6 = 3
+Bit7 = 4
+
+0x2c5dc6	
+Story Images Flag
+Bit0 = 5
+
+0x2c5dce	
+Sword Hunting Flag
+Bit2 = Ichigo vs Byakuya
+Bit3 = Rukia vs Byakuya
+Bit4 = Inoue vs Chad
+Bit5 = Chad vs Inoue
+Bit6 = Ishida vs Kurotsuchi
+Bit7 = Yoruichi vs Soi Fon
+
+0x2c5dcf	
+Sword Hunting Flag
+Bit0 = Urahara vs Yoruichi
+Bit1 = Ururu vs Urahara
+Bit2 = Byakuya vs Ichigo
+Bit3 = Renji vs Rukia
+Bit4 = Hitsugaya vs Hinamori
+Bit5 = Matsumoto vs Ikkaku
+Bit6 = Hinamori vs Hitsugaya
+Bit7 = Kenpachi vs Tousen
+
+0x2c5dd0	
+Sword Hunting Flag
+Bit0 = Ikkaku vs Kenpachi
+Bit1 = Soi Fon vs Yoruichi
+Bit2 = Kurotsuchi vs Ishida
+Bit3 = Komamura vs Tousen
+Bit4 = Tousen vs Komamura
+Bit5 = Ichimaru vs Renji
+Bit6 = Aizen vs Ichimaru
+Bit7 = Hollow Ichigo vs Ichigo
+
+0x2c5dd1	
+Sword Hunting Flag
+Bit0 = Kon vs Ichigo
+
+0x2c5deb	
+Special Interviews/demos by the voice actors/actresses of bleach flag
+Bit0 = Masakazu Morita - Ichigo
+Bit1 = Fumiko Orikasa - Rukia
+Bit2 = Shinichiro Miki - Urahara
+Bit3 = Kentarou Itou - Renji
+Bit4 = Romi Paku - Hitsugaya
+Bit5 = Kouji Yusa - Ichimaru
+Bit6 = Sho Hayami - Aizen
+Bit7 = Mitsuaki Madono - Kon
+
+0x2c5dec	
+Secret Movie Flag - Urahara's Shop
+Bit2 = From Sword Hunting - Ichigo vs Byakuya
+Bit3 = From Sword Hunting - Rukia vs Byakuya
+Bit4 = From Sword Hunting - Orihime vs Chad
+
+0x2c5ded	
+Secret Movie Flag - Urahara's Shop
+
+0x2c5dee	
+Secret Movie Flag - Urahara's Shop
+
+0x2c5e20	
+Mission List N°
+
+0x2c5e23	
+Chard ID - Player 1 - Mission List
+
+0x2c5e28	
+Game Mode? - Test
+
+0x2c5e31	
+Chard ID - Player 1 - Customize battle
+00 = Ichigo
+01 = Byakuya
+02 = Ichimaru
+03 = Kenpachi
+04 = Tousen
+05 = Renji
+06 = Urahara
+07 = Komamura
+08 = Yoruichi
+09 = Soi Fon
+0a = Ikkaku
+0b = Kon
+0c = Hitsugaya
+0d = Rukia
+0e = Chad
+0f = Orihime
+10 = Ishida
+11 = Aizen
+12 = Kurotsuchi
+13 = Matsumoto
+14 = Ururu
+15 = Hinamori
+16 = Hollow Ichigo
+
+0x2c5e51	
+Chard ID - Player 1 - Training Mode
+00 = Ichigo
+01 = Byakuya
+02 = Ichimaru
+03 = Kenpachi
+04 = Tousen
+05 = Renji
+06 = Urahara
+07 = Komamura
+08 = Yoruichi
+09 = Soi Fon
+0a = Ikkaku
+0b = Kon
+0c = Hitsugaya
+0d = Rukia
+0e = Chad
+0f = Orihime
+10 = Ishida
+11 = Aizen
+12 = Kurotsuchi
+13 = Matsumoto
+14 = Ururu
+15 = Hinamori
+16 = Hollow Ichigo
+
+0x750524	
+Episode Flag - maybe pointer
+00 = Episode 01
+01 = Episode 02
+02 = Episode 03
+03 = Episode 04
+04 = Episode 05
+
+0x760620	
+Clock - Hours
+
+0x760640	
+Clock - Minutes
+
+0x760660	
+Clock - Seconds - only works in the player screen - urahara shop, pointer
+
+0x760910	
+Special Cutscene?
+
+0x760914	
+Inputs
+
+0x760a62	
+Timer 16 bits
+
+0x760a88	
+Counter - Missions
+
+0x760a91	
+Clone Character - will work correctly in all game modes, but this address is not manipulable
+
+0x760af8	
+Player Pointer 1
++94 - P1 Health
++1F4 - P1 Combo
+
+0x760b90	
+Camera Coord X 32 bits Floating
+
+0x760b98	
+Camera Coord Y 32 bits Floating
+
+0x760bb0	
+Camera Coord Z 32 bits Floating
+
+0x760c98	
+Camera Zoom 32 bits Floating
+
+0x760c9b	
+Camera Zoom
+
+0x762794	
+Player 1 Health Bar - Sword Hunting Mode
+
+0x762798	
+Player 1 Reiatsu Bar - Sword Hunting Mode
+
+0x76279c	
+Player 1 Health Bar with frames - Sword Hunting Mode
+
+0x762a74	
+Player 1 Health Bar - Battle
+
+0x762bd4	
+Combo - Ichigo
+
+0x762bf4	
+Combo - Orihime
+
+0x763254	
+Player 2 Health Bar - Sword Hunting Mode
+
+0x763258	
+Player 2 Reiatsu Bar - Sword Hunting Mode
+
+0x76325c	
+Player 2 Health Bar with frames - Sword Hunting Mode
+
+0x8507d9	
+Real Difficulty Level?
+
+0x854e0a	
+Operator ID - Pointer
+
+0x8551b0	
+Diff ID - Only in menu screen - Pointer
+00 = Normal
+02 = Captain Mode
